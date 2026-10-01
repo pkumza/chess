@@ -1,0 +1,1199 @@
+[Event "Lichess puzzle CtI2H"]
+[Site "https://lichess.org/training/CtI2H"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/R7/8/8/6K1/8/6kq w - - 0 66"]
+[SetUp "1"]
+
+66. Ra1# 1-0
+
+[Event "Lichess puzzle BMNr4"]
+[Site "https://lichess.org/training/BMNr4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "4rk2/8/5K2/8/8/7R/8/8 w - - 23 98"]
+[SetUp "1"]
+
+98. Rh8# 1-0
+
+[Event "Lichess puzzle 4kdlf"]
+[Site "https://lichess.org/training/4kdlf"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "R7/8/8/8/8/2K5/8/2kr4 w - - 74 82"]
+[SetUp "1"]
+
+82. Ra1# 1-0
+
+[Event "Lichess puzzle 2ekIB"]
+[Site "https://lichess.org/training/2ekIB"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/1K6/7R/qk6 w - - 0 74"]
+[SetUp "1"]
+
+74. Rh1# 1-0
+
+[Event "Lichess puzzle 7jc43"]
+[Site "https://lichess.org/training/7jc43"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/6K1/1R6/6kq w - - 0 66"]
+[SetUp "1"]
+
+66. Rb1# 1-0
+
+[Event "Lichess puzzle 5MQS3"]
+[Site "https://lichess.org/training/5MQS3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "2k5/6R1/2K5/8/1r6/8/8/8 w - - 0 95"]
+[SetUp "1"]
+
+95. Rg8# 1-0
+
+[Event "Lichess puzzle DX4LM"]
+[Site "https://lichess.org/training/DX4LM"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3k4/R7/3K4/8/8/8/8/4r3 w - - 34 79"]
+[SetUp "1"]
+
+79. Ra8# 1-0
+
+[Event "Lichess puzzle B2NNH"]
+[Site "https://lichess.org/training/B2NNH"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/2K5/7R/1qk5 w - - 0 65"]
+[SetUp "1"]
+
+65. Rh1# 1-0
+
+[Event "Lichess puzzle 44Joh"]
+[Site "https://lichess.org/training/44Joh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "1r6/8/8/8/8/2K5/7R/2k5 w - - 18 92"]
+[SetUp "1"]
+
+92. Rh1# 1-0
+
+[Event "Lichess puzzle AiuDs"]
+[Site "https://lichess.org/training/AiuDs"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/2K5/R7/2k2r2 w - - 3 75"]
+[SetUp "1"]
+
+75. Ra1# 1-0
+
+[Event "Lichess puzzle 5Rly6"]
+[Site "https://lichess.org/training/5Rly6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/6K1/2R5/6kq w - - 0 61"]
+[SetUp "1"]
+
+61. Rc1# 1-0
+
+[Event "Lichess puzzle 62rvb"]
+[Site "https://lichess.org/training/62rvb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/3K4/R7/3kq3 w - - 0 85"]
+[SetUp "1"]
+
+85. Ra1# 1-0
+
+[Event "Lichess puzzle DVClj"]
+[Site "https://lichess.org/training/DVClj"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/R7/8/8/5K2/7r/6k1 w - - 32 82"]
+[SetUp "1"]
+
+82. Ra1# 1-0
+
+[Event "Lichess puzzle D1Rfg"]
+[Site "https://lichess.org/training/D1Rfg"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7r/8/5K1k/8/8/8/6R1/8 w - - 2 74"]
+[SetUp "1"]
+
+74. Rh2# 1-0
+
+[Event "Lichess puzzle 2rYQq"]
+[Site "https://lichess.org/training/2rYQq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/r5p1/4R1K1/8/6k1 w - - 14 66"]
+[SetUp "1"]
+
+66. Re1# 1-0
+
+[Event "Lichess puzzle Bhuv7"]
+[Site "https://lichess.org/training/Bhuv7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/4R3/8/8/8/5K2/6rp/6k1 w - - 20 80"]
+[SetUp "1"]
+
+80. Re1# 1-0
+
+[Event "Lichess puzzle D5YvG"]
+[Site "https://lichess.org/training/D5YvG"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6k1/8/5KP1/4R3/8/8/8/7q w - - 1 63"]
+[SetUp "1"]
+
+63. Re8# 1-0
+
+[Event "Lichess puzzle 3zJv1"]
+[Site "https://lichess.org/training/3zJv1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/6p1/6rk/2R5/7K/8 w - - 27 70"]
+[SetUp "1"]
+
+70. Rh3# 1-0
+
+[Event "Lichess puzzle 3Lt8K"]
+[Site "https://lichess.org/training/3Lt8K"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6k1/4R3/6Kp/8/8/8/7r/8 w - - 4 71"]
+[SetUp "1"]
+
+71. Re8# 1-0
+
+[Event "Lichess puzzle Cwx3J"]
+[Site "https://lichess.org/training/Cwx3J"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/6R1/1r3p2/5K1k/8/8/8 w - - 1 52"]
+[SetUp "1"]
+
+52. Rh6# 1-0
+
+[Event "Lichess puzzle CEpsC"]
+[Site "https://lichess.org/training/CEpsC"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/3r4/8/5K1k/8/8/3p4/3R4 w - - 2 52"]
+[SetUp "1"]
+
+52. Rh1# 1-0
+
+[Event "Lichess puzzle 8Julq"]
+[Site "https://lichess.org/training/8Julq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3R4/8/8/8/5K2/1r5k/6p1/8 w - - 0 48"]
+[SetUp "1"]
+
+48. Rh8# 1-0
+
+[Event "Lichess puzzle 0Og6f"]
+[Site "https://lichess.org/training/0Og6f"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7k/7B/6K1/8/8/8/8/3q1R2 w - - 0 53"]
+[SetUp "1"]
+
+53. Rf8# 1-0
+
+[Event "Lichess puzzle 70rTN"]
+[Site "https://lichess.org/training/70rTN"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/1p6/1K6/4R3/qk6 w - - 0 80"]
+[SetUp "1"]
+
+80. Re1# 1-0
+
+[Event "Lichess puzzle 2UVpX"]
+[Site "https://lichess.org/training/2UVpX"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "1R6/8/8/8/2K5/k6r/1p6/8 w - - 0 77"]
+[SetUp "1"]
+
+77. Ra8# 1-0
+
+[Event "Lichess puzzle ApTEb"]
+[Site "https://lichess.org/training/ApTEb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "2Q5/8/8/8/k1K5/8/8/1q6 w - - 0 61"]
+[SetUp "1"]
+
+61. Qa6# 1-0
+
+[Event "Lichess puzzle BhrRA"]
+[Site "https://lichess.org/training/BhrRA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/6Q1/5K2/6qk w - - 0 67"]
+[SetUp "1"]
+
+67. Qxg1# 1-0
+
+[Event "Lichess puzzle 00T85"]
+[Site "https://lichess.org/training/00T85"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/4K3/5Q2/1qk5 w - - 6 54"]
+[SetUp "1"]
+
+54. Qd2# 1-0
+
+[Event "Lichess puzzle 3mc1O"]
+[Site "https://lichess.org/training/3mc1O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6Q1/8/5K2/7k/8/8/8/4q3 w - - 4 77"]
+[SetUp "1"]
+
+77. Qg5# 1-0
+
+[Event "Lichess puzzle ADpdf"]
+[Site "https://lichess.org/training/ADpdf"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/4K3/Q7/1qk5 w - - 0 63"]
+[SetUp "1"]
+
+63. Qd2# 1-0
+
+[Event "Lichess puzzle 1N1SD"]
+[Site "https://lichess.org/training/1N1SD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/p7/k1K5/1q4Q1 w - - 0 63"]
+[SetUp "1"]
+
+63. Qxb1# 1-0
+
+[Event "Lichess puzzle BcUcc"]
+[Site "https://lichess.org/training/BcUcc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/4Q3/6p1/7k/8/6K1/2q5 w - - 2 56"]
+[SetUp "1"]
+
+56. Qh3# 1-0
+
+[Event "Lichess puzzle 1jNl1"]
+[Site "https://lichess.org/training/1jNl1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/Q7/2K5/8/pk6/1q6 w - - 2 66"]
+[SetUp "1"]
+
+66. Qc3# 1-0
+
+[Event "Lichess puzzle D5DQh"]
+[Site "https://lichess.org/training/D5DQh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/1Q6/4K1p1/6q1/3k4 w - - 8 63"]
+[SetUp "1"]
+
+63. Qb1# 1-0
+
+[Event "Lichess puzzle DQVPs"]
+[Site "https://lichess.org/training/DQVPs"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/1Q6/3r4/2p1bK2/3k4 w - - 0 91"]
+[SetUp "1"]
+
+91. Qe1# 1-0
+
+[Event "Lichess puzzle 8Xev6"]
+[Site "https://lichess.org/training/8Xev6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/5Q2/6p1/3p2kq/8/6K1 w - - 8 77"]
+[SetUp "1"]
+
+77. Qf2# 1-0
+
+[Event "Lichess puzzle C4F8F"]
+[Site "https://lichess.org/training/C4F8F"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3Q2K1/q7/6pk/8/2p5/8/8/8 w - - 0 62"]
+[SetUp "1"]
+
+62. Qh4# 1-0
+
+[Event "Lichess puzzle 65EcB"]
+[Site "https://lichess.org/training/65EcB"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/4Q2p/8/7k/1P3K2/8/6q1 w - - 6 68"]
+[SetUp "1"]
+
+68. Qxh6# 1-0
+
+[Event "Lichess puzzle Ct19J"]
+[Site "https://lichess.org/training/Ct19J"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/3Q4/8/4p1b1/7k/8/6K1/1q6 w - - 7 63"]
+[SetUp "1"]
+
+63. Qh3# 1-0
+
+[Event "Lichess puzzle 5D4HG"]
+[Site "https://lichess.org/training/5D4HG"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/6pp/4Q2q/7k/8/6K1/8 w - - 10 75"]
+[SetUp "1"]
+
+75. Qg3# 1-0
+
+[Event "Lichess puzzle 3FsA0"]
+[Site "https://lichess.org/training/3FsA0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/K7/8/P7/7Q/2qp4/3k4 w - - 0 74"]
+[SetUp "1"]
+
+74. Qf1# 1-0
+
+[Event "Lichess puzzle 18gFE"]
+[Site "https://lichess.org/training/18gFE"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "4q3/8/k5b1/2QK4/3B4/8/8/8 w - - 6 98"]
+[SetUp "1"]
+
+98. Qb6# 1-0
+
+[Event "Lichess puzzle 6kFAO"]
+[Site "https://lichess.org/training/6kFAO"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "4Q3/8/7k/7P/3q4/1K2p3/8/8 w - - 0 85"]
+[SetUp "1"]
+
+85. Qg6# 1-0
+
+[Event "Lichess puzzle 3OB0O"]
+[Site "https://lichess.org/training/3OB0O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/3Q4/8/5p2/8/4p3/4kq2/2K5 w - - 8 64"]
+[SetUp "1"]
+
+64. Qd1# 1-0
+
+[Event "Lichess puzzle 0u5Sh"]
+[Site "https://lichess.org/training/0u5Sh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/7p/7k/1Q6/7K/P4q2/8/8 w - - 0 51"]
+[SetUp "1"]
+
+51. Qg5# 1-0
+
+[Event "Lichess puzzle 7yoiw"]
+[Site "https://lichess.org/training/7yoiw"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/4Q3/6PK/8/4qk2/5q2 w - - 4 70"]
+[SetUp "1"]
+
+70. Qg3# 1-0
+
+[Event "Lichess puzzle D7HIG"]
+[Site "https://lichess.org/training/D7HIG"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/6pk/5p2/2KQ1P2/6q1/8/8 w - - 0 52"]
+[SetUp "1"]
+
+52. Qh8# 1-0
+
+[Event "Lichess puzzle 3tDIc"]
+[Site "https://lichess.org/training/3tDIc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "5Q2/8/1q4p1/6kp/8/5K2/5P2/8 w - - 3 53"]
+[SetUp "1"]
+
+53. Qf4# 1-0
+
+[Event "Lichess puzzle 4Cssw"]
+[Site "https://lichess.org/training/4Cssw"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/5p2/4pk2/3p4/7K/4Q3/8/5q2 w - - 2 56"]
+[SetUp "1"]
+
+56. Qg5# 1-0
+
+[Event "Lichess puzzle 92VgE"]
+[Site "https://lichess.org/training/92VgE"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "1Q4K1/8/8/2r5/2kq2p1/4R3/8/8 w - - 8 68"]
+[SetUp "1"]
+
+68. Qb3# 1-0
+
+[Event "Lichess puzzle BYPi5"]
+[Site "https://lichess.org/training/BYPi5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "1k6/1P6/1KP5/8/8/8/5r2/8 w - - 0 77"]
+[SetUp "1"]
+
+77. c7# 1-0
+
+[Event "Lichess puzzle DcHYc"]
+[Site "https://lichess.org/training/DcHYc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7k/5K2/6P1/8/4B3/8/8/7q w - - 0 66"]
+[SetUp "1"]
+
+66. g7# 1-0
+
+[Event "Lichess puzzle BRAoL"]
+[Site "https://lichess.org/training/BRAoL"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/1R6/6pk/8/6PK/8/r7 w - - 2 61"]
+[SetUp "1"]
+
+61. g4# 1-0
+
+[Event "Lichess puzzle 28RzL"]
+[Site "https://lichess.org/training/28RzL"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/6RP/8/4K3/8/7k/4p3/5r2 w - - 0 71"]
+[SetUp "1"]
+
+71. h8=Q# 1-0
+
+[Event "Lichess puzzle BHIzD"]
+[Site "https://lichess.org/training/BHIzD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/5R2/pkr5/8/1K6/P7/8 w - - 7 59"]
+[SetUp "1"]
+
+59. a4# 1-0
+
+[Event "Lichess puzzle 7zZnW"]
+[Site "https://lichess.org/training/7zZnW"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3b3k/8/4B1PK/8/p7/1p6/8/8 w - - 0 57"]
+[SetUp "1"]
+
+57. g7# 1-0
+
+[Event "Lichess puzzle 1Sd2F"]
+[Site "https://lichess.org/training/1Sd2F"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "1k6/1P6/PK5p/8/6P1/8/8/7q w - - 0 51"]
+[SetUp "1"]
+
+51. a7# 1-0
+
+[Event "Lichess puzzle 0CCsd"]
+[Site "https://lichess.org/training/0CCsd"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "2k5/7P/2K5/2P2p2/8/7P/8/5q2 w - - 0 52"]
+[SetUp "1"]
+
+52. h8=Q# 1-0
+
+[Event "Lichess puzzle 2GH4Q"]
+[Site "https://lichess.org/training/2GH4Q"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/1kP5/1PR5/8/8/K7/P7/7q w - - 0 51"]
+[SetUp "1"]
+
+51. c8=Q# 1-0
+
+[Event "Lichess puzzle 0abZ0"]
+[Site "https://lichess.org/training/0abZ0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6R1/8/8/7p/7k/4rp2/6PK/8 w - - 0 67"]
+[SetUp "1"]
+
+67. g3# 1-0
+
+[Event "Lichess puzzle 1bJcc"]
+[Site "https://lichess.org/training/1bJcc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7k/8/1q3NK1/4N3/8/8/8/8 w - - 8 61"]
+[SetUp "1"]
+
+61. Nf7# 1-0
+
+[Event "Lichess puzzle 0YMqu"]
+[Site "https://lichess.org/training/0YMqu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "4k3/4P3/4K3/3N4/8/8/8/2q5 w - - 0 64"]
+[SetUp "1"]
+
+64. Nf6# 1-0
+
+[Event "Lichess puzzle CwKl7"]
+[Site "https://lichess.org/training/CwKl7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/4R2p/6p1/6rk/5K2/8/8 w - - 0 43"]
+[SetUp "1"]
+
+43. Rxh6# 1-0
+
+[Event "Lichess puzzle 3GpAW"]
+[Site "https://lichess.org/training/3GpAW"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/4R3/1pp5/kr6/2K5/8/8 w - - 0 45"]
+[SetUp "1"]
+
+45. Ra6# 1-0
+
+[Event "Lichess puzzle CwKnP"]
+[Site "https://lichess.org/training/CwKnP"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7r/8/8/1p6/k7/2K5/7p/7R w - - 6 53"]
+[SetUp "1"]
+
+53. Ra1# 1-0
+
+[Event "Lichess puzzle 5gQSn"]
+[Site "https://lichess.org/training/5gQSn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/7p/5K1k/6p1/8/6Rr w - - 2 56"]
+[SetUp "1"]
+
+56. Rxh1# 1-0
+
+[Event "Lichess puzzle 1hh2J"]
+[Site "https://lichess.org/training/1hh2J"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/6p1/r4p1k/5K2/8/2R5 w - - 0 52"]
+[SetUp "1"]
+
+52. Rh1# 1-0
+
+[Event "Lichess puzzle 41OUC"]
+[Site "https://lichess.org/training/41OUC"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/6pp/6rk/8/5K2/R7 w - - 0 44"]
+[SetUp "1"]
+
+44. Rh1# 1-0
+
+[Event "Lichess puzzle 2Vfqn"]
+[Site "https://lichess.org/training/2Vfqn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/1pR5/4K3/1r6/4kq2 w - - 0 60"]
+[SetUp "1"]
+
+60. Rc1# 1-0
+
+[Event "Lichess puzzle 5JXA1"]
+[Site "https://lichess.org/training/5JXA1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/1r3P1k/1p3K2/1R6/8/8 w - - 0 67"]
+[SetUp "1"]
+
+67. Rh3# 1-0
+
+[Event "Lichess puzzle 97FFE"]
+[Site "https://lichess.org/training/97FFE"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "2R5/1r6/8/k1K5/8/8/8/8 w - - 8 68"]
+[SetUp "1"]
+
+68. Ra8+ Ra7 69. Rxa7# 1-0
+
+[Event "Lichess puzzle 07BVD"]
+[Site "https://lichess.org/training/07BVD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/5K1k/8/6r1/8/8/5R2/8 w - - 2 78"]
+[SetUp "1"]
+
+78. Rh2+ Rh5 79. Rxh5# 1-0
+
+[Event "Lichess puzzle 6B2vQ"]
+[Site "https://lichess.org/training/6B2vQ"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "2k5/7R/2K5/6r1/8/8/8/8 w - - 83 92"]
+[SetUp "1"]
+
+92. Rh8+ Rg8 93. Rxg8# 1-0
+
+[Event "Lichess puzzle 84Pkq"]
+[Site "https://lichess.org/training/84Pkq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/5K1k/8/4r3/8/3R4/8 w - - 0 40"]
+[SetUp "1"]
+
+40. Rh2+ Rh4 41. Rxh4# 1-0
+
+[Event "Lichess puzzle BTIx6"]
+[Site "https://lichess.org/training/BTIx6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/6R1/8/8/8/r7/5K2/7k w - - 17 79"]
+[SetUp "1"]
+
+79. Rh7+ Rh3 80. Rxh3# 1-0
+
+[Event "Lichess puzzle 4Qrzs"]
+[Site "https://lichess.org/training/4Qrzs"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/k1K5/8/8/3r4/8/8/1R6 w - - 60 83"]
+[SetUp "1"]
+
+83. Ra1+ Ra4 84. Rxa4# 1-0
+
+[Event "Lichess puzzle 7Wlzo"]
+[Site "https://lichess.org/training/7Wlzo"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "1R6/8/8/8/8/7r/2K5/k7 w - - 10 65"]
+[SetUp "1"]
+
+65. Ra8+ Ra3 66. Rxa3# 1-0
+
+[Event "Lichess puzzle 9Jbiu"]
+[Site "https://lichess.org/training/9Jbiu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/7q/8/8/6K1/1R6/6k1 w - - 2 70"]
+[SetUp "1"]
+
+70. Rb1+ Qc1 71. Rxc1# 1-0
+
+[Event "Lichess puzzle 9hDJu"]
+[Site "https://lichess.org/training/9hDJu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/k1K5/8/4r3/8/1R6/8 w - - 37 69"]
+[SetUp "1"]
+
+69. Ra2+ Ra4 70. Rxa4# 1-0
+
+[Event "Lichess puzzle 7f14Q"]
+[Site "https://lichess.org/training/7f14Q"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7k/5K2/8/8/8/4r3/8/6R1 w - - 6 78"]
+[SetUp "1"]
+
+78. Rh1+ Rh3 79. Rxh3# 1-0
+
+[Event "Lichess puzzle 04XDG"]
+[Site "https://lichess.org/training/04XDG"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3k4/7R/p2K4/8/8/6r1/8/8 w - - 0 52"]
+[SetUp "1"]
+
+52. Rh8+ Rg8 53. Rxg8# 1-0
+
+[Event "Lichess puzzle 6LqyB"]
+[Site "https://lichess.org/training/6LqyB"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/5nK1/R7/6kq w - - 0 65"]
+[SetUp "1"]
+
+65. Ra1+ Ne1 66. Rxe1# 1-0
+
+[Event "Lichess puzzle 7rtI7"]
+[Site "https://lichess.org/training/7rtI7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/R7/2r5/8/8/6K1/6p1/6k1 w - - 8 57"]
+[SetUp "1"]
+
+57. Ra1+ Rc1 58. Rxc1# 1-0
+
+[Event "Lichess puzzle 0RJRO"]
+[Site "https://lichess.org/training/0RJRO"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6R1/5r2/8/8/8/5p2/5K1k/8 w - - 6 62"]
+[SetUp "1"]
+
+62. Rh8+ Rh7 63. Rxh7# 1-0
+
+[Event "Lichess puzzle 0Zw2D"]
+[Site "https://lichess.org/training/0Zw2D"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/1R6/2r5/2p5/k1K5/8/8 w - - 4 65"]
+[SetUp "1"]
+
+65. Ra6+ Ra5 66. Rxa5# 1-0
+
+[Event "Lichess puzzle AbjPe"]
+[Site "https://lichess.org/training/AbjPe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "5K1k/8/6Pr/8/8/8/8/8 w - - 0 71"]
+[SetUp "1"]
+
+71. g7+ Kh7 72. g8=Q# 1-0
+
+[Event "Lichess puzzle 345YU"]
+[Site "https://lichess.org/training/345YU"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/5KPk/8/8/8/8/8/4q3 w - - 0 65"]
+[SetUp "1"]
+
+65. g8=Q+ Kh6 66. Qg6# 1-0
+
+[Event "Lichess puzzle 69J9r"]
+[Site "https://lichess.org/training/69J9r"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/8/8/8/8/K7/4Q3/kq6 w - - 0 72"]
+[SetUp "1"]
+
+72. Qe5+ Qb2+ 73. Qxb2# 1-0
+
+[Event "Lichess puzzle 3mOIj"]
+[Site "https://lichess.org/training/3mOIj"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3n2k1/6P1/6K1/7P/8/8/8/8 w - - 3 64"]
+[SetUp "1"]
+
+64. h6 Nc6 65. h7# 1-0
+
+[Event "Lichess puzzle A3jPy"]
+[Site "https://lichess.org/training/A3jPy"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/3Q4/8/6pk/5q2/8/6K1/8 w - - 9 70"]
+[SetUp "1"]
+
+70. Qh7+ Kg4 71. Qh3# 1-0
+
+[Event "Lichess puzzle 6tOfh"]
+[Site "https://lichess.org/training/6tOfh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/6K1/8/5q1k/6p1/8/4Q3/8 w - - 0 74"]
+[SetUp "1"]
+
+74. Qh2+ Kg5 75. Qh6# 1-0
+
+[Event "Lichess puzzle CcThi"]
+[Site "https://lichess.org/training/CcThi"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "4Q3/8/8/8/3p4/3K4/8/3k2q1 w - - 4 58"]
+[SetUp "1"]
+
+58. Qe2+ Kc1 59. Qc2# 1-0
+
+[Event "Lichess puzzle 5vjga"]
+[Site "https://lichess.org/training/5vjga"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/6Q1/8/8/6pk/5q2/8/6K1 w - - 10 84"]
+[SetUp "1"]
+
+84. Qh6+ Kg3 85. Qh2# 1-0
+
+[Event "Lichess puzzle 0XJfs"]
+[Site "https://lichess.org/training/0XJfs"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6k1/6P1/1P4K1/p7/8/1p6/8/8 w - - 0 54"]
+[SetUp "1"]
+
+54. b7 b2 55. b8=Q# 1-0
+
+[Event "Lichess puzzle 21A4C"]
+[Site "https://lichess.org/training/21A4C"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "3k4/3P4/3K4/2P5/p7/1n6/8/8 w - - 0 65"]
+[SetUp "1"]
+
+65. c6 a3 66. c7# 1-0
+
+[Event "Lichess puzzle 1LDYI"]
+[Site "https://lichess.org/training/1LDYI"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/5KPk/5P2/8/8/1p6/8/2q5 w - - 0 69"]
+[SetUp "1"]
+
+69. g8=Q+ Kh6 70. Qg6# 1-0
+
+[Event "Lichess puzzle 3Zny0"]
+[Site "https://lichess.org/training/3Zny0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6k1/8/1p4KP/2r5/8/8/8/5R2 w - - 5 65"]
+[SetUp "1"]
+
+65. h7+ Kh8 66. Rf8# 1-0
+
+[Event "Lichess puzzle 5cyUn"]
+[Site "https://lichess.org/training/5cyUn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "6k1/6P1/7P/5K2/p7/2n5/8/8 w - - 1 60"]
+[SetUp "1"]
+
+60. Kg6 a3 61. h7# 1-0
+
+[Event "Lichess puzzle 5cqv8"]
+[Site "https://lichess.org/training/5cqv8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/kp6/5R2/KP6/8/8/8/6r1 w - - 1 67"]
+[SetUp "1"]
+
+67. b6+ Kb8 68. Rf8# 1-0
+
+[Event "Lichess puzzle A5PSv"]
+[Site "https://lichess.org/training/A5PSv"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "8/R6p/7k/5K2/6P1/7r/8/8 w - - 0 51"]
+[SetUp "1"]
+
+51. g5+ Kh5 52. Rxh7# 1-0

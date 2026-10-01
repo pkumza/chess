@@ -1,0 +1,7293 @@
+[
+  {
+    "id": "lichess-e0F5C",
+    "number": 1,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 1",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/8/8/1K6/1q5Q/1k6 w - - 15 90",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h2b2"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 h2 走到 b2。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "e0F5C",
+      "url": "https://lichess.org/training/e0F5C",
+      "gameUrl": "https://lichess.org/JkWxVy0F/black#178",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/3q4/1K6/7Q/1k6 b - - 14 89",
+      "originalMoves": [
+        "d4b2",
+        "h2b2"
+      ],
+      "rating": 451,
+      "popularity": 98,
+      "plays": 1476,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ZwRza",
+    "number": 2,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 2",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "K1R5/8/k1r5/8/8/8/8/8 b - - 7 86",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c6c8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 c6 走到 c8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ZwRza",
+      "url": "https://lichess.org/training/ZwRza",
+      "gameUrl": "https://lichess.org/CPb6jZmp#171",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "KR6/8/k1r5/8/8/8/8/8 w - - 6 86",
+      "originalMoves": [
+        "b8c8",
+        "c6c8"
+      ],
+      "rating": 543,
+      "popularity": 92,
+      "plays": 1359,
+      "themes": [
+        "endgame",
+        "hangingPiece",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-xUBtu",
+    "number": 3,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 3",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "3k4/3P4/3K1p1N/6p1/3n4/7P/8/8 w - - 1 45",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h6f7"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 h6 走到 f7。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "xUBtu",
+      "url": "https://lichess.org/training/xUBtu",
+      "gameUrl": "https://lichess.org/BaRN0L3T/black#88",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3k4/3P4/3K1p1N/6p1/8/7P/4n3/8 b - - 0 44",
+      "originalMoves": [
+        "e2d4",
+        "h6f7"
+      ],
+      "rating": 608,
+      "popularity": 95,
+      "plays": 1234,
+      "themes": [
+        "endgame",
+        "knightEndgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-gkdh0",
+    "number": 4,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 4",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/3k4/7N/2b5/5P2/6P1/P1b5/K7 b - - 0 38",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c5d4"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 c5 走到 d4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "gkdh0",
+      "url": "https://lichess.org/training/gkdh0",
+      "gameUrl": "https://lichess.org/bAYPWb61#75",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3k4/7r/2b2N2/5P2/6P1/P1b5/K7 w - - 0 38",
+      "originalMoves": [
+        "f5h6",
+        "c5d4"
+      ],
+      "rating": 510,
+      "popularity": 91,
+      "plays": 1214,
+      "themes": [
+        "doubleBishopMate",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-nPlWT",
+    "number": 5,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 5",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "k7/1pK4P/1P6/8/8/8/7p/8 w - - 0 55",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h7h8q"
+      ],
+      [
+        "h7h8r"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 h7 走到 h8，升变成后。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "nPlWT",
+      "url": "https://lichess.org/training/nPlWT",
+      "gameUrl": "https://lichess.org/UJjcTsX7/black#108",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "k7/1pK4P/1P6/8/8/6p1/7P/8 b - - 0 54",
+      "originalMoves": [
+        "g3h2",
+        "h7h8q"
+      ],
+      "rating": 510,
+      "popularity": 91,
+      "plays": 1492,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion"
+      ]
+    }
+  },
+  {
+    "id": "lichess-CJOYQ",
+    "number": 6,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 6",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6pk/6rp/3q4/7P/8/6P1/1Q2R2K b - - 0 40",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d5g2"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 d5 走到 g2。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "CJOYQ",
+      "url": "https://lichess.org/training/CJOYQ",
+      "gameUrl": "https://lichess.org/f5qGBLu2#79",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6pk/6rp/3q4/8/7P/6P1/1Q2R2K w - - 4 40",
+      "originalMoves": [
+        "h3h4",
+        "d5g2"
+      ],
+      "rating": 481,
+      "popularity": 92,
+      "plays": 1022,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-YY8hi",
+    "number": 7,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 7",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5k2/2R5/5K2/1r6/8/P1p5/8/8 w - - 0 62",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c7c8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 c7 走到 c8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "YY8hi",
+      "url": "https://lichess.org/training/YY8hi",
+      "gameUrl": "https://lichess.org/tsXArEiw/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5k2/2R5/5K2/1N1r4/8/P1p5/8/8 b - - 2 61",
+      "originalMoves": [
+        "d5b5",
+        "c7c8"
+      ],
+      "rating": 426,
+      "popularity": 100,
+      "plays": 1353,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-lh089",
+    "number": 8,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 8",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7k/8/1p6/8/8/2P2N2/Pr2n2p/R6K b - - 7 42",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "e2g3"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 e2 走到 g3。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "lh089",
+      "url": "https://lichess.org/training/lh089",
+      "gameUrl": "https://lichess.org/2DNlkt2B#83",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7k/8/1p6/4N3/8/2P5/Pr2n2p/R6K w - - 6 42",
+      "originalMoves": [
+        "e5f3",
+        "e2g3"
+      ],
+      "rating": 762,
+      "popularity": 99,
+      "plays": 1040,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-W9CRN",
+    "number": 9,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 9",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/5p2/4kP2/3pP3/1bpP2K1/8/2B5/8 w - - 1 46",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c2f5"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 c2 走到 f5。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "W9CRN",
+      "url": "https://lichess.org/training/W9CRN",
+      "gameUrl": "https://lichess.org/hWa0Zhfl/black#90",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/4kp2/5P2/3pP3/1bpP2K1/8/2B5/8 b - - 0 45",
+      "originalMoves": [
+        "e7e6",
+        "c2f5"
+      ],
+      "rating": 699,
+      "popularity": 91,
+      "plays": 1095,
+      "themes": [
+        "bishopEndgame",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-26ocG",
+    "number": 10,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 10",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5Q2/2p5/8/4p3/4P3/1kp5/1p6/1K6 b - - 0 63",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c3c2"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 c3 走到 c2。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "26ocG",
+      "url": "https://lichess.org/training/26ocG",
+      "gameUrl": "https://lichess.org/vG3d33Ul#125",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2p2P2/8/4p3/4P3/1kp5/1p6/1K6 w - - 0 63",
+      "originalMoves": [
+        "f7f8q",
+        "c3c2"
+      ],
+      "rating": 516,
+      "popularity": 98,
+      "plays": 1766,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-rXcRu",
+    "number": 11,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 11",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5r1k/7p/8/8/1Q6/3q3P/6PK/8 w - - 0 47",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b4f8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 b4 走到 f8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "rXcRu",
+      "url": "https://lichess.org/training/rXcRu",
+      "gameUrl": "https://lichess.org/CMuyM3vG/black#92",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5r1k/7p/8/8/1Q6/3P3P/6PK/3q4 b - - 2 46",
+      "originalMoves": [
+        "d1d3",
+        "b4f8"
+      ],
+      "rating": 510,
+      "popularity": 93,
+      "plays": 1652,
+      "themes": [
+        "endgame",
+        "hangingPiece",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DYT8c",
+    "number": 12,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 12",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5r2/2k5/KR6/PP6/8/8/8/8 b - - 0 58",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f8a8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 f8 走到 a8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DYT8c",
+      "url": "https://lichess.org/training/DYT8c",
+      "gameUrl": "https://lichess.org/mdRUE4po#115",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5r2/2k5/KR6/P7/1P6/8/8/8 w - - 3 58",
+      "originalMoves": [
+        "b4b5",
+        "f8a8"
+      ],
+      "rating": 543,
+      "popularity": 100,
+      "plays": 1389,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-SD9hz",
+    "number": 13,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 13",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/1p6/1Pk1n3/2P2p2/2K3N1/8/8 w - - 0 52",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "g3e4"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 g3 走到 e4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "SD9hz",
+      "url": "https://lichess.org/training/SD9hz",
+      "gameUrl": "https://lichess.org/WgJ76BqJ/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1p6/1Pk1np2/2P5/2K3N1/8/8 b - - 9 51",
+      "originalMoves": [
+        "f5f4",
+        "g3e4"
+      ],
+      "rating": 639,
+      "popularity": 100,
+      "plays": 1042,
+      "themes": [
+        "endgame",
+        "knightEndgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ZnEKf",
+    "number": 14,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 14",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1k6/1p5K/1B4BP/Pb2b3/8/8/8 b - - 0 56",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b4f8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 b4 走到 f8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ZnEKf",
+      "url": "https://lichess.org/training/ZnEKf",
+      "gameUrl": "https://lichess.org/kFhKxKFK#111",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1k6/1p5K/1B4B1/Pb2b2P/8/8/8 w - - 7 56",
+      "originalMoves": [
+        "h4h5",
+        "b4f8"
+      ],
+      "rating": 701,
+      "popularity": 94,
+      "plays": 1071,
+      "themes": [
+        "bishopEndgame",
+        "doubleBishopMate",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-QQaCe",
+    "number": 15,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 15",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "1k6/1P3p2/PPK3p1/7p/8/8/7P/4q3 w - - 0 54",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "a6a7"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 a6 走到 a7。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "QQaCe",
+      "url": "https://lichess.org/training/QQaCe",
+      "gameUrl": "https://lichess.org/q4fCiPnZ/black#106",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1k6/1P3p2/PPK3p1/7p/8/8/4p2P/8 b - - 1 53",
+      "originalMoves": [
+        "e2e1q",
+        "a6a7"
+      ],
+      "rating": 516,
+      "popularity": 94,
+      "plays": 1252,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-QyW1U",
+    "number": 16,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 16",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/3Q4/7k/5p2/5P1K/6P1/8/5q2 b - - 8 59",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f1h1"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 f1 走到 h1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "QyW1U",
+      "url": "https://lichess.org/training/QyW1U",
+      "gameUrl": "https://lichess.org/eHRHBdAE#117",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3Q4/7k/5p2/5P2/6PK/8/5q2 w - - 7 59",
+      "originalMoves": [
+        "h3h4",
+        "f1h1"
+      ],
+      "rating": 545,
+      "popularity": 99,
+      "plays": 1357,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-PJGKH",
+    "number": 17,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 17",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5k2/8/R4Kpp/5p2/8/6P1/8/6r1 w - - 12 56",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "a6a8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 a6 走到 a8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "PJGKH",
+      "url": "https://lichess.org/training/PJGKH",
+      "gameUrl": "https://lichess.org/58vo50RJ/black#110",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5k2/8/R4Kpp/5p2/8/6P1/8/4r3 b - - 11 55",
+      "originalMoves": [
+        "e1g1",
+        "a6a8"
+      ],
+      "rating": 424,
+      "popularity": 100,
+      "plays": 1403,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-mmuye",
+    "number": 18,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 18",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/R7/3n1k2/7B/P1r3PK/7P/8/8 b - - 6 48",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d6f5"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 d6 走到 f5。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "mmuye",
+      "url": "https://lichess.org/training/mmuye",
+      "gameUrl": "https://lichess.org/aJS5yQwR#95",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/R7/3n1kB1/8/P1r3PK/7P/8/8 w - - 5 48",
+      "originalMoves": [
+        "g6h5",
+        "d6f5"
+      ],
+      "rating": 829,
+      "popularity": 97,
+      "plays": 1792,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "pin"
+      ]
+    }
+  },
+  {
+    "id": "lichess-f3MUq",
+    "number": 19,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 19",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7k/3b4/6K1/p1B5/1pB3P1/8/8/2r5 w - - 2 42",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c5d4"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 c5 走到 d4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "f3MUq",
+      "url": "https://lichess.org/training/f3MUq",
+      "gameUrl": "https://lichess.org/ZsBm025L/black#82",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7k/3b4/6K1/p1B5/1pB3P1/8/8/3r4 b - - 1 41",
+      "originalMoves": [
+        "d1c1",
+        "c5d4"
+      ],
+      "rating": 755,
+      "popularity": 95,
+      "plays": 1029,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-u7QkI",
+    "number": 20,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 20",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "Q7/8/5p2/8/8/6k1/5p1p/7K b - - 0 66",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f2f1q"
+      ],
+      [
+        "f2f1r"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 f2 走到 f1，升变成后。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "u7QkI",
+      "url": "https://lichess.org/training/u7QkI",
+      "gameUrl": "https://lichess.org/qXNQnP5i#131",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/P7/5p2/8/8/6k1/5p1p/7K w - - 0 66",
+      "originalMoves": [
+        "a7a8q",
+        "f2f1q"
+      ],
+      "rating": 575,
+      "popularity": 97,
+      "plays": 1536,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-HXjIG",
+    "number": 21,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 21",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/r6p/P4Kpk/5p2/7q/8/7Q/8 w - - 7 49",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h2h4"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 h2 走到 h4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "HXjIG",
+      "url": "https://lichess.org/training/HXjIG",
+      "gameUrl": "https://lichess.org/qWSjVnel/black#96",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/r6p/P4Kpk/5p2/2q5/8/7Q/8 b - - 6 48",
+      "originalMoves": [
+        "c4h4",
+        "h2h4"
+      ],
+      "rating": 576,
+      "popularity": 99,
+      "plays": 1187,
+      "themes": [
+        "endgame",
+        "hangingPiece",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5kAjK",
+    "number": 22,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 22",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/Rp3k1K/P7/5P2/8/1r6 b - - 0 44",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b1h1"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 b1 走到 h1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5kAjK",
+      "url": "https://lichess.org/training/5kAjK",
+      "gameUrl": "https://lichess.org/pndQ3aIw#87",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/Rp3k1K/8/P4P2/8/1r6 w - - 1 44",
+      "originalMoves": [
+        "a3a4",
+        "b1h1"
+      ],
+      "rating": 529,
+      "popularity": 94,
+      "plays": 1544,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5oqH2",
+    "number": 23,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 23",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/7p/5np1/3p1k2/5P2/1N1K2PP/8/8 w - - 1 55",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b3d4"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 b3 走到 d4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5oqH2",
+      "url": "https://lichess.org/training/5oqH2",
+      "gameUrl": "https://lichess.org/Xisx2Tav/black#108",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3n3p/6p1/3p1k2/5P2/1N1K2PP/8/8 b - - 0 54",
+      "originalMoves": [
+        "d7f6",
+        "b3d4"
+      ],
+      "rating": 818,
+      "popularity": 98,
+      "plays": 1104,
+      "themes": [
+        "endgame",
+        "knightEndgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2SL8n",
+    "number": 24,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 24",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/R6P/8/5k2/5PbK/p1b3P1/8/8 b - - 3 54",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c3f6"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 c3 走到 f6。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2SL8n",
+      "url": "https://lichess.org/training/2SL8n",
+      "gameUrl": "https://lichess.org/BqNC7MZF#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/R6P/8/5k2/5Pb1/p1b3PK/8/8 w - - 2 54",
+      "originalMoves": [
+        "h3h4",
+        "c3f6"
+      ],
+      "rating": 716,
+      "popularity": 94,
+      "plays": 1318,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-oqO3s",
+    "number": 25,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 25",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2k5/2P5/p1KP4/P6p/8/5P2/8/6q1 w - - 0 49",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d6d7"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 d6 走到 d7。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "oqO3s",
+      "url": "https://lichess.org/training/oqO3s",
+      "gameUrl": "https://lichess.org/nmzn39Io/black#96",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2k5/2P5/p1KP4/P6p/8/5P2/6p1/8 b - - 0 48",
+      "originalMoves": [
+        "g2g1q",
+        "d6d7"
+      ],
+      "rating": 642,
+      "popularity": 99,
+      "plays": 1299,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-aXq4V",
+    "number": 26,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 26",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "KQ6/2k5/8/1q6/8/8/8/8 b - - 0 63",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b5b8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 b5 走到 b8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "aXq4V",
+      "url": "https://lichess.org/training/aXq4V",
+      "gameUrl": "https://lichess.org/I0SbeVlu#125",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "K7/1Pk5/8/1q6/8/8/8/8 w - - 3 63",
+      "originalMoves": [
+        "b7b8q",
+        "b5b8"
+      ],
+      "rating": 613,
+      "popularity": 96,
+      "plays": 1252,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-jKtsv",
+    "number": 27,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 27",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7R/8/8/k1K5/8/8/8/q7 w - - 0 72",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h8a8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 h8 走到 a8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "jKtsv",
+      "url": "https://lichess.org/training/jKtsv",
+      "gameUrl": "https://lichess.org/qTED26ie/black#142",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7R/8/8/k1K5/8/8/p7/8 b - - 1 71",
+      "originalMoves": [
+        "a2a1q",
+        "h8a8"
+      ],
+      "rating": 503,
+      "popularity": 97,
+      "plays": 1004,
+      "themes": [
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-qQSLi",
+    "number": 28,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 28",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/p2k1p2/P1p2n2/2K5/1PNP4/8/8 b - - 1 54",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f5e3"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 f5 走到 e3。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "qQSLi",
+      "url": "https://lichess.org/training/qQSLi",
+      "gameUrl": "https://lichess.org/N0MLDrnN#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/p2k1p2/P1p2n2/2K5/1P1P4/4N3/8 w - - 0 54",
+      "originalMoves": [
+        "e2c3",
+        "f5e3"
+      ],
+      "rating": 840,
+      "popularity": 96,
+      "plays": 1012,
+      "themes": [
+        "endgame",
+        "knightEndgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-MqM8r",
+    "number": 29,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 29",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7k/4BK1p/4p3/2p1P3/5P2/p1r5/8/8 w - - 0 47",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "e7f6"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 e7 走到 f6。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "MqM8r",
+      "url": "https://lichess.org/training/MqM8r",
+      "gameUrl": "https://lichess.org/9Alpsyyr/black#92",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7k/4BK1p/4p3/2p1P3/p4P2/2r5/8/8 b - - 0 46",
+      "originalMoves": [
+        "a4a3",
+        "e7f6"
+      ],
+      "rating": 793,
+      "popularity": 99,
+      "plays": 1832,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-jDFee",
+    "number": 30,
+    "chapter": "01 · 观察热身",
+    "title": "小挑战 30",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/QP6/6k1/8/P3p3/8/3p1PP1/5K2 b - - 0 48",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d2d1q"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 d2 走到 d1，升变成后。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "jDFee",
+      "url": "https://lichess.org/training/jDFee",
+      "gameUrl": "https://lichess.org/JWY6mUIl#95",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/QP6/6k1/8/P3p3/8/3p1PP1/5qK1 w - - 0 48",
+      "originalMoves": [
+        "g1f1",
+        "d2d1q"
+      ],
+      "rating": 585,
+      "popularity": 93,
+      "plays": 1241,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-H6QrJ",
+    "number": 31,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 31",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "4R3/4r1pp/8/4k3/8/8/4n1K1/8 w - - 3 35",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e8e7",
+        "e5f4",
+        "e7e2"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试车从 e8 走到 e7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "H6QrJ",
+      "url": "https://lichess.org/training/H6QrJ",
+      "gameUrl": "https://lichess.org/ZRKMVxjQ/black#68",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4R3/5rpp/8/4k3/8/8/4n1K1/8 b - - 2 34",
+      "originalMoves": [
+        "f7e7",
+        "e8e7",
+        "e5f4",
+        "e7e2"
+      ],
+      "rating": 660,
+      "popularity": 96,
+      "plays": 1097,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-8wC4T",
+    "number": 32,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 32",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "R7/8/8/3K4/n7/p1k5/8/8 b - - 1 57",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a4b6",
+        "d5e6",
+        "b6a8"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 a4 走到 b6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "8wC4T",
+      "url": "https://lichess.org/training/8wC4T",
+      "gameUrl": "https://lichess.org/UAbr8Qjz#113",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1R6/8/8/3K4/n7/p1k5/8/8 w - - 0 57",
+      "originalMoves": [
+        "b8a8",
+        "a4b6",
+        "d5e6",
+        "b6a8"
+      ],
+      "rating": 629,
+      "popularity": 94,
+      "plays": 1319,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-KM0Nq",
+    "number": 33,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 33",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/1P6/4k3/2K4p/5p2/7P/8 w - - 0 49",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b6b7",
+        "f3f2",
+        "b7b8q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试兵从 b6 走到 b7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "KM0Nq",
+      "url": "https://lichess.org/training/KM0Nq",
+      "gameUrl": "https://lichess.org/tmccnY9c/black#96",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1P6/4k3/2K2p1p/8/7P/8 b - - 0 48",
+      "originalMoves": [
+        "f4f3",
+        "b6b7",
+        "f3f2",
+        "b7b8q"
+      ],
+      "rating": 604,
+      "popularity": 100,
+      "plays": 15830,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "master",
+        "pawnEndgame",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-l4jm3",
+    "number": 34,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 34",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "1Q1q4/K1k5/P7/8/8/8/8/8 b - - 0 64",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d8b8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 d8 走到 b8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "l4jm3",
+      "url": "https://lichess.org/training/l4jm3",
+      "gameUrl": "https://lichess.org/oRdFrW2f#127",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3q4/KPk5/P7/8/8/8/8/8 w - - 1 64",
+      "originalMoves": [
+        "b7b8q",
+        "d8b8"
+      ],
+      "rating": 604,
+      "popularity": 94,
+      "plays": 1239,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-xozjW",
+    "number": 35,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 35",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/6p1/r6p/PP6/1k4K1/8/8 w - - 1 57",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b4a5",
+        "b3b4",
+        "a5a6"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试兵从 b4 走到 a5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "xozjW",
+      "url": "https://lichess.org/training/xozjW",
+      "gameUrl": "https://lichess.org/4hWINq0o/black#112",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6p1/r6p/PP6/2k3K1/8/8 b - - 0 56",
+      "originalMoves": [
+        "c3b3",
+        "b4a5",
+        "b3b4",
+        "a5a6"
+      ],
+      "rating": 669,
+      "popularity": 96,
+      "plays": 1157,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-KY2F8",
+    "number": 36,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 36",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/R1p5/3b2k1/8/8/8/5KP1/8 b - - 2 57",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d6c5",
+        "f2f3",
+        "c5a7"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试象从 d6 走到 c5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "KY2F8",
+      "url": "https://lichess.org/training/KY2F8",
+      "gameUrl": "https://lichess.org/5vNKk3Wv#113",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2p5/3b2k1/R7/8/8/5KP1/8 w - - 1 57",
+      "originalMoves": [
+        "a5a7",
+        "d6c5",
+        "f2f3",
+        "c5a7"
+      ],
+      "rating": 671,
+      "popularity": 94,
+      "plays": 1164,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-NaIen",
+    "number": 37,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 37",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/2P5/3Kr3/5k2/8/8/8/8 w - - 0 68",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d6d7",
+        "e6e4",
+        "c7c8q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试王从 d6 走到 d7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "NaIen",
+      "url": "https://lichess.org/training/NaIen",
+      "gameUrl": "https://lichess.org/SLOnCI9p/black#134",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2P5/3KP3/5k2/8/4r3/8/8 b - - 0 67",
+      "originalMoves": [
+        "e3e6",
+        "d6d7",
+        "e6e4",
+        "c7c8q"
+      ],
+      "rating": 806,
+      "popularity": 95,
+      "plays": 2071,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "promotion",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-gfzqV",
+    "number": 38,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 38",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7r/8/K1k5/8/1R6/P7/8/8 b - - 6 68",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h8a8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 h8 走到 a8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "gfzqV",
+      "url": "https://lichess.org/training/gfzqV",
+      "gameUrl": "https://lichess.org/u3X7PoSM#135",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7r/8/2k5/K7/1R6/P7/8/8 w - - 5 68",
+      "originalMoves": [
+        "a5a6",
+        "h8a8"
+      ],
+      "rating": 611,
+      "popularity": 94,
+      "plays": 1114,
+      "themes": [
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-kN6yP",
+    "number": 39,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 39",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/7q/6KP/8/6k1/8/8/8 w - - 9 77",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g6h7",
+        "g4h5",
+        "h7g7"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试王从 g6 走到 h7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "kN6yP",
+      "url": "https://lichess.org/training/kN6yP",
+      "gameUrl": "https://lichess.org/kQPjfS8S/black#152",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2q5/6KP/8/6k1/8/8/8 b - - 8 76",
+      "originalMoves": [
+        "c7h7",
+        "g6h7",
+        "g4h5",
+        "h7g7"
+      ],
+      "rating": 762,
+      "popularity": 95,
+      "plays": 1094,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "hangingPiece",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3BboP",
+    "number": 40,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 40",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/p2r1k2/4p1p1/2Q1K2p/8/8/P5P1/8 b - - 2 47",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d7d5",
+        "c5d5",
+        "e6d5"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试车从 d7 走到 d5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3BboP",
+      "url": "https://lichess.org/training/3BboP",
+      "gameUrl": "https://lichess.org/ufM5zh6F#93",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/p2r1k2/4p1p1/2Q4p/3K4/8/P5P1/8 w - - 1 47",
+      "originalMoves": [
+        "d4e5",
+        "d7d5",
+        "c5d5",
+        "e6d5"
+      ],
+      "rating": 609,
+      "popularity": 98,
+      "plays": 1305,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-wUUnD",
+    "number": 41,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 41",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/P5r1/1K6/8/5k2/8/8/R5q1 w - - 0 62",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a1g1",
+        "g7g1",
+        "a7a8q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试车从 a1 走到 g1。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "wUUnD",
+      "url": "https://lichess.org/training/wUUnD",
+      "gameUrl": "https://lichess.org/MI86BTaW/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/P5r1/1K6/8/5k2/8/6p1/R7 b - - 0 61",
+      "originalMoves": [
+        "g2g1q",
+        "a1g1",
+        "g7g1",
+        "a7a8q"
+      ],
+      "rating": 853,
+      "popularity": 95,
+      "plays": 1977,
+      "themes": [
+        "advancedPawn",
+        "advantage",
+        "endgame",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-R8oRd",
+    "number": 42,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 42",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2Q5/8/8/1P6/1P4p1/4kp2/4p2P/4K3 b - - 0 54",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f3f2"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 f3 走到 f2。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "R8oRd",
+      "url": "https://lichess.org/training/R8oRd",
+      "gameUrl": "https://lichess.org/q2hO8Mun#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2P5/8/1P6/1P4p1/4kp2/4p2P/4K3 w - - 2 54",
+      "originalMoves": [
+        "c7c8q",
+        "f3f2"
+      ],
+      "rating": 635,
+      "popularity": 98,
+      "plays": 1185,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-oRZm4",
+    "number": 43,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 43",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7n/7P/8/8/2N2P2/5K2/kp1b4/8 w - - 4 64",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c4d2",
+        "b2b1r",
+        "d2b1"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试马从 c4 走到 d2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "oRZm4",
+      "url": "https://lichess.org/training/oRZm4",
+      "gameUrl": "https://lichess.org/eLjxBDkW/black#126",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7n/7P/8/8/2N2P2/5K2/1p1b4/1k6 b - - 3 63",
+      "originalMoves": [
+        "b1a2",
+        "c4d2",
+        "b2b1r",
+        "d2b1"
+      ],
+      "rating": 741,
+      "popularity": 99,
+      "plays": 1417,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-fw6z6",
+    "number": 44,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 44",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/6p1/1pk2p2/5P1P/N1K5/8/8 b - - 0 46",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b5b4",
+        "c3b3",
+        "b4a3"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试兵从 b5 走到 b4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "fw6z6",
+      "url": "https://lichess.org/training/fw6z6",
+      "gameUrl": "https://lichess.org/dxDNIydz#91",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6p1/1pk2p2/5P1P/p1K5/2N5/8 w - - 0 46",
+      "originalMoves": [
+        "c2a3",
+        "b5b4",
+        "c3b3",
+        "b4a3"
+      ],
+      "rating": 650,
+      "popularity": 93,
+      "plays": 1398,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "knightEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-RQqjL",
+    "number": 45,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 45",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1KP5/2r3p1/6k1/7p/8/8/8 w - - 0 53",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b7c6",
+        "h4h3",
+        "c7c8q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试王从 b7 走到 c6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "RQqjL",
+      "url": "https://lichess.org/training/RQqjL",
+      "gameUrl": "https://lichess.org/1t5Ti1mq/black#104",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1KP5/2R3p1/6k1/2r4p/8/8/8 b - - 3 52",
+      "originalMoves": [
+        "c4c6",
+        "b7c6",
+        "h4h3",
+        "c7c8q"
+      ],
+      "rating": 841,
+      "popularity": 96,
+      "plays": 1830,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-WlXc8",
+    "number": 46,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 46",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "6Q1/8/8/8/8/4kp2/1r6/5K2 b - - 0 67",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b2b1"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 b2 走到 b1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "WlXc8",
+      "url": "https://lichess.org/training/WlXc8",
+      "gameUrl": "https://lichess.org/QGRquvF9#133",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6P1/8/8/8/4kp2/1r6/5K2 w - - 0 67",
+      "originalMoves": [
+        "g7g8q",
+        "b2b1"
+      ],
+      "rating": 651,
+      "popularity": 100,
+      "plays": 1287,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ZZ5FA",
+    "number": 47,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 47",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "r7/7K/kp6/3Q4/8/8/8/q7 w - - 5 65",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d5a8",
+        "a6b5",
+        "a8a1"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试后从 d5 走到 a8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ZZ5FA",
+      "url": "https://lichess.org/training/ZZ5FA",
+      "gameUrl": "https://lichess.org/ZtryyH7J/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "r7/1k5K/1p6/3Q4/8/8/8/q7 b - - 4 64",
+      "originalMoves": [
+        "b7a6",
+        "d5a8",
+        "a6b5",
+        "a8a1"
+      ],
+      "rating": 801,
+      "popularity": 95,
+      "plays": 1282,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-yjZcB",
+    "number": 48,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 48",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/3n1R2/1pk5/8/2K5/8/8 b - - 0 49",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d6e4",
+        "c3b2",
+        "e4f6"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 d6 走到 e4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "yjZcB",
+      "url": "https://lichess.org/training/yjZcB",
+      "gameUrl": "https://lichess.org/Sqntm53E#97",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5R2/3n1p2/1pk5/8/2K5/8/8 w - - 2 49",
+      "originalMoves": [
+        "f7f6",
+        "d6e4",
+        "c3b2",
+        "e4f6"
+      ],
+      "rating": 613,
+      "popularity": 90,
+      "plays": 1366,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "masterVsMaster",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-yrOm8",
+    "number": 49,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 49",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/P2n4/3k4/5K2/8/8/8 w - - 1 90",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a6a7",
+        "d6c4",
+        "a7a8q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试兵从 a6 走到 a7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "yrOm8",
+      "url": "https://lichess.org/training/yrOm8",
+      "gameUrl": "https://lichess.org/qTkn09vt/black#178",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1n6/P7/3k4/5K2/8/8/8 b - - 0 89",
+      "originalMoves": [
+        "b7d6",
+        "a6a7",
+        "d6c4",
+        "a7a8q"
+      ],
+      "rating": 658,
+      "popularity": 91,
+      "plays": 1197,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "knightEndgame",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-6YdWz",
+    "number": 50,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 50",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "6k1/6p1/8/8/8/4pq2/2Q3NP/7K b - - 0 41",
+    "goal": "黑方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f3f1"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 f3 走到 f1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "6YdWz",
+      "url": "https://lichess.org/training/6YdWz",
+      "gameUrl": "https://lichess.org/gOEprkfl#81",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/6p1/8/8/8/4pq2/2p3NP/2Q4K w - - 0 41",
+      "originalMoves": [
+        "c1c2",
+        "f3f1"
+      ],
+      "rating": 606,
+      "popularity": 99,
+      "plays": 1227,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-squL1",
+    "number": 51,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 51",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/5Bp1/3k2P1/8/4pK2/1r6 w - - 2 61",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f5b1",
+        "e2e1r",
+        "f2e1"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试象从 f5 走到 b1。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "squL1",
+      "url": "https://lichess.org/training/squL1",
+      "gameUrl": "https://lichess.org/KsH99hlC/black#120",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/5Bp1/3k2P1/8/1r2pK2/8 b - - 1 60",
+      "originalMoves": [
+        "b2b1",
+        "f5b1",
+        "e2e1r",
+        "f2e1"
+      ],
+      "rating": 807,
+      "popularity": 94,
+      "plays": 1100,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-dV57k",
+    "number": 52,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 52",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/p1K5/kp6/r7/8/2Q5/8 b - - 30 76",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a4c4",
+        "c2c4",
+        "b5c4"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试车从 a4 走到 c4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "dV57k",
+      "url": "https://lichess.org/training/dV57k",
+      "gameUrl": "https://lichess.org/65Bb06ll#151",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/p7/kp1K4/r7/8/2Q5/8 w - - 29 76",
+      "originalMoves": [
+        "d5c6",
+        "a4c4",
+        "c2c4",
+        "b5c4"
+      ],
+      "rating": 691,
+      "popularity": 96,
+      "plays": 1036,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-qH7i2",
+    "number": 53,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 53",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/5pKP/2k2Q2/8/6P1/8/1qp5/8 b - - 2 59",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b2f6",
+        "g7f6",
+        "c2c1q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试后从 b2 走到 f6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "qH7i2",
+      "url": "https://lichess.org/training/qH7i2",
+      "gameUrl": "https://lichess.org/kGUv9yZY#117",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5pKP/2k5/5Q2/6P1/8/1qp5/8 w - - 1 59",
+      "originalMoves": [
+        "f5f6",
+        "b2f6",
+        "g7f6",
+        "c2c1q"
+      ],
+      "rating": 731,
+      "popularity": 97,
+      "plays": 1480,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "master",
+        "promotion",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-B6HXQ",
+    "number": 54,
+    "chapter": "02 · 发现机会",
+    "title": "小挑战 54",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "6rk/1p4pp/8/p4pN1/8/6PK/7P/8 w - - 0 40",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "g5f7"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 g5 走到 f7。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "B6HXQ",
+      "url": "https://lichess.org/training/B6HXQ",
+      "gameUrl": "https://lichess.org/o8e9nfvD/black#78",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6rk/1p4pp/6p1/p4QN1/8/6PK/7P/8 b - - 0 39",
+      "originalMoves": [
+        "g6f5",
+        "g5f7"
+      ],
+      "rating": 610,
+      "popularity": 92,
+      "plays": 1977,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "smotheredMate"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Zfmdb",
+    "number": 55,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 55",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/4p1k1/4Pp2/5Pr1/8/5K2/6R1 b - - 3 63",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g4g1",
+        "f2g1",
+        "g6h5"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试车从 g4 走到 g1。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Zfmdb",
+      "url": "https://lichess.org/training/Zfmdb",
+      "gameUrl": "https://lichess.org/uIJUDCsH#125",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4p1k1/4Pp2/5Pr1/8/5K2/7R w - - 2 63",
+      "originalMoves": [
+        "h1g1",
+        "g4g1",
+        "f2g1",
+        "g6h5"
+      ],
+      "rating": 701,
+      "popularity": 100,
+      "plays": 1144,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-usoSp",
+    "number": 56,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 56",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/bK6/P7/k7/8/8/8/8 w - - 8 60",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b7a7",
+        "a5b5",
+        "a7b7"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试王从 b7 走到 a7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "usoSp",
+      "url": "https://lichess.org/training/usoSp",
+      "gameUrl": "https://lichess.org/Af65nmyF/black#118",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/bK6/P7/8/1k6/8/8/8 b - - 7 59",
+      "originalMoves": [
+        "b4a5",
+        "b7a7",
+        "a5b5",
+        "a7b7"
+      ],
+      "rating": 781,
+      "popularity": 97,
+      "plays": 1198,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "hangingPiece",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-mtCHQ",
+    "number": 57,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 57",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5b2/1Q3Pk1/8/8/4K3/1n6/8/8 b - - 4 86",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b3c5",
+        "e4e5",
+        "c5b7"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 b3 走到 c5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "mtCHQ",
+      "url": "https://lichess.org/training/mtCHQ",
+      "gameUrl": "https://lichess.org/T9eOthbf#171",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "Q4b2/5Pk1/8/8/4K3/1n6/8/8 w - - 3 86",
+      "originalMoves": [
+        "a8b7",
+        "b3c5",
+        "e4e5",
+        "c5b7"
+      ],
+      "rating": 707,
+      "popularity": 96,
+      "plays": 1899,
+      "themes": [
+        "advantage",
+        "endgame",
+        "fork",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-h67ew",
+    "number": 58,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 58",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/p7/k1K5/1p5r/8/8/6R1/8 w - - 0 46",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "g2a2"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试车从 g2 走到 a2。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "h67ew",
+      "url": "https://lichess.org/training/h67ew",
+      "gameUrl": "https://lichess.org/qK1EHaMU/black#90",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/p7/kpK5/7r/8/8/6R1/8 b - - 9 45",
+      "originalMoves": [
+        "b6b5",
+        "g2a2"
+      ],
+      "rating": 728,
+      "popularity": 98,
+      "plays": 1638,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-hRwcb",
+    "number": 59,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 59",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/5K1p/4Q3/1p6/1Pk5/P7/3q4 b - - 1 58",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d1d4",
+        "e5d4",
+        "c3d4"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试后从 d1 走到 d4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "hRwcb",
+      "url": "https://lichess.org/training/hRwcb",
+      "gameUrl": "https://lichess.org/Orp3twmJ#115",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4Q3/8/5K1p/8/1p6/1Pk5/P7/3q4 w - - 0 58",
+      "originalMoves": [
+        "e8e5",
+        "d1d4",
+        "e5d4",
+        "c3d4"
+      ],
+      "rating": 703,
+      "popularity": 91,
+      "plays": 1056,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-4rKyz",
+    "number": 60,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 60",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/4K3/5r2/5k2/8/R4n2 w - - 30 78",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a1f1",
+        "f3e2",
+        "f1f4"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试车从 a1 走到 f1。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "4rKyz",
+      "url": "https://lichess.org/training/4rKyz",
+      "gameUrl": "https://lichess.org/7FmQTMtY/black#154",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/4K3/5r2/4nk2/8/R7 b - - 29 77",
+      "originalMoves": [
+        "e3f1",
+        "a1f1",
+        "f3e2",
+        "f1f4"
+      ],
+      "rating": 791,
+      "popularity": 99,
+      "plays": 1225,
+      "themes": [
+        "crushing",
+        "deflection",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "masterVsMaster",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2ftjh",
+    "number": 61,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 61",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/3k4/1K1p4/3P2p1/5b2/8/8/6R1 b - - 34 87",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f4e3",
+        "b6b5",
+        "e3g1"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试象从 f4 走到 e3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2ftjh",
+      "url": "https://lichess.org/training/2ftjh",
+      "gameUrl": "https://lichess.org/5VnoAsNq#173",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3k4/3p4/1K1P2p1/5b2/8/8/6R1 w - - 33 87",
+      "originalMoves": [
+        "b5b6",
+        "f4e3",
+        "b6b5",
+        "e3g1"
+      ],
+      "rating": 704,
+      "popularity": 100,
+      "plays": 1174,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ee4tt",
+    "number": 62,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 62",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "1Q6/8/6pk/6q1/8/3KP3/8/8 w - - 6 64",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b8h8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 b8 走到 h8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ee4tt",
+      "url": "https://lichess.org/training/ee4tt",
+      "gameUrl": "https://lichess.org/RdKPpnNV/black#126",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1Q6/8/6pk/8/8/3KP3/6q1/8 b - - 5 63",
+      "originalMoves": [
+        "g2g5",
+        "b8h8"
+      ],
+      "rating": 733,
+      "popularity": 99,
+      "plays": 1549,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-F27pP",
+    "number": 63,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 63",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2r5/8/8/4Rkpp/3K4/5P2/7P/8 b - - 3 64",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f5f4",
+        "e5e4",
+        "f4f3"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试王从 f5 走到 f4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "F27pP",
+      "url": "https://lichess.org/training/F27pP",
+      "gameUrl": "https://lichess.org/B6QMA7oA#127",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2r5/8/8/5kpp/3K4/5P2/7P/4R3 w - - 2 64",
+      "originalMoves": [
+        "e1e5",
+        "f5f4",
+        "e5e4",
+        "f4f3"
+      ],
+      "rating": 806,
+      "popularity": 94,
+      "plays": 1152,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-KX3aH",
+    "number": 64,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 64",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "B7/8/2p2kp1/1p3p1p/1n5P/2P1K3/8/8 w - - 0 44",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c3b4",
+        "c6c5",
+        "b4c5"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试兵从 c3 走到 b4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "KX3aH",
+      "url": "https://lichess.org/training/KX3aH",
+      "gameUrl": "https://lichess.org/MFl5psjU/black#86",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "B7/8/2p2kp1/1p3p1p/1P5P/2PnK3/8/8 b - - 6 43",
+      "originalMoves": [
+        "d3b4",
+        "c3b4",
+        "c6c5",
+        "b4c5"
+      ],
+      "rating": 720,
+      "popularity": 95,
+      "plays": 1396,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-LiEGg",
+    "number": 65,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 65",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/1r6/k4P2/p5P1/Q5K1/8 b - - 0 43",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b5b2",
+        "a2b2",
+        "a3b2"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试车从 b5 走到 b2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "LiEGg",
+      "url": "https://lichess.org/training/LiEGg",
+      "gameUrl": "https://lichess.org/vXYpBZdq#85",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/1r6/k7/p5P1/Q4PK1/8 w - - 5 43",
+      "originalMoves": [
+        "f2f4",
+        "b5b2",
+        "a2b2",
+        "a3b2"
+      ],
+      "rating": 741,
+      "popularity": 90,
+      "plays": 1314,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-oHmQv",
+    "number": 66,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 66",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "4r2k/5P1p/4K2P/8/8/8/8/8 w - - 0 73",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f7e8q"
+      ],
+      [
+        "f7e8r"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试兵从 f7 走到 e8，升变成后。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "oHmQv",
+      "url": "https://lichess.org/training/oHmQv",
+      "gameUrl": "https://lichess.org/vspGX7Fb/black#144",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "r3R2k/5P1p/4K2P/8/8/8/8/8 b - - 2 72",
+      "originalMoves": [
+        "a8e8",
+        "f7e8q"
+      ],
+      "rating": 726,
+      "popularity": 97,
+      "plays": 1266,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion"
+      ]
+    }
+  },
+  {
+    "id": "lichess-yhZqE",
+    "number": 67,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 67",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2Q5/3bN3/8/7p/3p4/3K2k1/8/8 b - - 0 55",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d7c8",
+        "e7c8",
+        "h5h4"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试象从 d7 走到 c8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "yhZqE",
+      "url": "https://lichess.org/training/yhZqE",
+      "gameUrl": "https://lichess.org/6NXMnPcT#109",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2PbN3/8/7p/3p4/3K2k1/8/8 w - - 4 55",
+      "originalMoves": [
+        "c7c8q",
+        "d7c8",
+        "e7c8",
+        "h5h4"
+      ],
+      "rating": 835,
+      "popularity": 95,
+      "plays": 1943,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-yX6PO",
+    "number": 68,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 68",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/1p6/1b4K1/p6P/Nk6/6P1/8 w - - 6 63",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a3b5",
+        "a4a3",
+        "b5a3"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试马从 a3 走到 b5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "yX6PO",
+      "url": "https://lichess.org/training/yX6PO",
+      "gameUrl": "https://lichess.org/nSGljQu4/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1p6/1b4K1/p6P/N1k5/6P1/8 b - - 5 62",
+      "originalMoves": [
+        "c3b3",
+        "a3b5",
+        "a4a3",
+        "b5a3"
+      ],
+      "rating": 845,
+      "popularity": 95,
+      "plays": 1198,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-D2xXa",
+    "number": 69,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 69",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "4k3/8/RP6/5p2/4bP2/8/8/5Kb1 b - - 4 54",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e4d3",
+        "f1g1",
+        "d3a6"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试象从 e4 走到 d3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "D2xXa",
+      "url": "https://lichess.org/training/D2xXa",
+      "gameUrl": "https://lichess.org/d5aWykz6#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4k3/8/RP6/5p2/4bP2/8/4K3/6b1 w - - 3 54",
+      "originalMoves": [
+        "e2f1",
+        "e4d3",
+        "f1g1",
+        "d3a6"
+      ],
+      "rating": 709,
+      "popularity": 97,
+      "plays": 1839,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-75CFH",
+    "number": 70,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 70",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "6rk/p5pp/7N/4P3/8/2P5/1q4PK/8 w - - 0 40",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "h6f7"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试马从 h6 走到 f7。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "75CFH",
+      "url": "https://lichess.org/training/75CFH",
+      "gameUrl": "https://lichess.org/HkoI4xHp/black#78",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5rQk/p5pp/7N/4P3/8/2P5/1q4PK/8 b - - 7 39",
+      "originalMoves": [
+        "f8g8",
+        "h6f7"
+      ],
+      "rating": 700,
+      "popularity": 92,
+      "plays": 1533,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "smotheredMate"
+      ]
+    }
+  },
+  {
+    "id": "lichess-FPDEh",
+    "number": 71,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 71",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/1p2pp2/7R/5kp1/PP6/4K3 b - - 2 49",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g3g2",
+        "h4h3",
+        "f3g4"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试兵从 g3 走到 g2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "FPDEh",
+      "url": "https://lichess.org/training/FPDEh",
+      "gameUrl": "https://lichess.org/8Ox71GC0#97",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/1p2pp2/7R/5kp1/PP6/3K4 w - - 1 49",
+      "originalMoves": [
+        "d1e1",
+        "g3g2",
+        "h4h3",
+        "f3g4"
+      ],
+      "rating": 808,
+      "popularity": 95,
+      "plays": 1577,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-4rQ7F",
+    "number": 72,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 72",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1p6/p1k5/2p5/3p4/1P1K2r1/P1PR3r/4B3 w - - 6 42",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e1g3",
+        "h2d2",
+        "d3d2"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试象从 e1 走到 g3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "4rQ7F",
+      "url": "https://lichess.org/training/4rQ7F",
+      "gameUrl": "https://lichess.org/sy8k0xmr/black#82",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1p6/p1k5/2p5/3p4/1P1K4/P1PR2rr/4B3 b - - 5 41",
+      "originalMoves": [
+        "g2g3",
+        "e1g3",
+        "h2d2",
+        "d3d2"
+      ],
+      "rating": 753,
+      "popularity": 98,
+      "plays": 3142,
+      "themes": [
+        "advantage",
+        "endgame",
+        "hangingPiece",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-e840E",
+    "number": 73,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 73",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/1k6/1pn5/pK3Q2/8/8/8 b - - 5 46",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c5d3",
+        "b4c3",
+        "d3f4"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 c5 走到 d3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "e840E",
+      "url": "https://lichess.org/training/e840E",
+      "gameUrl": "https://lichess.org/z58DZn1K#91",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1k6/1pn5/p4Q2/K7/8/8 w - - 4 46",
+      "originalMoves": [
+        "a3b4",
+        "c5d3",
+        "b4c3",
+        "d3f4"
+      ],
+      "rating": 709,
+      "popularity": 95,
+      "plays": 1055,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-zXRfV",
+    "number": 74,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 74",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5r1k/p4P1p/1p6/6p1/P7/7P/5BK1/8 w - - 1 33",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f2d4"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试象从 f2 走到 d4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "zXRfV",
+      "url": "https://lichess.org/training/zXRfV",
+      "gameUrl": "https://lichess.org/POA5gJii/black#64",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "r6k/p4P1p/1p6/6p1/P7/7P/5BK1/8 b - - 0 32",
+      "originalMoves": [
+        "a8f8",
+        "f2d4"
+      ],
+      "rating": 721,
+      "popularity": 98,
+      "plays": 1299,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Iwy0n",
+    "number": 75,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 75",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/3K4/3Q4/6p1/8/n1r5/3k4/8 b - - 5 67",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c3d3",
+        "d7e7",
+        "d3d6"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试车从 c3 走到 d3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Iwy0n",
+      "url": "https://lichess.org/training/Iwy0n",
+      "gameUrl": "https://lichess.org/GtEJTpGC#133",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3K4/1Q6/6p1/8/n1r5/3k4/8 w - - 4 67",
+      "originalMoves": [
+        "b6d6",
+        "c3d3",
+        "d7e7",
+        "d3d6"
+      ],
+      "rating": 763,
+      "popularity": 93,
+      "plays": 2033,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "master",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-njAvZ",
+    "number": 76,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 76",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1Q6/3p3p/8/2k5/6PK/pq5P/8 w - - 0 45",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b7b2",
+        "a2a1q",
+        "b2a1"
+      ]
+    ],
+    "hints": [
+      "观察对手哪些棋子缺少保护。吃子前，也看看会不会被吃回来。",
+      "试试后从 b7 走到 b2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "njAvZ",
+      "url": "https://lichess.org/training/njAvZ",
+      "gameUrl": "https://lichess.org/EbsZdlJd/black#88",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1Q6/3p3p/8/2P5/1k4PK/pq5P/8 b - - 0 44",
+      "originalMoves": [
+        "b3c4",
+        "b7b2",
+        "a2a1q",
+        "b2a1"
+      ],
+      "rating": 824,
+      "popularity": 96,
+      "plays": 1017,
+      "themes": [
+        "crushing",
+        "endgame",
+        "hangingPiece",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-NShqa",
+    "number": 77,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 77",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/K2N4/8/1p6/k1r5/5R2 b - - 0 45",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c2c5",
+        "a5b4",
+        "c5d5"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试车从 c2 走到 c5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "NShqa",
+      "url": "https://lichess.org/training/NShqa",
+      "gameUrl": "https://lichess.org/NHocxoCP#89",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/pK1N4/8/1p6/k1r5/5R2 w - - 0 45",
+      "originalMoves": [
+        "b5a5",
+        "c2c5",
+        "a5b4",
+        "c5d5"
+      ],
+      "rating": 761,
+      "popularity": 97,
+      "plays": 1158,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-t9IO5",
+    "number": 78,
+    "chapter": "03 · 看看对手",
+    "title": "小挑战 78",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5k2/3Q4/6K1/7p/7P/8/8/q7 w - - 0 58",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d7f7"
+      ],
+      [
+        "d7d8"
+      ]
+    ],
+    "hints": [
+      "找一步将军，再检查对手能不能逃、挡或吃。",
+      "试试后从 d7 走到 f7。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "t9IO5",
+      "url": "https://lichess.org/training/t9IO5",
+      "gameUrl": "https://lichess.org/c0s5QsM2/black#114",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5k2/3Q4/6K1/7p/7P/8/p7/8 b - - 3 57",
+      "originalMoves": [
+        "a2a1q",
+        "d7f7"
+      ],
+      "rating": 734,
+      "popularity": 92,
+      "plays": 1024,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-GwkIM",
+    "number": 79,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 79",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "3k4/8/7r/1P6/1K2N3/2P5/8/8 b - - 2 56",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h6h4",
+        "b4c4",
+        "h4e4"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试车从 h6 走到 h4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "GwkIM",
+      "url": "https://lichess.org/training/GwkIM",
+      "gameUrl": "https://lichess.org/GQBmDfHn#111",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3k4/8/7r/1P6/4N3/1KP5/8/8 w - - 1 56",
+      "originalMoves": [
+        "b3b4",
+        "h6h4",
+        "b4c4",
+        "h4e4"
+      ],
+      "rating": 800,
+      "popularity": 93,
+      "plays": 1456,
+      "themes": [
+        "crushing",
+        "endgame",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-IKl8B",
+    "number": 80,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 80",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "Q7/8/2Kb4/3Pk2p/1P6/8/4q3/8 w - - 9 57",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a8e8",
+        "e5f4",
+        "e8e2"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试后从 a8 走到 e8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "IKl8B",
+      "url": "https://lichess.org/training/IKl8B",
+      "gameUrl": "https://lichess.org/pZBGffGr/black#112",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "Q7/8/2Kb1k2/3P3p/1P6/8/4q3/8 b - - 8 56",
+      "originalMoves": [
+        "f6e5",
+        "a8e8",
+        "e5f4",
+        "e8e2"
+      ],
+      "rating": 804,
+      "popularity": 90,
+      "plays": 1513,
+      "themes": [
+        "crushing",
+        "endgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-m0An4",
+    "number": 81,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 81",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7R/8/5pk1/7p/4KP1P/6P1/1b6/8 b - - 10 54",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f6f5",
+        "e4d3",
+        "b2h8"
+      ]
+    ],
+    "hints": [
+      "想想移开一个棋子以后，会不会露出另一个棋子的攻击路线。",
+      "试试兵从 f6 走到 f5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "m0An4",
+      "url": "https://lichess.org/training/m0An4",
+      "gameUrl": "https://lichess.org/CKy654Ju#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7R/8/5pk1/7p/5P1P/5KP1/1b6/8 w - - 9 54",
+      "originalMoves": [
+        "f3e4",
+        "f6f5",
+        "e4d3",
+        "b2h8"
+      ],
+      "rating": 820,
+      "popularity": 95,
+      "plays": 2262,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "endgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0o5t5",
+    "number": 82,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 82",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/8/5k2/5PN1/5K2/2q5 w - - 12 62",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g3e2",
+        "f4f5",
+        "e2c1"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 g3 走到 e2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0o5t5",
+      "url": "https://lichess.org/training/0o5t5",
+      "gameUrl": "https://lichess.org/WacZCdYW/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/5k2/8/5PN1/5K2/2q5 b - - 11 61",
+      "originalMoves": [
+        "f5f4",
+        "g3e2",
+        "f4f5",
+        "e2c1"
+      ],
+      "rating": 805,
+      "popularity": 96,
+      "plays": 1655,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-O85G9",
+    "number": 83,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 83",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/1PR5/8/6pk/1r6/6K1 b - - 8 66",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b2b1",
+        "c5c1",
+        "b1c1"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试车从 b2 走到 b1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "O85G9",
+      "url": "https://lichess.org/training/O85G9",
+      "gameUrl": "https://lichess.org/OpqWDrcg#131",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/1P6/2R5/6pk/1r6/6K1 w - - 7 66",
+      "originalMoves": [
+        "c4c5",
+        "b2b1",
+        "c5c1",
+        "b1c1"
+      ],
+      "rating": 810,
+      "popularity": 100,
+      "plays": 2051,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-KUF0S",
+    "number": 84,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 84",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2B5/8/2n5/5K2/1p6/1P3k2/8/8 w - - 3 73",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c8b7",
+        "f3g3",
+        "b7c6"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试象从 c8 走到 b7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "KUF0S",
+      "url": "https://lichess.org/training/KUF0S",
+      "gameUrl": "https://lichess.org/KlJbYBOL/black#144",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2B5/8/8/4nK2/1p6/1P3k2/8/8 b - - 2 72",
+      "originalMoves": [
+        "e5c6",
+        "c8b7",
+        "f3g3",
+        "b7c6"
+      ],
+      "rating": 838,
+      "popularity": 94,
+      "plays": 1595,
+      "themes": [
+        "crushing",
+        "endgame",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-EKg4V",
+    "number": 85,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 85",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/R3K3/5rk1/8/8/8/8 b - - 1 79",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f5f6",
+        "e6d5",
+        "f6a6"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试车从 f5 走到 f6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "EKg4V",
+      "url": "https://lichess.org/training/EKg4V",
+      "gameUrl": "https://lichess.org/0uor2JRk#157",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4K3/5rk1/R7/8/8/8 w - - 0 79",
+      "originalMoves": [
+        "a4a6",
+        "f5f6",
+        "e6d5",
+        "f6a6"
+      ],
+      "rating": 822,
+      "popularity": 94,
+      "plays": 1070,
+      "themes": [
+        "crushing",
+        "endgame",
+        "rookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Jxs8M",
+    "number": 86,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 86",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6p1/7p/1r6/8/R1K2k2/5P1P/8 w - - 0 45",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c3c4",
+        "f3f4",
+        "c4b5"
+      ]
+    ],
+    "hints": [
+      "想想移开一个棋子以后，会不会露出另一个棋子的攻击路线。",
+      "试试王从 c3 走到 c4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Jxs8M",
+      "url": "https://lichess.org/training/Jxs8M",
+      "gameUrl": "https://lichess.org/WuIEVCmJ/black#88",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1r4p1/7p/1P6/8/R1K2k2/5P1P/8 b - - 0 44",
+      "originalMoves": [
+        "b7b5",
+        "c3c4",
+        "f3f4",
+        "c4b5"
+      ],
+      "rating": 809,
+      "popularity": 93,
+      "plays": 1138,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "discoveredCheck",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-YchGb",
+    "number": 87,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 87",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/6k1/5pp1/7p/5K1N/8/8 b - - 1 52",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g5g4",
+        "f3g2",
+        "g4h3"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试兵从 g5 走到 g4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "YchGb",
+      "url": "https://lichess.org/training/YchGb",
+      "gameUrl": "https://lichess.org/bXkZIQof#103",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6k1/5pp1/4K2p/7N/8/8 w - - 0 52",
+      "originalMoves": [
+        "e4f3",
+        "g5g4",
+        "f3g2",
+        "g4h3"
+      ],
+      "rating": 801,
+      "popularity": 93,
+      "plays": 1471,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "knightEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-69VD3",
+    "number": 88,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 88",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2r5/8/8/6R1/1kbK4/1p6/p7/B7 w - - 10 59",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "a1c3",
+        "b4a3",
+        "g5a5"
+      ],
+      [
+        "a1c3",
+        "b4a4",
+        "g5a5"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试象从 a1 走到 c3。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "69VD3",
+      "url": "https://lichess.org/training/69VD3",
+      "gameUrl": "https://lichess.org/cJK6Tsk1/black#116",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2r5/8/8/6R1/k1bK4/1p6/p7/B7 b - - 9 58",
+      "originalMoves": [
+        "a4b4",
+        "a1c3",
+        "b4a3",
+        "g5a5"
+      ],
+      "rating": 804,
+      "popularity": 96,
+      "plays": 2033,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pillsburysMate",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-U0Nv3",
+    "number": 89,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 89",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/3k4/3p4/5R1P/P1n2N2/6P1/r4PK1/8 b - - 0 54",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c4e3",
+        "g2f3",
+        "e3f5"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试马从 c4 走到 e3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "U0Nv3",
+      "url": "https://lichess.org/training/U0Nv3",
+      "gameUrl": "https://lichess.org/e4PJ0nZo#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3k4/3p4/5R2/P1n2N1P/6P1/r4PK1/8 w - - 5 54",
+      "originalMoves": [
+        "h4h5",
+        "c4e3",
+        "g2f3",
+        "e3f5"
+      ],
+      "rating": 814,
+      "popularity": 93,
+      "plays": 1185,
+      "themes": [
+        "advantage",
+        "endgame",
+        "master",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-SUX62",
+    "number": 90,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 90",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/r2k1K2/8/8/8/4R3 w - - 43 80",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e1e5",
+        "d5c4",
+        "e5a5"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试车从 e1 走到 e5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "SUX62",
+      "url": "https://lichess.org/training/SUX62",
+      "gameUrl": "https://lichess.org/unJ39xtp/black#158",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/3k1K2/8/r7/8/4R3 b - - 42 79",
+      "originalMoves": [
+        "a3a5",
+        "e1e5",
+        "d5c4",
+        "e5a5"
+      ],
+      "rating": 806,
+      "popularity": 96,
+      "plays": 1345,
+      "themes": [
+        "crushing",
+        "endgame",
+        "rookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-uFuDG",
+    "number": 91,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 91",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "4r3/6p1/6k1/8/3p4/7P/B3nPP1/4R2K b - - 1 36",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e2g3",
+        "h1h2",
+        "e8e1"
+      ]
+    ],
+    "hints": [
+      "想想移开一个棋子以后，会不会露出另一个棋子的攻击路线。",
+      "试试马从 e2 走到 g3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "uFuDG",
+      "url": "https://lichess.org/training/uFuDG",
+      "gameUrl": "https://lichess.org/wRtPHmAu#71",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4r3/6p1/6k1/8/3p4/7P/B3nPP1/3R3K w - - 0 36",
+      "originalMoves": [
+        "d1e1",
+        "e2g3",
+        "h1h2",
+        "e8e1"
+      ],
+      "rating": 832,
+      "popularity": 94,
+      "plays": 1226,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "endgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-EV9rj",
+    "number": 92,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 92",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/5b2/1R6/3r1kP1/7K/8/8/8 w - - 3 67",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b6f6",
+        "f5e4",
+        "f6f7"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试车从 b6 走到 f6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "EV9rj",
+      "url": "https://lichess.org/training/EV9rj",
+      "gameUrl": "https://lichess.org/ALhfXnyl/black#132",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5b2/1R4k1/3r2P1/7K/8/8/8 b - - 2 66",
+      "originalMoves": [
+        "g6f5",
+        "b6f6",
+        "f5e4",
+        "f6f7"
+      ],
+      "rating": 803,
+      "popularity": 95,
+      "plays": 1717,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "masterVsMaster",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-4QY8v",
+    "number": 93,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 93",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/7k/R5pp/8/6PK/2r4P/8 b - - 1 60",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "g5g4",
+        "h3h4",
+        "c2h2"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试兵从 g5 走到 g4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "4QY8v",
+      "url": "https://lichess.org/training/4QY8v",
+      "gameUrl": "https://lichess.org/jrzClcMN#119",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/7k/1R4pp/8/6PK/2r4P/8 w - - 0 60",
+      "originalMoves": [
+        "b5a5",
+        "g5g4",
+        "h3h4",
+        "c2h2"
+      ],
+      "rating": 814,
+      "popularity": 95,
+      "plays": 2016,
+      "themes": [
+        "deflection",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-GJZnc",
+    "number": 94,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 94",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6rP/8/8/3k4/5K2/2p2P2/8 w - - 0 62",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h7h8q",
+        "c2c1q",
+        "h8g7"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试兵从 h7 走到 h8，升变成后。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "GJZnc",
+      "url": "https://lichess.org/training/GJZnc",
+      "gameUrl": "https://lichess.org/Z43VDjFS/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6r1/6PP/8/8/3k4/5K2/2p2P2/8 b - - 0 61",
+      "originalMoves": [
+        "g8g7",
+        "h7h8q",
+        "c2c1q",
+        "h8g7"
+      ],
+      "rating": 865,
+      "popularity": 97,
+      "plays": 2930,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "master",
+        "pin",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-qFf3z",
+    "number": 95,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 95",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6k1/5r2/6K1/8/8/8/6R1 b - - 0 61",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f6g6",
+        "g5f5",
+        "g6g1"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试车从 f6 走到 g6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "qFf3z",
+      "url": "https://lichess.org/training/qFf3z",
+      "gameUrl": "https://lichess.org/gRSiO7jk#121",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6k1/5r2/5Kp1/8/8/8/6R1 w - - 18 61",
+      "originalMoves": [
+        "f5g5",
+        "f6g6",
+        "g5f5",
+        "g6g1"
+      ],
+      "rating": 811,
+      "popularity": 94,
+      "plays": 2296,
+      "themes": [
+        "crushing",
+        "endgame",
+        "rookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-FYIFJ",
+    "number": 96,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 96",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "3n4/3q2kp/3B1pp1/3Q4/p6P/P5P1/5P1K/8 w - - 1 37",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d6f8",
+        "g7f8",
+        "d5d7"
+      ]
+    ],
+    "hints": [
+      "想想移开一个棋子以后，会不会露出另一个棋子的攻击路线。",
+      "试试象从 d6 走到 f8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "FYIFJ",
+      "url": "https://lichess.org/training/FYIFJ",
+      "gameUrl": "https://lichess.org/tuAkgaeW/black#72",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3q2kp/3Bnpp1/3Q4/p6P/P5P1/5P1K/8 b - - 0 36",
+      "originalMoves": [
+        "e6d8",
+        "d6f8",
+        "g7f8",
+        "d5d7"
+      ],
+      "rating": 801,
+      "popularity": 92,
+      "plays": 1138,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "endgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-I9q6R",
+    "number": 97,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 97",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/kP6/3N1bp1/7p/7P/6K1 b - - 1 54",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f4e3",
+        "g1h1",
+        "e3d4"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试象从 f4 走到 e3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "I9q6R",
+      "url": "https://lichess.org/training/I9q6R",
+      "gameUrl": "https://lichess.org/OobPwBuJ#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/kP6/5bp1/7p/2N4P/6K1 w - - 0 54",
+      "originalMoves": [
+        "c2d4",
+        "f4e3",
+        "g1h1",
+        "e3d4"
+      ],
+      "rating": 802,
+      "popularity": 97,
+      "plays": 1698,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-kHhl7",
+    "number": 98,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 98",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5bk1/R7/8/3K4/3PN1p1/8/8/6r1 w - - 2 56",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "e4f6",
+        "g8h8",
+        "a7h7"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试马从 e4 走到 f6。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "kHhl7",
+      "url": "https://lichess.org/training/kHhl7",
+      "gameUrl": "https://lichess.org/0werft7v/black#110",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/R3b3/8/3K4/3PN1p1/8/8/6r1 b - - 1 55",
+      "originalMoves": [
+        "e7f8",
+        "e4f6",
+        "g8h8",
+        "a7h7"
+      ],
+      "rating": 824,
+      "popularity": 95,
+      "plays": 2544,
+      "themes": [
+        "arabianMate",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Qyfo5",
+    "number": 99,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 99",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "r7/8/1k4N1/8/8/5P1P/5PK1/8 b - - 0 52",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a8g8",
+        "g2f1",
+        "g8g6"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试车从 a8 走到 g8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Qyfo5",
+      "url": "https://lichess.org/training/Qyfo5",
+      "gameUrl": "https://lichess.org/njKbTHHV#103",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "r7/8/1k4p1/4N3/8/5P1P/5PK1/8 w - - 0 52",
+      "originalMoves": [
+        "e5g6",
+        "a8g8",
+        "g2f1",
+        "g8g6"
+      ],
+      "rating": 818,
+      "popularity": 97,
+      "plays": 1198,
+      "themes": [
+        "crushing",
+        "endgame",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ot1Tx",
+    "number": 100,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 100",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1Q6/5p2/3K1P2/5P2/8/5k1p/8 b - - 4 54",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h2h1q",
+        "d5e6",
+        "h1b7"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试兵从 h2 走到 h1，升变成后。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ot1Tx",
+      "url": "https://lichess.org/training/ot1Tx",
+      "gameUrl": "https://lichess.org/GJ6Db88p#107",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1Q6/5p2/2K2P2/5P2/8/5k1p/8 w - - 3 54",
+      "originalMoves": [
+        "c5d5",
+        "h2h1q",
+        "d5e6",
+        "h1b7"
+      ],
+      "rating": 846,
+      "popularity": 97,
+      "plays": 1303,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "master",
+        "promotion",
+        "queenEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-HCI2v",
+    "number": 101,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 101",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "1r4k1/5p2/2q3p1/3R4/4Q1P1/5P2/6K1/8 w - - 2 49",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d5d8",
+        "b8d8",
+        "e4c6"
+      ]
+    ],
+    "hints": [
+      "想想移开一个棋子以后，会不会露出另一个棋子的攻击路线。",
+      "试试车从 d5 走到 d8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "HCI2v",
+      "url": "https://lichess.org/training/HCI2v",
+      "gameUrl": "https://lichess.org/4j7HaqjQ/black#96",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1r4k1/5p2/1q4p1/3R4/4Q1P1/5P2/6K1/8 b - - 1 48",
+      "originalMoves": [
+        "b6c6",
+        "d5d8",
+        "b8d8",
+        "e4c6"
+      ],
+      "rating": 839,
+      "popularity": 95,
+      "plays": 1015,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ALeFm",
+    "number": 102,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 102",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/4R1pk/7p/4n3/7K/8/8 b - - 3 55",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e4g5",
+        "h3g2",
+        "g5e6"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 e4 走到 g5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ALeFm",
+      "url": "https://lichess.org/training/ALeFm",
+      "gameUrl": "https://lichess.org/6l7LW7X9#109",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/3R2pk/7p/4n3/7K/8/8 w - - 2 55",
+      "originalMoves": [
+        "d6e6",
+        "e4g5",
+        "h3g2",
+        "g5e6"
+      ],
+      "rating": 805,
+      "popularity": 98,
+      "plays": 1357,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-oPZOO",
+    "number": 103,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 103",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "k7/1pK5/p1bQ4/1q6/7p/8/8/8 w - - 2 52",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "d6d8",
+        "a8a7",
+        "d8b8"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试后从 d6 走到 d8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "oPZOO",
+      "url": "https://lichess.org/training/oPZOO",
+      "gameUrl": "https://lichess.org/iwfyCOCg/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "k7/1pK5/p1bQ4/8/7p/8/8/1q6 b - - 1 51",
+      "originalMoves": [
+        "b1b5",
+        "d6d8",
+        "a8a7",
+        "d8b8"
+      ],
+      "rating": 858,
+      "popularity": 99,
+      "plays": 2565,
+      "themes": [
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-N98qH",
+    "number": 104,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 104",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/3b2p1/5pk1/3R3p/5P2/6P1/6KP/8 b - - 5 42",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d7c6",
+        "g2h3",
+        "c6d5"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试象从 d7 走到 c6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "N98qH",
+      "url": "https://lichess.org/training/N98qH",
+      "gameUrl": "https://lichess.org/rNRVUxYL#83",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3b2p1/5pk1/1R5p/5P2/6P1/6KP/8 w - - 4 42",
+      "originalMoves": [
+        "b5d5",
+        "d7c6",
+        "g2h3",
+        "c6d5"
+      ],
+      "rating": 831,
+      "popularity": 95,
+      "plays": 2863,
+      "themes": [
+        "crushing",
+        "endgame",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-j7qde",
+    "number": 105,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 105",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/8/2k1p1B1/6P1/r4PKP/8 w - - 1 47",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g4e6",
+        "c4c3",
+        "e6a2"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试象从 g4 走到 e6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "j7qde",
+      "url": "https://lichess.org/training/j7qde",
+      "gameUrl": "https://lichess.org/jsVAif5X/black#92",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/2k1p1B1/6P1/5PKP/r7 b - - 0 46",
+      "originalMoves": [
+        "a1a2",
+        "g4e6",
+        "c4c3",
+        "e6a2"
+      ],
+      "rating": 831,
+      "popularity": 92,
+      "plays": 1151,
+      "themes": [
+        "crushing",
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-S9X88",
+    "number": 106,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 106",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/6k1/8/R3Kp1r/8/5P2/8 b - - 0 47",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f4f3",
+        "e4e3",
+        "h4a4"
+      ]
+    ],
+    "hints": [
+      "想想移开一个棋子以后，会不会露出另一个棋子的攻击路线。",
+      "试试兵从 f4 走到 f3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "S9X88",
+      "url": "https://lichess.org/training/S9X88",
+      "gameUrl": "https://lichess.org/LYVH9gli#93",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6k1/8/p3Kp1r/R7/5P2/8 w - - 2 47",
+      "originalMoves": [
+        "a3a4",
+        "f4f3",
+        "e4e3",
+        "h4a4"
+      ],
+      "rating": 858,
+      "popularity": 94,
+      "plays": 1104,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "discoveredCheck",
+        "endgame",
+        "rookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-PX6hB",
+    "number": 107,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 107",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/4BB1r/8/2p5/1p2k3/8/1K6 w - - 14 76",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f6g5",
+        "e3d4",
+        "g5h6"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试象从 f6 走到 g5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "PX6hB",
+      "url": "https://lichess.org/training/PX6hB",
+      "gameUrl": "https://lichess.org/Y0OeolIt/black#150",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4BB2/8/2p5/1p2k3/7r/1K6 b - - 13 75",
+      "originalMoves": [
+        "h2h6",
+        "f6g5",
+        "e3d4",
+        "g5h6"
+      ],
+      "rating": 825,
+      "popularity": 99,
+      "plays": 2078,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-o1XtO",
+    "number": 108,
+    "chapter": "04 · 两子配合",
+    "title": "小挑战 108",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/5pp1/5k2/6PK/7P/8/8 b - - 0 64",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "f5f4",
+        "g4g5",
+        "f6g5"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试王从 f5 走到 f4。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "o1XtO",
+      "url": "https://lichess.org/training/o1XtO",
+      "gameUrl": "https://lichess.org/etofCOcc#127",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/5pp1/5k2/7K/6PP/8/8 w - - 1 64",
+      "originalMoves": [
+        "g3g4",
+        "f5f4",
+        "g4g5",
+        "f6g5"
+      ],
+      "rating": 900,
+      "popularity": 91,
+      "plays": 1113,
+      "themes": [
+        "defensiveMove",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn2",
+        "pawnEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-rUxjQ",
+    "number": 109,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 109",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1r6/1k2PK2/8/8/7P/8/8 w - - 3 53",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e6e7",
+        "b7b8",
+        "f6f7"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试兵从 e6 走到 e7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "rUxjQ",
+      "url": "https://lichess.org/training/rUxjQ",
+      "gameUrl": "https://lichess.org/PqtwVL2j/black#104",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/kr6/4PK2/8/8/7P/8/8 b - - 2 52",
+      "originalMoves": [
+        "a7b6",
+        "e6e7",
+        "b7b8",
+        "f6f7"
+      ],
+      "rating": 914,
+      "popularity": 93,
+      "plays": 2050,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7KlU7",
+    "number": 110,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 110",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/5nk1/8/5KPP/2N5/1p6/8 b - - 2 64",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f6d5",
+        "c3d5",
+        "b2b1q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试马从 f6 走到 d5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7KlU7",
+      "url": "https://lichess.org/training/7KlU7",
+      "gameUrl": "https://lichess.org/ErzZN0zG#127",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/5nk1/8/5KPP/8/1p6/1N6 w - - 1 64",
+      "originalMoves": [
+        "b1c3",
+        "f6d5",
+        "c3d5",
+        "b2b1q"
+      ],
+      "rating": 902,
+      "popularity": 96,
+      "plays": 2257,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "deflection",
+        "endgame",
+        "knightEndgame",
+        "master",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ELS6A",
+    "number": 111,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 111",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "3n4/8/8/2R5/PKPk1r2/8/8/8 w - - 5 51",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c5d5",
+        "d4e4",
+        "d5d8"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试车从 c5 走到 d5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ELS6A",
+      "url": "https://lichess.org/training/ELS6A",
+      "gameUrl": "https://lichess.org/KfnAgDrb/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3n4/8/8/2R1k3/PKP2r2/8/8/8 b - - 4 50",
+      "originalMoves": [
+        "e5d4",
+        "c5d5",
+        "d4e4",
+        "d5d8"
+      ],
+      "rating": 903,
+      "popularity": 99,
+      "plays": 1130,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-8gLKC",
+    "number": 112,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 112",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6p1/6k1/3n4/4N3/r5PK/P3R3/8 b - - 2 47",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d5f4",
+        "h3h2",
+        "f4e2"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试马从 d5 走到 f4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "8gLKC",
+      "url": "https://lichess.org/training/8gLKC",
+      "gameUrl": "https://lichess.org/LnfGDF7n#93",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6p1/3N2k1/3n4/8/r5PK/P3R3/8 w - - 1 47",
+      "originalMoves": [
+        "d6e4",
+        "d5f4",
+        "h3h2",
+        "f4e2"
+      ],
+      "rating": 911,
+      "popularity": 95,
+      "plays": 1806,
+      "themes": [
+        "crushing",
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-coXR9",
+    "number": 113,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 113",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "7R/8/8/8/8/1r3k2/8/5K2 w - - 19 61",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h8h3",
+        "f3f4",
+        "h3b3"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试车从 h8 走到 h3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "coXR9",
+      "url": "https://lichess.org/training/coXR9",
+      "gameUrl": "https://lichess.org/dP2NAYMh/black#120",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7R/8/8/8/8/1r4k1/8/5K2 b - - 18 60",
+      "originalMoves": [
+        "g3f3",
+        "h8h3",
+        "f3f4",
+        "h3b3"
+      ],
+      "rating": 906,
+      "popularity": 93,
+      "plays": 1119,
+      "themes": [
+        "crushing",
+        "endgame",
+        "rookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-tIuvb",
+    "number": 114,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 114",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6k1/8/5Q1K/6P1/8/8/4q3 b - - 8 75",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "e1h1",
+        "h5g5",
+        "h1h6"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试后从 e1 走到 h1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "tIuvb",
+      "url": "https://lichess.org/training/tIuvb",
+      "gameUrl": "https://lichess.org/YHavvQpc#149",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6k1/8/5Q2/6PK/8/8/4q3 w - - 7 75",
+      "originalMoves": [
+        "h4h5",
+        "e1h1",
+        "h5g5",
+        "h1h6"
+      ],
+      "rating": 922,
+      "popularity": 99,
+      "plays": 1179,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-bBEcG",
+    "number": 115,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 115",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "6k1/6p1/8/5K1p/7n/8/5R2/8 w - - 0 62",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f5g5",
+        "g8h7",
+        "g5h4"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试王从 f5 走到 g5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "bBEcG",
+      "url": "https://lichess.org/training/bBEcG",
+      "gameUrl": "https://lichess.org/gBKUfDCx/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/6p1/6n1/5K1p/7P/8/5R2/8 b - - 2 61",
+      "originalMoves": [
+        "g6h4",
+        "f5g5",
+        "g8h7",
+        "g5h4"
+      ],
+      "rating": 904,
+      "popularity": 96,
+      "plays": 1411,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "short",
+        "trappedPiece"
+      ]
+    }
+  },
+  {
+    "id": "lichess-91Feu",
+    "number": 116,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 116",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/7K/8/2Q5/1p6/2p5/1k6 b - - 3 59",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c2c1q",
+        "c4c1",
+        "b1c1"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试兵从 c2 走到 c1，升变成后。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "91Feu",
+      "url": "https://lichess.org/training/91Feu",
+      "gameUrl": "https://lichess.org/fyYQohLN#117",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/7K/8/3Q4/1p6/2p5/1k6 w - - 2 59",
+      "originalMoves": [
+        "d4c4",
+        "c2c1q",
+        "c4c1",
+        "b1c1"
+      ],
+      "rating": 902,
+      "popularity": 91,
+      "plays": 1003,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "master",
+        "promotion",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-i8WWe",
+    "number": 117,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 117",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1KN5/1P6/2q5/1k6/8/8/8 w - - 1 65",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c7a6",
+        "b4b5",
+        "a6c5"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 c7 走到 a6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "i8WWe",
+      "url": "https://lichess.org/training/i8WWe",
+      "gameUrl": "https://lichess.org/BkoKVLFe/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1KN5/1P6/2q5/2k5/8/8/8 b - - 0 64",
+      "originalMoves": [
+        "c4b4",
+        "c7a6",
+        "b4b5",
+        "a6c5"
+      ],
+      "rating": 915,
+      "popularity": 99,
+      "plays": 1139,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ySohE",
+    "number": 118,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 118",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/7p/3KQ3/6rk/8/8 b - - 3 68",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g3g4",
+        "d4d3",
+        "g4e4"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试车从 g3 走到 g4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ySohE",
+      "url": "https://lichess.org/training/ySohE",
+      "gameUrl": "https://lichess.org/J1lnGNuw#135",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/2K4p/4Q3/6rk/8/8 w - - 2 68",
+      "originalMoves": [
+        "c5d4",
+        "g3g4",
+        "d4d3",
+        "g4e4"
+      ],
+      "rating": 944,
+      "popularity": 98,
+      "plays": 1272,
+      "themes": [
+        "crushing",
+        "endgame",
+        "master",
+        "pin",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-FYj8R",
+    "number": 119,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 119",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1Q6/8/2p5/3k4/P6K/8/3q4 w - - 4 59",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b7d7",
+        "d4c3",
+        "d7d1"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试后从 b7 走到 d7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "FYj8R",
+      "url": "https://lichess.org/training/FYj8R",
+      "gameUrl": "https://lichess.org/eCjuMjvk/black#116",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1Q6/8/2pk4/8/P6K/8/3q4 b - - 3 58",
+      "originalMoves": [
+        "d5d4",
+        "b7d7",
+        "d4c3",
+        "d7d1"
+      ],
+      "rating": 911,
+      "popularity": 98,
+      "plays": 2110,
+      "themes": [
+        "crushing",
+        "endgame",
+        "queenEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DLT7M",
+    "number": 120,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 120",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "2Q5/8/8/8/8/5k2/r7/5K2 b - - 2 59",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "a2a1",
+        "c8c1",
+        "a1c1"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试车从 a2 走到 a1。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DLT7M",
+      "url": "https://lichess.org/training/DLT7M",
+      "gameUrl": "https://lichess.org/PEpJI0wR#117",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2Q5/8/8/8/8/5k2/r7/6K1 w - - 1 59",
+      "originalMoves": [
+        "g1f1",
+        "a2a1",
+        "c8c1",
+        "a1c1"
+      ],
+      "rating": 917,
+      "popularity": 95,
+      "plays": 1409,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-jjxJO",
+    "number": 121,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 121",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1p6/1p6/1k6/2q2QKP/8/8/8 w - - 0 55",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f4c4",
+        "b5c4",
+        "h4h5"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试后从 f4 走到 c4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "jjxJO",
+      "url": "https://lichess.org/training/jjxJO",
+      "gameUrl": "https://lichess.org/mvpFl3Oe/black#108",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1p6/1p6/1P6/k1q2QKP/8/8/8 b - - 3 54",
+      "originalMoves": [
+        "a4b5",
+        "f4c4",
+        "b5c4",
+        "h4h5"
+      ],
+      "rating": 952,
+      "popularity": 95,
+      "plays": 1363,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-JT8RS",
+    "number": 122,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 122",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/7p/3K4/R5k1/5p2/8 b - - 1 59",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g3g2",
+        "a3a8",
+        "f2f1q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试王从 g3 走到 g2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "JT8RS",
+      "url": "https://lichess.org/training/JT8RS",
+      "gameUrl": "https://lichess.org/Rw70UWbr#117",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/7p/3K4/6k1/R4p2/8 w - - 0 59",
+      "originalMoves": [
+        "a2a3",
+        "g3g2",
+        "a3a8",
+        "f2f1q"
+      ],
+      "rating": 944,
+      "popularity": 99,
+      "plays": 1188,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "master",
+        "promotion",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ucJgS",
+    "number": 123,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 123",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/2k2KBp/2P4P/8/8/6r1 w - - 11 65",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g5e3",
+        "c5c4",
+        "e3g1"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试象从 g5 走到 e3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ucJgS",
+      "url": "https://lichess.org/training/ucJgS",
+      "gameUrl": "https://lichess.org/HJ1F4dXO/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/2k5/5KBp/2P4P/8/8/6r1 b - - 10 64",
+      "originalMoves": [
+        "c6c5",
+        "g5e3",
+        "c5c4",
+        "e3g1"
+      ],
+      "rating": 912,
+      "popularity": 94,
+      "plays": 1327,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-9MWeV",
+    "number": 124,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 124",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/4k3/8/1p1K2N1/1P4p1/P7/8 b - - 0 51",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g3g2",
+        "g4f2",
+        "g2g1q"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试兵从 g3 走到 g2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "9MWeV",
+      "url": "https://lichess.org/training/9MWeV",
+      "gameUrl": "https://lichess.org/M25DcgZv#101",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4k3/8/1p1K2n1/1P2N1p1/P7/8 w - - 2 51",
+      "originalMoves": [
+        "e3g4",
+        "g3g2",
+        "g4f2",
+        "g2g1q"
+      ],
+      "rating": 1000,
+      "popularity": 92,
+      "plays": 1824,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "knightEndgame",
+        "pin",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-R7rkG",
+    "number": 125,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 125",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/P7/2k5/2P5/8/5qBK/8/3r4 w - - 14 73",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a7a8q",
+        "c6c5",
+        "a8f3"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试兵从 a7 走到 a8，升变成后。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "R7rkG",
+      "url": "https://lichess.org/training/R7rkG",
+      "gameUrl": "https://lichess.org/ho8Og2gt/black#144",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/P7/2k5/2P5/8/3r1qBK/8/8 b - - 13 72",
+      "originalMoves": [
+        "d3d1",
+        "a7a8q",
+        "c6c5",
+        "a8f3"
+      ],
+      "rating": 917,
+      "popularity": 94,
+      "plays": 4318,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "promotion",
+        "short",
+        "skewer",
+        "superGM"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3Uehu",
+    "number": 126,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 126",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/8/2k5/p7/1p6/1K2B3 b - - 1 58",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "c4b3",
+        "e1d2",
+        "a3a2"
+      ],
+      [
+        "c4b3",
+        "e1a5",
+        "a3a2"
+      ],
+      [
+        "c4b3",
+        "e1b4",
+        "a3a2"
+      ],
+      [
+        "c4b3",
+        "e1c3",
+        "a3a2"
+      ],
+      [
+        "c4b3",
+        "e1f2",
+        "a3a2"
+      ],
+      [
+        "c4b3",
+        "e1g3",
+        "a3a2"
+      ],
+      [
+        "c4b3",
+        "e1h4",
+        "a3a2"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试王从 c4 走到 b3。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3Uehu",
+      "url": "https://lichess.org/training/3Uehu",
+      "gameUrl": "https://lichess.org/OqyHqdan#115",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/2k5/p7/1p6/2K1B3 w - - 0 58",
+      "originalMoves": [
+        "c1b1",
+        "c4b3",
+        "e1d2",
+        "a3a2"
+      ],
+      "rating": 928,
+      "popularity": 97,
+      "plays": 4158,
+      "themes": [
+        "advancedPawn",
+        "bishopEndgame",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0DWW4",
+    "number": 127,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 127",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/1p6/5p2/2r4R/3k3P/6K1/6P1/8 w - - 1 51",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h5c5",
+        "d4c5",
+        "h4h5"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试车从 h5 走到 c5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0DWW4",
+      "url": "https://lichess.org/training/0DWW4",
+      "gameUrl": "https://lichess.org/FHBSoDod/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1p6/2r2p2/7R/3k3P/6K1/6P1/8 b - - 0 50",
+      "originalMoves": [
+        "c6c5",
+        "h5c5",
+        "d4c5",
+        "h4h5"
+      ],
+      "rating": 944,
+      "popularity": 98,
+      "plays": 1073,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-kRFEi",
+    "number": 128,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 128",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "5KB1/6P1/8/3b4/8/8/1p1k4/8 b - - 3 62",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d5g8",
+        "f8g8",
+        "b2b1q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试象从 d5 走到 g8。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "kRFEi",
+      "url": "https://lichess.org/training/kRFEi",
+      "gameUrl": "https://lichess.org/r7n6wMzk#123",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5K2/6PB/8/3b4/8/8/1p1k4/8 w - - 2 62",
+      "originalMoves": [
+        "h7g8",
+        "d5g8",
+        "f8g8",
+        "b2b1q"
+      ],
+      "rating": 977,
+      "popularity": 97,
+      "plays": 3042,
+      "themes": [
+        "advancedPawn",
+        "bishopEndgame",
+        "crushing",
+        "endgame",
+        "master",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5els0",
+    "number": 129,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 129",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/8/2N2r1k/7P/6PK/8 w - - 27 63",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g2g3",
+        "h4g5",
+        "g3f4"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试兵从 g2 走到 g3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5els0",
+      "url": "https://lichess.org/training/5els0",
+      "gameUrl": "https://lichess.org/BrfXTz5d/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5r2/8/8/8/2N4k/7P/6PK/8 b - - 26 62",
+      "originalMoves": [
+        "f8f4",
+        "g2g3",
+        "h4g5",
+        "g3f4"
+      ],
+      "rating": 943,
+      "popularity": 97,
+      "plays": 1004,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Zhtup",
+    "number": 130,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 130",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6bk/8/6pb/4Q3/1P3r2/2K5/4B3 b - - 1 49",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h5g6",
+        "e4g6",
+        "h7g6"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试象从 h5 走到 g6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Zhtup",
+      "url": "https://lichess.org/training/Zhtup",
+      "gameUrl": "https://lichess.org/i0TmQ79g#97",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6bk/4Q3/6pb/8/1P3r2/2K5/4B3 w - - 0 49",
+      "originalMoves": [
+        "e6e4",
+        "h5g6",
+        "e4g6",
+        "h7g6"
+      ],
+      "rating": 931,
+      "popularity": 98,
+      "plays": 1066,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Xdfnr",
+    "number": 131,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 131",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/3K4/4r3/4k3/8/3R4 w - - 76 90",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d1e1",
+        "e3d2",
+        "e1e4"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试车从 d1 走到 e1。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Xdfnr",
+      "url": "https://lichess.org/training/Xdfnr",
+      "gameUrl": "https://lichess.org/xKgT6ad9/black#178",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/3K4/4r3/3k4/8/3R4 b - - 75 89",
+      "originalMoves": [
+        "d3e3",
+        "d1e1",
+        "e3d2",
+        "e1e4"
+      ],
+      "rating": 917,
+      "popularity": 95,
+      "plays": 1112,
+      "themes": [
+        "crushing",
+        "deflection",
+        "endgame",
+        "rookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-l9ldz",
+    "number": 132,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 132",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "Q7/8/8/8/8/8/5kpK/8 b - - 0 66",
+    "goal": "黑方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "g2g1q",
+        "h2h3",
+        "g1g3"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试兵从 g2 走到 g1，升变成后。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "l9ldz",
+      "url": "https://lichess.org/training/l9ldz",
+      "gameUrl": "https://lichess.org/zLnqoq7g#131",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/P7/8/8/8/8/5kpK/8 w - - 1 66",
+      "originalMoves": [
+        "a7a8q",
+        "g2g1q",
+        "h2h3",
+        "g1g3"
+      ],
+      "rating": 947,
+      "popularity": 95,
+      "plays": 3310,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "promotion",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-smK7J",
+    "number": 133,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 133",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/2k5/p3K3/P1P1r3/8/8/8 w - - 0 72",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e5e4",
+        "c6c5",
+        "e4d3"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试王从 e5 走到 e4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "smK7J",
+      "url": "https://lichess.org/training/smK7J",
+      "gameUrl": "https://lichess.org/inYHyRb1/black#142",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/2k5/p3K3/P1P1Nr2/8/8/8 b - - 5 71",
+      "originalMoves": [
+        "f4e4",
+        "e5e4",
+        "c6c5",
+        "e4d3"
+      ],
+      "rating": 909,
+      "popularity": 97,
+      "plays": 1220,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "hangingPiece",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-GjkKc",
+    "number": 134,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 134",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/6rk/3K3p/5Q2/6p1/8 b - - 3 59",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g5g4",
+        "d4c3",
+        "g2g1q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试车从 g5 走到 g4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "GjkKc",
+      "url": "https://lichess.org/training/GjkKc",
+      "gameUrl": "https://lichess.org/7L5eg4GR#117",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/5Q2/6rk/3K3p/8/6p1/8 w - - 2 59",
+      "originalMoves": [
+        "f6f3",
+        "g5g4",
+        "d4c3",
+        "g2g1q"
+      ],
+      "rating": 966,
+      "popularity": 96,
+      "plays": 2355,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "promotion",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-cuZ9e",
+    "number": 135,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 135",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6p1/8/4K2k/3PN3/8/8/5b2 w - - 3 49",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "e4g3",
+        "h5g6",
+        "g3f1"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试马从 e4 走到 g3。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "cuZ9e",
+      "url": "https://lichess.org/training/cuZ9e",
+      "gameUrl": "https://lichess.org/LCwwrb3Q/black#96",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6p1/6k1/4K3/3PN3/8/8/5b2 b - - 2 48",
+      "originalMoves": [
+        "g6h5",
+        "e4g3",
+        "h5g6",
+        "g3f1"
+      ],
+      "rating": 900,
+      "popularity": 95,
+      "plays": 2537,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-rDKeL",
+    "number": 136,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 136",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/6k1/6P1/4N2K/7P/8/2r5 b - - 4 56",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "c1c4",
+        "h4g4",
+        "c4e4"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试车从 c1 走到 c4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "rDKeL",
+      "url": "https://lichess.org/training/rDKeL",
+      "gameUrl": "https://lichess.org/LtvkMa5I#111",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6k1/6P1/7K/6NP/8/2r5 w - - 3 56",
+      "originalMoves": [
+        "g3e4",
+        "c1c4",
+        "h4g4",
+        "c4e4"
+      ],
+      "rating": 942,
+      "popularity": 96,
+      "plays": 1099,
+      "themes": [
+        "crushing",
+        "endgame",
+        "master",
+        "pin",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-yZv2l",
+    "number": 137,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 137",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/4k3/8/p3K3/1b3R2/8/8/8 b - - 4 56",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "b4d6",
+        "e5d4",
+        "d6f4"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试象从 b4 走到 d6。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "yZv2l",
+      "url": "https://lichess.org/training/yZv2l",
+      "gameUrl": "https://lichess.org/DGzSpY54#111",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/4k3/8/p3K3/1b6/5R2/8/8 w - - 3 56",
+      "originalMoves": [
+        "f3f4",
+        "b4d6",
+        "e5d4",
+        "d6f4"
+      ],
+      "rating": 903,
+      "popularity": 96,
+      "plays": 1572,
+      "themes": [
+        "crushing",
+        "endgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5tmsY",
+    "number": 138,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 138",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/6N1/6R1/7p/1r5k/8/7n/3K4 w - - 2 41",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "g7f5",
+        "h4h3",
+        "g6g3"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试马从 g7 走到 f5。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5tmsY",
+      "url": "https://lichess.org/training/5tmsY",
+      "gameUrl": "https://lichess.org/QzKEkkm5/black#80",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6N1/6R1/7p/1r4k1/8/7n/3K4 b - - 1 40",
+      "originalMoves": [
+        "g4h4",
+        "g7f5",
+        "h4h3",
+        "g6g3"
+      ],
+      "rating": 936,
+      "popularity": 98,
+      "plays": 1458,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-O8OXm",
+    "number": 139,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 139",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/5p2/PK6/8/b7/4k3/2B5/8 b - - 0 60",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "a4c2",
+        "a6a7",
+        "c2e4"
+      ]
+    ],
+    "hints": [
+      "先找对手的威胁，再想怎么化解。",
+      "试试象从 a4 走到 c2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "O8OXm",
+      "url": "https://lichess.org/training/O8OXm",
+      "gameUrl": "https://lichess.org/s8VDfk6m#119",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5p2/Pn6/2K5/b7/4k3/2B5/8 w - - 2 60",
+      "originalMoves": [
+        "c5b6",
+        "a4c2",
+        "a6a7",
+        "c2e4"
+      ],
+      "rating": 956,
+      "popularity": 95,
+      "plays": 1202,
+      "themes": [
+        "bishopEndgame",
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "hangingPiece",
+        "master",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-zxGSz",
+    "number": 140,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 140",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/P7/6KP/8/r7/2k5/8/8 w - - 1 56",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "h6h7",
+        "a4a7",
+        "h7h8q"
+      ]
+    ],
+    "hints": [
+      "观察快到底线的兵，想想升变以后能做什么。",
+      "试试兵从 h6 走到 h7。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "zxGSz",
+      "url": "https://lichess.org/training/zxGSz",
+      "gameUrl": "https://lichess.org/mj8VyBNg/black#110",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/P7/6KP/8/7r/2k5/8/8 b - - 0 55",
+      "originalMoves": [
+        "h4a4",
+        "h6h7",
+        "a4a7",
+        "h7h8q"
+      ],
+      "rating": 918,
+      "popularity": 96,
+      "plays": 1845,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "promotion",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0Fvdo",
+    "number": 141,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 141",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/8/8/7k/8/5qR1/P4P1K/4R3 b - - 13 57",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "f3f2",
+        "h2h3",
+        "f2e1"
+      ]
+    ],
+    "hints": [
+      "留意能同时攻击两个目标的机会，这叫双重攻击。",
+      "试试后从 f3 走到 f2。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0Fvdo",
+      "url": "https://lichess.org/training/0Fvdo",
+      "gameUrl": "https://lichess.org/zstD0rUQ#113",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/7k/8/5q2/P4P1K/4R1R1 w - - 12 57",
+      "originalMoves": [
+        "g1g3",
+        "f3f2",
+        "h2h3",
+        "f2e1"
+      ],
+      "rating": 916,
+      "popularity": 95,
+      "plays": 2134,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DpNic",
+    "number": 142,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 142",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/p4k1p/1p3q2/8/4pKQ1/4P3/PP5P/8 w - - 23 51",
+    "goal": "白方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "g4f5",
+        "f6f5",
+        "f4f5"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的棋子。前面的棋子走开，会不会露出后面的目标？",
+      "试试后从 g4 走到 f5。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DpNic",
+      "url": "https://lichess.org/training/DpNic",
+      "gameUrl": "https://lichess.org/TQawroji/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/p4k1p/1p2q3/8/4pKQ1/4P3/PP5P/8 b - - 22 50",
+      "originalMoves": [
+        "e6f6",
+        "g4f5",
+        "f6f5",
+        "f4f5"
+      ],
+      "rating": 936,
+      "popularity": 100,
+      "plays": 1403,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "master",
+        "pin",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Vjbtq",
+    "number": 143,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 143",
+    "intro": "你用黑棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "8/2k5/1p6/2rpKQ2/8/8/8/8 b - - 24 69",
+    "goal": "黑方走 2 步，完成战术",
+    "mateIn": 0,
+    "completion": "sourceLine",
+    "lines": [
+      [
+        "d5d4",
+        "e5f4",
+        "c5f5"
+      ]
+    ],
+    "hints": [
+      "看看同一直线上的两个目标。前面的棋子躲开后，后面的还安全吗？",
+      "试试兵从 d5 走到 d4。"
+    ],
+    "explanation": "你完成了原题的战术解法。可以再走一遍，观察每一步发生了什么。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Vjbtq",
+      "url": "https://lichess.org/training/Vjbtq",
+      "gameUrl": "https://lichess.org/R7QzQU8b#137",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/2k5/1p6/2rpK3/8/3Q4/8/8 w - - 23 69",
+      "originalMoves": [
+        "d3f5",
+        "d5d4",
+        "e5f4",
+        "c5f5"
+      ],
+      "rating": 909,
+      "popularity": 98,
+      "plays": 1159,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "discoveredCheck",
+        "endgame",
+        "master",
+        "queenRookEndgame",
+        "short",
+        "skewer"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Zuu3O",
+    "number": 144,
+    "chapter": "05 · 综合挑战",
+    "title": "小挑战 144",
+    "intro": "你用白棋。先看看双方的王和受到攻击的棋子。",
+    "fen": "1R6/8/8/4q3/8/8/k1K5/8 w - - 1 45",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "completion": "checkmate",
+    "lines": [
+      [
+        "b8a8",
+        "e5a5",
+        "a8a5"
+      ]
+    ],
+    "hints": [
+      "先看将军和对手的应对，再找最后一步将杀。",
+      "试试车从 b8 走到 a8。"
+    ],
+    "explanation": "王被将军，而且没有合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Zuu3O",
+      "url": "https://lichess.org/training/Zuu3O",
+      "gameUrl": "https://lichess.org/96El8EEo/black#88",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1R6/8/8/8/8/8/k1K5/q7 b - - 0 44",
+      "originalMoves": [
+        "a1e5",
+        "b8a8",
+        "e5a5",
+        "a8a5"
+      ],
+      "rating": 918,
+      "popularity": 97,
+      "plays": 3262,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  }
+]

@@ -1,0 +1,4878 @@
+[
+  {
+    "id": "lichess-CtI2H",
+    "number": 1,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 01",
+    "intro": "你用白棋，黑王在 g1。找一步将军，让它无路可走。",
+    "fen": "8/8/R7/8/8/6K1/8/6kq w - - 0 66",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a6a1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a6 走到 a1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "CtI2H",
+      "url": "https://lichess.org/training/CtI2H",
+      "gameUrl": "https://lichess.org/o6hMbq6O/black#130",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/R7/8/8/6K1/7p/6k1 b - - 3 65",
+      "originalMoves": [
+        "h2h1q",
+        "a6a1"
+      ],
+      "rating": 644,
+      "popularity": 100,
+      "plays": 1565,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BMNr4",
+    "number": 2,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 02",
+    "intro": "你用白棋，黑王在 f8。找一步将军，让它无路可走。",
+    "fen": "4rk2/8/5K2/8/8/7R/8/8 w - - 23 98",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h3h8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 h3 走到 h8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BMNr4",
+      "url": "https://lichess.org/training/BMNr4",
+      "gameUrl": "https://lichess.org/2zbFGhQy/black#194",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5k2/4r3/5K2/8/8/7R/8/8 b - - 22 97",
+      "originalMoves": [
+        "e7e8",
+        "h3h8"
+      ],
+      "rating": 716,
+      "popularity": 92,
+      "plays": 1012,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-4kdlf",
+    "number": 3,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 03",
+    "intro": "你用白棋，黑王在 c1。找一步将军，让它无路可走。",
+    "fen": "R7/8/8/8/8/2K5/8/2kr4 w - - 74 82",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a8a1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a8 走到 a1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "4kdlf",
+      "url": "https://lichess.org/training/4kdlf",
+      "gameUrl": "https://lichess.org/VXDo6eFA/black#162",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "R7/8/8/8/8/2K5/8/1k1r4 b - - 73 81",
+      "originalMoves": [
+        "b1c1",
+        "a8a1"
+      ],
+      "rating": 761,
+      "popularity": 94,
+      "plays": 1523,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2ekIB",
+    "number": 4,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 04",
+    "intro": "你用白棋，黑王在 b1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/1K6/7R/qk6 w - - 0 74",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h2h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 h2 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2ekIB",
+      "url": "https://lichess.org/training/2ekIB",
+      "gameUrl": "https://lichess.org/4knvLVzv/black#146",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/1K6/p6R/1k6 b - - 3 73",
+      "originalMoves": [
+        "a2a1q",
+        "h2h1"
+      ],
+      "rating": 949,
+      "popularity": 97,
+      "plays": 2440,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7jc43",
+    "number": 5,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 05",
+    "intro": "你用白棋，黑王在 g1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/6K1/1R6/6kq w - - 0 66",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b2b1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 b2 走到 b1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7jc43",
+      "url": "https://lichess.org/training/7jc43",
+      "gameUrl": "https://lichess.org/5gUdRBW3/black#130",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/6K1/1R5p/6k1 b - - 3 65",
+      "originalMoves": [
+        "h2h1q",
+        "b2b1"
+      ],
+      "rating": 954,
+      "popularity": 93,
+      "plays": 1756,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5MQS3",
+    "number": 6,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 06",
+    "intro": "你用白棋，黑王在 c8。找一步将军，让它无路可走。",
+    "fen": "2k5/6R1/2K5/8/1r6/8/8/8 w - - 0 95",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g7g8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 g7 走到 g8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5MQS3",
+      "url": "https://lichess.org/training/5MQS3",
+      "gameUrl": "https://lichess.org/8Ru3bC0J/black#188",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2k5/6R1/2K5/8/1N6/8/1r6/8 b - - 56 94",
+      "originalMoves": [
+        "b2b4",
+        "g7g8"
+      ],
+      "rating": 963,
+      "popularity": 98,
+      "plays": 1431,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DX4LM",
+    "number": 7,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 07",
+    "intro": "你用白棋，黑王在 d8。找一步将军，让它无路可走。",
+    "fen": "3k4/R7/3K4/8/8/8/8/4r3 w - - 34 79",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a7a8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a7 走到 a8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DX4LM",
+      "url": "https://lichess.org/training/DX4LM",
+      "gameUrl": "https://lichess.org/aXElUmu0/black#156",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3kr3/R7/3K4/8/8/8/8/8 b - - 33 78",
+      "originalMoves": [
+        "e8e1",
+        "a7a8"
+      ],
+      "rating": 966,
+      "popularity": 97,
+      "plays": 1226,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-B2NNH",
+    "number": 8,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 08",
+    "intro": "你用白棋，黑王在 c1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/2K5/7R/1qk5 w - - 0 65",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h2h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 h2 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "B2NNH",
+      "url": "https://lichess.org/training/B2NNH",
+      "gameUrl": "https://lichess.org/CSgcg8wz/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/2K5/1p5R/2k5 b - - 3 64",
+      "originalMoves": [
+        "b2b1q",
+        "h2h1"
+      ],
+      "rating": 971,
+      "popularity": 96,
+      "plays": 1834,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-44Joh",
+    "number": 9,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 09",
+    "intro": "你用白棋，黑王在 c1。找一步将军，让它无路可走。",
+    "fen": "1r6/8/8/8/8/2K5/7R/2k5 w - - 18 92",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h2h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 h2 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "44Joh",
+      "url": "https://lichess.org/training/44Joh",
+      "gameUrl": "https://lichess.org/TUKh4LqN/black#182",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/2K5/7R/1rk5 b - - 17 91",
+      "originalMoves": [
+        "b1b8",
+        "h2h1"
+      ],
+      "rating": 979,
+      "popularity": 96,
+      "plays": 4087,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-AiuDs",
+    "number": 10,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 10",
+    "intro": "你用白棋，黑王在 c1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/2K5/R7/2k2r2 w - - 3 75",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a2a1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a2 走到 a1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "AiuDs",
+      "url": "https://lichess.org/training/AiuDs",
+      "gameUrl": "https://lichess.org/jS1F9MOL/black#148",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/2K5/R7/2kr4 b - - 2 74",
+      "originalMoves": [
+        "d1f1",
+        "a2a1"
+      ],
+      "rating": 1107,
+      "popularity": 95,
+      "plays": 2886,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5Rly6",
+    "number": 11,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 11",
+    "intro": "你用白棋，黑王在 g1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/6K1/2R5/6kq w - - 0 61",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c2c1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 c2 走到 c1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5Rly6",
+      "url": "https://lichess.org/training/5Rly6",
+      "gameUrl": "https://lichess.org/mgj2tv17/black#120",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/6K1/2R4p/6k1 b - - 0 60",
+      "originalMoves": [
+        "h2h1q",
+        "c2c1"
+      ],
+      "rating": 1113,
+      "popularity": 96,
+      "plays": 3002,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-62rvb",
+    "number": 12,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 12",
+    "intro": "你用白棋，黑王在 d1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/3K4/R7/3kq3 w - - 0 85",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a2a1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a2 走到 a1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "62rvb",
+      "url": "https://lichess.org/training/62rvb",
+      "gameUrl": "https://lichess.org/2GYXO2b5/black#168",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/3K4/R3p3/3k4 b - - 3 84",
+      "originalMoves": [
+        "e2e1q",
+        "a2a1"
+      ],
+      "rating": 1149,
+      "popularity": 99,
+      "plays": 1038,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DVClj",
+    "number": 13,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 13",
+    "intro": "你用白棋，黑王在 g1。找一步将军，让它无路可走。",
+    "fen": "8/8/R7/8/8/5K2/7r/6k1 w - - 32 82",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a6a1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a6 走到 a1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DVClj",
+      "url": "https://lichess.org/training/DVClj",
+      "gameUrl": "https://lichess.org/EQ4SR3kl/black#162",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/R7/8/8/5K2/6r1/6k1 b - - 31 81",
+      "originalMoves": [
+        "g2h2",
+        "a6a1"
+      ],
+      "rating": 1154,
+      "popularity": 94,
+      "plays": 5022,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-D1Rfg",
+    "number": 14,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 14",
+    "intro": "你用白棋，黑王在 h6。找一步将军，让它无路可走。",
+    "fen": "7r/8/5K1k/8/8/8/6R1/8 w - - 2 74",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g2h2"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 g2 走到 h2。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "D1Rfg",
+      "url": "https://lichess.org/training/D1Rfg",
+      "gameUrl": "https://lichess.org/qmI6p7l8/black#146",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/7r/5K1k/8/8/8/6R1/8 b - - 1 73",
+      "originalMoves": [
+        "h7h8",
+        "g2h2"
+      ],
+      "rating": 1174,
+      "popularity": 93,
+      "plays": 1732,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2rYQq",
+    "number": 15,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 15",
+    "intro": "你用白棋，黑王在 g1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/r5p1/4R1K1/8/6k1 w - - 14 66",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e3e1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e3 走到 e1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2rYQq",
+      "url": "https://lichess.org/training/2rYQq",
+      "gameUrl": "https://lichess.org/68qRvpZI/black#130",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/r5p1/4R1K1/8/5k2 b - - 13 65",
+      "originalMoves": [
+        "f1g1",
+        "e3e1"
+      ],
+      "rating": 400,
+      "popularity": 92,
+      "plays": 1128,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Bhuv7",
+    "number": 16,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 16",
+    "intro": "你用白棋，黑王在 g1。找一步将军，让它无路可走。",
+    "fen": "8/4R3/8/8/8/5K2/6rp/6k1 w - - 20 80",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e7e1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e7 走到 e1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Bhuv7",
+      "url": "https://lichess.org/training/Bhuv7",
+      "gameUrl": "https://lichess.org/o904s4zb/black#158",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/4R3/8/8/8/5K2/6rp/7k b - - 19 79",
+      "originalMoves": [
+        "h1g1",
+        "e7e1"
+      ],
+      "rating": 485,
+      "popularity": 93,
+      "plays": 1122,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-D5YvG",
+    "number": 17,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 17",
+    "intro": "你用白棋，黑王在 g8。找一步将军，让它无路可走。",
+    "fen": "6k1/8/5KP1/4R3/8/8/8/7q w - - 1 63",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e5e8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e5 走到 e8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "D5YvG",
+      "url": "https://lichess.org/training/D5YvG",
+      "gameUrl": "https://lichess.org/WXC5dzLK/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/8/5KP1/4R3/8/8/8/q7 b - - 0 62",
+      "originalMoves": [
+        "a1h1",
+        "e5e8"
+      ],
+      "rating": 498,
+      "popularity": 99,
+      "plays": 1056,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3zJv1",
+    "number": 18,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 18",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/8/6p1/6rk/2R5/7K/8 w - - 27 70",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c3h3"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 c3 走到 h3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3zJv1",
+      "url": "https://lichess.org/training/3zJv1",
+      "gameUrl": "https://lichess.org/mRoilAmH/black#138",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/6pk/6r1/2R5/7K/8 b - - 26 69",
+      "originalMoves": [
+        "h5h4",
+        "c3h3"
+      ],
+      "rating": 517,
+      "popularity": 96,
+      "plays": 1320,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3Lt8K",
+    "number": 19,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 19",
+    "intro": "你用白棋，黑王在 g8。找一步将军，让它无路可走。",
+    "fen": "6k1/4R3/6Kp/8/8/8/7r/8 w - - 4 71",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e7e8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e7 走到 e8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3Lt8K",
+      "url": "https://lichess.org/training/3Lt8K",
+      "gameUrl": "https://lichess.org/Fq3g8ydi/black#140",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/4R3/6Kp/7r/8/8/8/8 b - - 3 70",
+      "originalMoves": [
+        "h5h2",
+        "e7e8"
+      ],
+      "rating": 768,
+      "popularity": 100,
+      "plays": 1507,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Cwx3J",
+    "number": 20,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 20",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/6R1/1r3p2/5K1k/8/8/8 w - - 1 52",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g6h6"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 g6 走到 h6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Cwx3J",
+      "url": "https://lichess.org/training/Cwx3J",
+      "gameUrl": "https://lichess.org/l1RpvDH8/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6R1/4rp2/5K1k/8/8/8 b - - 0 51",
+      "originalMoves": [
+        "e5b5",
+        "g6h6"
+      ],
+      "rating": 919,
+      "popularity": 96,
+      "plays": 1589,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-CEpsC",
+    "number": 21,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 21",
+    "intro": "你用白棋，黑王在 h5。找一步将军，让它无路可走。",
+    "fen": "8/3r4/8/5K1k/8/8/3p4/3R4 w - - 2 52",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d1h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 d1 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "CEpsC",
+      "url": "https://lichess.org/training/CEpsC",
+      "gameUrl": "https://lichess.org/7NRwrOad/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3r4/7k/5K2/8/8/3p4/3R4 b - - 1 51",
+      "originalMoves": [
+        "h6h5",
+        "d1h1"
+      ],
+      "rating": 982,
+      "popularity": 93,
+      "plays": 1445,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-8Julq",
+    "number": 22,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 22",
+    "intro": "你用白棋，黑王在 h3。找一步将军，让它无路可走。",
+    "fen": "3R4/8/8/8/5K2/1r5k/6p1/8 w - - 0 48",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d8h8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 d8 走到 h8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "8Julq",
+      "url": "https://lichess.org/training/8Julq",
+      "gameUrl": "https://lichess.org/8BwUmq4P/black#94",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3R4/8/8/8/5K2/1r4pk/8/8 b - - 0 47",
+      "originalMoves": [
+        "g3g2",
+        "d8h8"
+      ],
+      "rating": 999,
+      "popularity": 95,
+      "plays": 2057,
+      "themes": [
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0Og6f",
+    "number": 23,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 23",
+    "intro": "你用白棋，黑王在 h8。找一步将军，让它无路可走。",
+    "fen": "7k/7B/6K1/8/8/8/8/3q1R2 w - - 0 53",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "f1f8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 f1 走到 f8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0Og6f",
+      "url": "https://lichess.org/training/0Og6f",
+      "gameUrl": "https://lichess.org/4ixEGS3u/black#104",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7k/7B/6K1/8/8/8/3p4/5R2 b - - 1 52",
+      "originalMoves": [
+        "d2d1q",
+        "f1f8"
+      ],
+      "rating": 1050,
+      "popularity": 95,
+      "plays": 2270,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-70rTN",
+    "number": 24,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 24",
+    "intro": "你用白棋，黑王在 b1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/1p6/1K6/4R3/qk6 w - - 0 80",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e2e1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e2 走到 e1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "70rTN",
+      "url": "https://lichess.org/training/70rTN",
+      "gameUrl": "https://lichess.org/H2IFI8Gw/black#158",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/1p6/1K6/p3R3/1k6 b - - 0 79",
+      "originalMoves": [
+        "a2a1q",
+        "e2e1"
+      ],
+      "rating": 1084,
+      "popularity": 97,
+      "plays": 6134,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2UVpX",
+    "number": 25,
+    "chapter": "01 · 车的一步将杀",
+    "title": "车的将杀 · 25",
+    "intro": "你用白棋，黑王在 a3。找一步将军，让它无路可走。",
+    "fen": "1R6/8/8/8/2K5/k6r/1p6/8 w - - 0 77",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b8a8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 b8 走到 a8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2UVpX",
+      "url": "https://lichess.org/training/2UVpX",
+      "gameUrl": "https://lichess.org/O9cBrFQ9/black#152",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1R6/8/8/8/2K5/kp5r/8/8 b - - 0 76",
+      "originalMoves": [
+        "b3b2",
+        "b8a8"
+      ],
+      "rating": 1093,
+      "popularity": 99,
+      "plays": 1557,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ApTEb",
+    "number": 26,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 01",
+    "intro": "你用白棋，黑王在 a4。找一步将军，让它无路可走。",
+    "fen": "2Q5/8/8/8/k1K5/8/8/1q6 w - - 0 61",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c8a6"
+      ],
+      [
+        "c8a8"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 c8 走到 a6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ApTEb",
+      "url": "https://lichess.org/training/ApTEb",
+      "gameUrl": "https://lichess.org/xqvL3HiO/black#120",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2Q5/8/8/8/k1K5/8/1p6/8 b - - 0 60",
+      "originalMoves": [
+        "b2b1q",
+        "c8a6"
+      ],
+      "rating": 598,
+      "popularity": 94,
+      "plays": 1274,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BhrRA",
+    "number": 27,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 02",
+    "intro": "你用白棋，黑王在 h1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/6Q1/5K2/6qk w - - 0 67",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g3g1"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 g3 走到 g1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BhrRA",
+      "url": "https://lichess.org/training/BhrRA",
+      "gameUrl": "https://lichess.org/v6H9ise7/black#132",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/6Q1/5Kp1/7k b - - 3 66",
+      "originalMoves": [
+        "g2g1q",
+        "g3g1"
+      ],
+      "rating": 744,
+      "popularity": 93,
+      "plays": 1479,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-00T85",
+    "number": 28,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 03",
+    "intro": "你用白棋，黑王在 c1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/4K3/5Q2/1qk5 w - - 6 54",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "f2d2"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 f2 走到 d2。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "00T85",
+      "url": "https://lichess.org/training/00T85",
+      "gameUrl": "https://lichess.org/j3dOR5SJ/black#106",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/4K3/1k3Q2/1q6 b - - 5 53",
+      "originalMoves": [
+        "b2c1",
+        "f2d2"
+      ],
+      "rating": 1039,
+      "popularity": 93,
+      "plays": 1530,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3mc1O",
+    "number": 29,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 04",
+    "intro": "你用白棋，黑王在 h5。找一步将军，让它无路可走。",
+    "fen": "6Q1/8/5K2/7k/8/8/8/4q3 w - - 4 77",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g8g5"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 g8 走到 g5。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3mc1O",
+      "url": "https://lichess.org/training/3mc1O",
+      "gameUrl": "https://lichess.org/29fdiqQn/black#152",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6Q1/8/5K2/8/6k1/8/8/4q3 b - - 3 76",
+      "originalMoves": [
+        "g4h5",
+        "g8g5"
+      ],
+      "rating": 1078,
+      "popularity": 94,
+      "plays": 1610,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-ADpdf",
+    "number": 30,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 05",
+    "intro": "你用白棋，黑王在 c1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/4K3/Q7/1qk5 w - - 0 63",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a2d2"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 a2 走到 d2。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "ADpdf",
+      "url": "https://lichess.org/training/ADpdf",
+      "gameUrl": "https://lichess.org/DXNBSMyK/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/4K3/Qp6/2k5 b - - 3 62",
+      "originalMoves": [
+        "b2b1q",
+        "a2d2"
+      ],
+      "rating": 1137,
+      "popularity": 96,
+      "plays": 2353,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-1N1SD",
+    "number": 31,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 06",
+    "intro": "你用白棋，黑王在 a2。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/8/p7/k1K5/1q4Q1 w - - 0 63",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g1b1"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 g1 走到 b1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "1N1SD",
+      "url": "https://lichess.org/training/1N1SD",
+      "gameUrl": "https://lichess.org/LnRZ6UL1/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/p7/kpK5/6Q1 b - - 1 62",
+      "originalMoves": [
+        "b2b1q",
+        "g1b1"
+      ],
+      "rating": 602,
+      "popularity": 93,
+      "plays": 1121,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BcUcc",
+    "number": 32,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 07",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/4Q3/6p1/7k/8/6K1/2q5 w - - 2 56",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e6h3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 e6 走到 h3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BcUcc",
+      "url": "https://lichess.org/training/BcUcc",
+      "gameUrl": "https://lichess.org/6Z8jC9k2/black#110",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4Q3/6p1/6k1/8/6K1/2q5 b - - 1 55",
+      "originalMoves": [
+        "g4h4",
+        "e6h3"
+      ],
+      "rating": 1100,
+      "popularity": 95,
+      "plays": 2061,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-1jNl1",
+    "number": 33,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 08",
+    "intro": "你用白棋，黑王在 b2。找一步将军，让它无路可走。",
+    "fen": "8/8/8/Q7/2K5/8/pk6/1q6 w - - 2 66",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a5c3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 a5 走到 c3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "1jNl1",
+      "url": "https://lichess.org/training/1jNl1",
+      "gameUrl": "https://lichess.org/a3UuHpEl/black#130",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/Q7/2K5/k7/p7/1q6 b - - 1 65",
+      "originalMoves": [
+        "a3b2",
+        "a5c3"
+      ],
+      "rating": 1170,
+      "popularity": 92,
+      "plays": 1477,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-D5DQh",
+    "number": 34,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 09",
+    "intro": "你用白棋，黑王在 d1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/1Q6/4K1p1/6q1/3k4 w - - 8 63",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b4b1"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 b4 走到 b1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "D5DQh",
+      "url": "https://lichess.org/training/D5DQh",
+      "gameUrl": "https://lichess.org/sSVVvn2B/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/1Q6/4K1p1/6q1/4k3 b - - 7 62",
+      "originalMoves": [
+        "e1d1",
+        "b4b1"
+      ],
+      "rating": 1193,
+      "popularity": 91,
+      "plays": 4080,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DQVPs",
+    "number": 35,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 10",
+    "intro": "你用白棋，黑王在 d1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/1Q6/3r4/2p1bK2/3k4 w - - 0 91",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b4e1"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 b4 走到 e1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DQVPs",
+      "url": "https://lichess.org/training/DQVPs",
+      "gameUrl": "https://lichess.org/uYlUig97/black#180",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/1Q6/2pr4/4bK2/3k4 b - - 25 90",
+      "originalMoves": [
+        "c3c2",
+        "b4e1"
+      ],
+      "rating": 879,
+      "popularity": 96,
+      "plays": 1255,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-8Xev6",
+    "number": 36,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 11",
+    "intro": "你用白棋，黑王在 g3。找一步将军，让它无路可走。",
+    "fen": "8/8/8/5Q2/6p1/3p2kq/8/6K1 w - - 8 77",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "f5f2"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 f5 走到 f2。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "8Xev6",
+      "url": "https://lichess.org/training/8Xev6",
+      "gameUrl": "https://lichess.org/R9nwIC7F/black#152",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/5Q2/6p1/3p1k1q/8/6K1 b - - 7 76",
+      "originalMoves": [
+        "f3g3",
+        "f5f2"
+      ],
+      "rating": 960,
+      "popularity": 96,
+      "plays": 1835,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-C4F8F",
+    "number": 37,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 12",
+    "intro": "你用白棋，黑王在 h6。找一步将军，让它无路可走。",
+    "fen": "3Q2K1/q7/6pk/8/2p5/8/8/8 w - - 0 62",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d8h4"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 d8 走到 h4。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "C4F8F",
+      "url": "https://lichess.org/training/C4F8F",
+      "gameUrl": "https://lichess.org/QycZqjh4/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3Q2K1/R7/6pk/2q5/2p5/8/8/8 b - - 10 61",
+      "originalMoves": [
+        "c5a7",
+        "d8h4"
+      ],
+      "rating": 981,
+      "popularity": 97,
+      "plays": 5990,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-65EcB",
+    "number": 38,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 13",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/4Q2p/8/7k/1P3K2/8/6q1 w - - 6 68",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e6h6"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 e6 走到 h6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "65EcB",
+      "url": "https://lichess.org/training/65EcB",
+      "gameUrl": "https://lichess.org/LRslG8lF/black#134",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4Q2p/8/8/1P3K1k/8/6q1 b - - 5 67",
+      "originalMoves": [
+        "h3h4",
+        "e6h6"
+      ],
+      "rating": 992,
+      "popularity": 95,
+      "plays": 2634,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-Ct19J",
+    "number": 39,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 14",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/3Q4/8/4p1b1/7k/8/6K1/1q6 w - - 7 63",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d7h3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 d7 走到 h3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "Ct19J",
+      "url": "https://lichess.org/training/Ct19J",
+      "gameUrl": "https://lichess.org/NyGc92Ak/black#124",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3Q4/8/4p1b1/6k1/8/6K1/1q6 b - - 6 62",
+      "originalMoves": [
+        "g4h4",
+        "d7h3"
+      ],
+      "rating": 1101,
+      "popularity": 98,
+      "plays": 1103,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5D4HG",
+    "number": 40,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 15",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/6pp/4Q2q/7k/8/6K1/8 w - - 10 75",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e5g3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 e5 走到 g3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5D4HG",
+      "url": "https://lichess.org/training/5D4HG",
+      "gameUrl": "https://lichess.org/uHb3YyyC/black#148",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6pp/4Q1kq/8/8/6K1/8 b - - 9 74",
+      "originalMoves": [
+        "g5h4",
+        "e5g3"
+      ],
+      "rating": 1126,
+      "popularity": 99,
+      "plays": 2740,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3FsA0",
+    "number": 41,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 16",
+    "intro": "你用白棋，黑王在 d1。找一步将军，让它无路可走。",
+    "fen": "8/8/K7/8/P7/7Q/2qp4/3k4 w - - 0 74",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h3f1"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 h3 走到 f1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3FsA0",
+      "url": "https://lichess.org/training/3FsA0",
+      "gameUrl": "https://lichess.org/YvFIt8jp/black#146",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/K7/8/P7/3p3Q/2q5/3k4 b - - 4 73",
+      "originalMoves": [
+        "d3d2",
+        "h3f1"
+      ],
+      "rating": 1132,
+      "popularity": 97,
+      "plays": 1565,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-18gFE",
+    "number": 42,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 17",
+    "intro": "你用白棋，黑王在 a6。找一步将军，让它无路可走。",
+    "fen": "4q3/8/k5b1/2QK4/3B4/8/8/8 w - - 6 98",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c5b6"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 c5 走到 b6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "18gFE",
+      "url": "https://lichess.org/training/18gFE",
+      "gameUrl": "https://lichess.org/GhuKFlHX/black#194",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4q3/8/6b1/k1QK4/3B4/8/8/8 b - - 5 97",
+      "originalMoves": [
+        "a5a6",
+        "c5b6"
+      ],
+      "rating": 1145,
+      "popularity": 97,
+      "plays": 2916,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-6kFAO",
+    "number": 43,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 18",
+    "intro": "你用白棋，黑王在 h6。找一步将军，让它无路可走。",
+    "fen": "4Q3/8/7k/7P/3q4/1K2p3/8/8 w - - 0 85",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e8g6"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 e8 走到 g6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "6kFAO",
+      "url": "https://lichess.org/training/6kFAO",
+      "gameUrl": "https://lichess.org/825da6CB/black#168",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4Q3/8/7k/7P/3qp3/1K6/8/8 b - - 12 84",
+      "originalMoves": [
+        "e4e3",
+        "e8g6"
+      ],
+      "rating": 1161,
+      "popularity": 96,
+      "plays": 5576,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3OB0O",
+    "number": 44,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 19",
+    "intro": "你用白棋，黑王在 e2。找一步将军，让它无路可走。",
+    "fen": "8/3Q4/8/5p2/8/4p3/4kq2/2K5 w - - 8 64",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d7d1"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 d7 走到 d1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3OB0O",
+      "url": "https://lichess.org/training/3OB0O",
+      "gameUrl": "https://lichess.org/hweUlbiE/black#126",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3Q4/8/5p2/8/3kp3/5q2/2K5 b - - 7 63",
+      "originalMoves": [
+        "d3e2",
+        "d7d1"
+      ],
+      "rating": 1169,
+      "popularity": 96,
+      "plays": 8724,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0u5Sh",
+    "number": 45,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 20",
+    "intro": "你用白棋，黑王在 h6。找一步将军，让它无路可走。",
+    "fen": "8/7p/7k/1Q6/7K/P4q2/8/8 w - - 0 51",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b5g5"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 b5 走到 g5。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0u5Sh",
+      "url": "https://lichess.org/training/0u5Sh",
+      "gameUrl": "https://lichess.org/ew9JAXJH/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/7p/7k/1Q6/7K/P4P2/6q1/8 b - - 0 50",
+      "originalMoves": [
+        "g2f3",
+        "b5g5"
+      ],
+      "rating": 1169,
+      "popularity": 95,
+      "plays": 1837,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7yoiw",
+    "number": 46,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 21",
+    "intro": "你用白棋，黑王在 f2。找一步将军，让它无路可走。",
+    "fen": "8/8/8/4Q3/6PK/8/4qk2/5q2 w - - 4 70",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e5g3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 e5 走到 g3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7yoiw",
+      "url": "https://lichess.org/training/7yoiw",
+      "gameUrl": "https://lichess.org/34wmSwA7/black#138",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/4Q3/6PK/4k3/4q3/5q2 b - - 3 69",
+      "originalMoves": [
+        "e3f2",
+        "e5g3"
+      ],
+      "rating": 1175,
+      "popularity": 93,
+      "plays": 3431,
+      "themes": [
+        "dovetailMate",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-D7HIG",
+    "number": 47,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 22",
+    "intro": "你用白棋，黑王在 h6。找一步将军，让它无路可走。",
+    "fen": "8/8/6pk/5p2/2KQ1P2/6q1/8/8 w - - 0 52",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d4h8"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 d4 走到 h8。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "D7HIG",
+      "url": "https://lichess.org/training/D7HIG",
+      "gameUrl": "https://lichess.org/b3Tf5Hnh/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6pk/5p2/2KQ1P2/6P1/5q2/8 b - - 0 51",
+      "originalMoves": [
+        "f2g3",
+        "d4h8"
+      ],
+      "rating": 752,
+      "popularity": 94,
+      "plays": 1194,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3tDIc",
+    "number": 48,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 23",
+    "intro": "你用白棋，黑王在 g5。找一步将军，让它无路可走。",
+    "fen": "5Q2/8/1q4p1/6kp/8/5K2/5P2/8 w - - 3 53",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "f8f4"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 f8 走到 f4。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3tDIc",
+      "url": "https://lichess.org/training/3tDIc",
+      "gameUrl": "https://lichess.org/fcemyoW3/black#104",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5Q2/8/1q4pk/7p/8/5K2/5P2/8 b - - 2 52",
+      "originalMoves": [
+        "h6g5",
+        "f8f4"
+      ],
+      "rating": 756,
+      "popularity": 97,
+      "plays": 1184,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-4Cssw",
+    "number": 49,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 24",
+    "intro": "你用白棋，黑王在 f6。找一步将军，让它无路可走。",
+    "fen": "8/5p2/4pk2/3p4/7K/4Q3/8/5q2 w - - 2 56",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e3g5"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 e3 走到 g5。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "4Cssw",
+      "url": "https://lichess.org/training/4Cssw",
+      "gameUrl": "https://lichess.org/Rye68O5t/black#110",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5p2/4p3/3pk3/7K/4Q3/8/5q2 b - - 1 55",
+      "originalMoves": [
+        "e5f6",
+        "e3g5"
+      ],
+      "rating": 871,
+      "popularity": 91,
+      "plays": 1633,
+      "themes": [
+        "dovetailMate",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-92VgE",
+    "number": 50,
+    "chapter": "02 · 后的一步将杀",
+    "title": "后的将杀 · 25",
+    "intro": "你用白棋，黑王在 c4。找一步将军，让它无路可走。",
+    "fen": "1Q4K1/8/8/2r5/2kq2p1/4R3/8/8 w - - 8 68",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b8b3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。将军后，对手还能逃、挡或吃吗？",
+      "试试后从 b8 走到 b3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "92VgE",
+      "url": "https://lichess.org/training/92VgE",
+      "gameUrl": "https://lichess.org/8bbPNWWN/black#134",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1Q4K1/8/8/2r5/1k1q2p1/4R3/8/8 b - - 7 67",
+      "originalMoves": [
+        "b4c4",
+        "b8b3"
+      ],
+      "rating": 899,
+      "popularity": 96,
+      "plays": 1002,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BYPi5",
+    "number": 51,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 01",
+    "intro": "你用白棋，黑王在 b8。找一步将军，让它无路可走。",
+    "fen": "1k6/1P6/1KP5/8/8/8/5r2/8 w - - 0 77",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c6c7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 c6 走到 c7。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BYPi5",
+      "url": "https://lichess.org/training/BYPi5",
+      "gameUrl": "https://lichess.org/pcADwV0I/black#152",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1k6/1P3r2/1KP5/8/8/8/5R2/8 b - - 0 76",
+      "originalMoves": [
+        "f7f2",
+        "c6c7"
+      ],
+      "rating": 465,
+      "popularity": 94,
+      "plays": 1049,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-DcHYc",
+    "number": 52,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 02",
+    "intro": "你用白棋，黑王在 h8。找一步将军，让它无路可走。",
+    "fen": "7k/5K2/6P1/8/4B3/8/8/7q w - - 0 66",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g6g7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 g6 走到 g7。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "DcHYc",
+      "url": "https://lichess.org/training/DcHYc",
+      "gameUrl": "https://lichess.org/PbYsk2ph/black#130",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7k/5K2/6P1/8/4B3/8/7p/8 b - - 0 65",
+      "originalMoves": [
+        "h2h1q",
+        "g6g7"
+      ],
+      "rating": 1095,
+      "popularity": 93,
+      "plays": 4158,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BRAoL",
+    "number": 53,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 03",
+    "intro": "你用白棋，黑王在 h5。找一步将军，让它无路可走。",
+    "fen": "8/8/1R6/6pk/8/6PK/8/r7 w - - 2 61",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g3g4"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 g3 走到 g4。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BRAoL",
+      "url": "https://lichess.org/training/BRAoL",
+      "gameUrl": "https://lichess.org/J4wBG8e6/black#120",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1R4k1/6p1/8/6PK/8/r7 b - - 1 60",
+      "originalMoves": [
+        "g6h5",
+        "g3g4"
+      ],
+      "rating": 825,
+      "popularity": 95,
+      "plays": 1156,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-28RzL",
+    "number": 54,
+    "chapter": "03 · 小兵与升变",
+    "title": "升变将杀 · 04",
+    "intro": "你用白棋，黑王在 h3。找一步将军，让它无路可走。",
+    "fen": "8/6RP/8/4K3/8/7k/4p3/5r2 w - - 0 71",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h7h8q"
+      ],
+      [
+        "h7h8r"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 h7 走到 h8，升变成后。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "28RzL",
+      "url": "https://lichess.org/training/28RzL",
+      "gameUrl": "https://lichess.org/rkU0BM1v/black#140",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6RP/8/4K3/8/4p2k/8/5r2 b - - 0 70",
+      "originalMoves": [
+        "e3e2",
+        "h7h8q"
+      ],
+      "rating": 845,
+      "popularity": 97,
+      "plays": 1381,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BHIzD",
+    "number": 55,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 05",
+    "intro": "你用白棋，黑王在 b5。找一步将军，让它无路可走。",
+    "fen": "8/8/5R2/pkr5/8/1K6/P7/8 w - - 7 59",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a2a4"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 a2 走到 a4。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BHIzD",
+      "url": "https://lichess.org/training/BHIzD",
+      "gameUrl": "https://lichess.org/BKspUaMp/black#116",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/5R2/pk1r4/8/1K6/P7/8 b - - 6 58",
+      "originalMoves": [
+        "d5c5",
+        "a2a4"
+      ],
+      "rating": 910,
+      "popularity": 97,
+      "plays": 1290,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7zZnW",
+    "number": 56,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 06",
+    "intro": "你用白棋，黑王在 h8。找一步将军，让它无路可走。",
+    "fen": "3b3k/8/4B1PK/8/p7/1p6/8/8 w - - 0 57",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g6g7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 g6 走到 g7。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7zZnW",
+      "url": "https://lichess.org/training/7zZnW",
+      "gameUrl": "https://lichess.org/gJvIqxAK/black#112",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3Q3k/8/4BbPK/8/p7/1p6/8/8 b - - 0 56",
+      "originalMoves": [
+        "f6d8",
+        "g6g7"
+      ],
+      "rating": 643,
+      "popularity": 92,
+      "plays": 1319,
+      "themes": [
+        "advancedPawn",
+        "bishopEndgame",
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-1Sd2F",
+    "number": 57,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 07",
+    "intro": "你用白棋，黑王在 b8。找一步将军，让它无路可走。",
+    "fen": "1k6/1P6/PK5p/8/6P1/8/8/7q w - - 0 51",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a6a7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 a6 走到 a7。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "1Sd2F",
+      "url": "https://lichess.org/training/1Sd2F",
+      "gameUrl": "https://lichess.org/NZyefE4r/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1k6/1P6/PK5p/8/6P1/8/7p/8 b - - 0 50",
+      "originalMoves": [
+        "h2h1q",
+        "a6a7"
+      ],
+      "rating": 857,
+      "popularity": 90,
+      "plays": 1487,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0CCsd",
+    "number": 58,
+    "chapter": "03 · 小兵与升变",
+    "title": "升变将杀 · 08",
+    "intro": "你用白棋，黑王在 c8。找一步将军，让它无路可走。",
+    "fen": "2k5/7P/2K5/2P2p2/8/7P/8/5q2 w - - 0 52",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h7h8q"
+      ],
+      [
+        "h7h8r"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 h7 走到 h8，升变成后。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0CCsd",
+      "url": "https://lichess.org/training/0CCsd",
+      "gameUrl": "https://lichess.org/qtHGh0ki/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2k5/7P/2K5/2P2p2/8/7P/5p2/8 b - - 0 51",
+      "originalMoves": [
+        "f2f1q",
+        "h7h8q"
+      ],
+      "rating": 868,
+      "popularity": 91,
+      "plays": 1033,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion",
+        "queenEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2GH4Q",
+    "number": 59,
+    "chapter": "03 · 小兵与升变",
+    "title": "升变将杀 · 09",
+    "intro": "你用白棋，黑王在 b7。找一步将军，让它无路可走。",
+    "fen": "8/1kP5/1PR5/8/8/K7/P7/7q w - - 0 51",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c7c8q"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 c7 走到 c8，升变成后。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2GH4Q",
+      "url": "https://lichess.org/training/2GH4Q",
+      "gameUrl": "https://lichess.org/j7JYYWtC/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/1kP5/1PR5/8/8/K7/P6p/8 b - - 0 50",
+      "originalMoves": [
+        "h2h1q",
+        "c7c8q"
+      ],
+      "rating": 876,
+      "popularity": 95,
+      "plays": 1000,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "promotion",
+        "triangleMate"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0abZ0",
+    "number": 60,
+    "chapter": "03 · 小兵与升变",
+    "title": "小兵将杀 · 10",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "6R1/8/8/7p/7k/4rp2/6PK/8 w - - 0 67",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g2g3"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。将军后，对手还能逃、挡或吃吗？",
+      "试试兵从 g2 走到 g3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0abZ0",
+      "url": "https://lichess.org/training/0abZ0",
+      "gameUrl": "https://lichess.org/mRdHKRD0/black#132",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6R1/8/8/7p/5p1k/4r3/6PK/8 b - - 29 66",
+      "originalMoves": [
+        "f4f3",
+        "g2g3"
+      ],
+      "rating": 999,
+      "popularity": 98,
+      "plays": 3234,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-1bJcc",
+    "number": 61,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "马的将杀 · 01",
+    "intro": "你用白棋，黑王在 h8。找一步将军，让它无路可走。",
+    "fen": "7k/8/1q3NK1/4N3/8/8/8/8 w - - 8 61",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e5f7"
+      ]
+    ],
+    "hints": [
+      "先看看白马。将军后，对手还能逃、挡或吃吗？",
+      "试试马从 e5 走到 f7。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "1bJcc",
+      "url": "https://lichess.org/training/1bJcc",
+      "gameUrl": "https://lichess.org/vUSwYXjq/black#120",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7k/q7/5NK1/4N3/8/8/8/8 b - - 7 60",
+      "originalMoves": [
+        "a7b6",
+        "e5f7"
+      ],
+      "rating": 781,
+      "popularity": 95,
+      "plays": 1624,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "superGM"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0YMqu",
+    "number": 62,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "马的将杀 · 02",
+    "intro": "你用白棋，黑王在 e8。找一步将军，让它无路可走。",
+    "fen": "4k3/4P3/4K3/3N4/8/8/8/2q5 w - - 0 64",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "d5f6"
+      ]
+    ],
+    "hints": [
+      "先看看白马。将军后，对手还能逃、挡或吃吗？",
+      "试试马从 d5 走到 f6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0YMqu",
+      "url": "https://lichess.org/training/0YMqu",
+      "gameUrl": "https://lichess.org/eAg8BKXJ/black#126",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4k3/4P3/4K3/3N4/8/8/2p5/8 b - - 1 63",
+      "originalMoves": [
+        "c2c1q",
+        "d5f6"
+      ],
+      "rating": 1031,
+      "popularity": 94,
+      "plays": 1225,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ]
+    }
+  },
+  {
+    "id": "lichess-CwKl7",
+    "number": 63,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 03",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/4R2p/6p1/6rk/5K2/8/8 w - - 0 43",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e6h6"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e6 走到 h6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "CwKl7",
+      "url": "https://lichess.org/training/CwKl7",
+      "gameUrl": "https://lichess.org/bvLXEPII/black#84",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/4R1pp/8/6rk/5K2/8/8 b - - 0 42",
+      "originalMoves": [
+        "g6g5",
+        "e6h6"
+      ],
+      "rating": 487,
+      "popularity": 95,
+      "plays": 1738,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3GpAW",
+    "number": 64,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 04",
+    "intro": "你用白棋，黑王在 a4。找一步将军，让它无路可走。",
+    "fen": "8/8/4R3/1pp5/kr6/2K5/8/8 w - - 0 45",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "e6a6"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 e6 走到 a6。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3GpAW",
+      "url": "https://lichess.org/training/3GpAW",
+      "gameUrl": "https://lichess.org/Jnqjuysc/black#88",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1p2R3/2p5/kr6/2K5/8/8 b - - 3 44",
+      "originalMoves": [
+        "b6b5",
+        "e6a6"
+      ],
+      "rating": 521,
+      "popularity": 95,
+      "plays": 1126,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-CwKnP",
+    "number": 65,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 05",
+    "intro": "你用白棋，黑王在 a4。找一步将军，让它无路可走。",
+    "fen": "7r/8/8/1p6/k7/2K5/7p/7R w - - 6 53",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "h1a1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 h1 走到 a1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "CwKnP",
+      "url": "https://lichess.org/training/CwKnP",
+      "gameUrl": "https://lichess.org/qWBz8u8A/black#104",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "7r/8/8/kp6/8/2K5/7p/7R b - - 5 52",
+      "originalMoves": [
+        "a5a4",
+        "h1a1"
+      ],
+      "rating": 588,
+      "popularity": 99,
+      "plays": 1130,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5gQSn",
+    "number": 66,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 06",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/8/7p/5K1k/6p1/8/6Rr w - - 2 56",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "g1h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 g1 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5gQSn",
+      "url": "https://lichess.org/training/5gQSn",
+      "gameUrl": "https://lichess.org/VyxbEdmu/black#110",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/7p/5K1k/6pr/8/6R1 b - - 1 55",
+      "originalMoves": [
+        "h3h1",
+        "g1h1"
+      ],
+      "rating": 607,
+      "popularity": 94,
+      "plays": 1455,
+      "themes": [
+        "endgame",
+        "hangingPiece",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-1hh2J",
+    "number": 67,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 07",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/8/6p1/r4p1k/5K2/8/2R5 w - - 0 52",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c1h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 c1 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "1hh2J",
+      "url": "https://lichess.org/training/1hh2J",
+      "gameUrl": "https://lichess.org/3EtLWDNG/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6p1/8/r4p1k/5K2/8/2R5 b - - 1 51",
+      "originalMoves": [
+        "g6g5",
+        "c1h1"
+      ],
+      "rating": 662,
+      "popularity": 91,
+      "plays": 1121,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-41OUC",
+    "number": 68,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 08",
+    "intro": "你用白棋，黑王在 h4。找一步将军，让它无路可走。",
+    "fen": "8/8/8/6pp/6rk/8/5K2/R7 w - - 0 44",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "a1h1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 a1 走到 h1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "41OUC",
+      "url": "https://lichess.org/training/41OUC",
+      "gameUrl": "https://lichess.org/OeJDb50p/black#86",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/6p1/7p/6rk/8/5K2/R7 b - - 2 43",
+      "originalMoves": [
+        "g6g5",
+        "a1h1"
+      ],
+      "rating": 682,
+      "popularity": 94,
+      "plays": 1147,
+      "themes": [
+        "endgame",
+        "master",
+        "masterVsMaster",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-2Vfqn",
+    "number": 69,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 09",
+    "intro": "你用白棋，黑王在 e1。找一步将军，让它无路可走。",
+    "fen": "8/8/8/8/1pR5/4K3/1r6/4kq2 w - - 0 60",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "c4c1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 c4 走到 c1。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "2Vfqn",
+      "url": "https://lichess.org/training/2Vfqn",
+      "gameUrl": "https://lichess.org/kLfTtiQT/black#118",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/1pR5/4K3/1r3p2/4k3 b - - 7 59",
+      "originalMoves": [
+        "f2f1q",
+        "c4c1"
+      ],
+      "rating": 772,
+      "popularity": 95,
+      "plays": 2253,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5JXA1",
+    "number": 70,
+    "chapter": "04 · 换个棋子找将杀",
+    "title": "车的将杀 · 10",
+    "intro": "你用白棋，黑王在 h5。找一步将军，让它无路可走。",
+    "fen": "8/8/8/1r3P1k/1p3K2/1R6/8/8 w - - 0 67",
+    "goal": "白方一步将杀",
+    "mateIn": 1,
+    "lines": [
+      [
+        "b3h3"
+      ]
+    ],
+    "hints": [
+      "先看看白车。将军后，对手还能逃、挡或吃吗？",
+      "试试车从 b3 走到 h3。"
+    ],
+    "explanation": "黑王被将军，而且没有任何合法应对，这才是将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5JXA1",
+      "url": "https://lichess.org/training/5JXA1",
+      "gameUrl": "https://lichess.org/TZJ8Z2MN/black#132",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/7k/1r3P1P/1p3K2/1R6/8/8 b - - 0 66",
+      "originalMoves": [
+        "h6h5",
+        "b3h3"
+      ],
+      "rating": 790,
+      "popularity": 99,
+      "plays": 1311,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ]
+    }
+  },
+  {
+    "id": "lichess-97FFE",
+    "number": 71,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 01",
+    "intro": "你用白棋，黑王在 a5。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "2R5/1r6/8/k1K5/8/8/8/8 w - - 8 68",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "c8a8",
+        "b7a7",
+        "a8a7"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 c8 走到 a8。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "97FFE",
+      "url": "https://lichess.org/training/97FFE",
+      "gameUrl": "https://lichess.org/W5O6LEri/black#134",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2R5/r7/8/k1K5/8/8/8/8 b - - 7 67",
+      "originalMoves": [
+        "a7b7",
+        "c8a8",
+        "b7a7",
+        "a8a7"
+      ],
+      "rating": 495,
+      "popularity": 97,
+      "plays": 1193,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-07BVD",
+    "number": 72,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 02",
+    "intro": "你用白棋，黑王在 h7。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/5K1k/8/6r1/8/8/5R2/8 w - - 2 78",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "f2h2",
+        "g5h5",
+        "h2h5"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 f2 走到 h2。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "07BVD",
+      "url": "https://lichess.org/training/07BVD",
+      "gameUrl": "https://lichess.org/MdGayTFL/black#154",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5K1k/8/7r/8/8/5R2/8 b - - 1 77",
+      "originalMoves": [
+        "h5g5",
+        "f2h2",
+        "g5h5",
+        "h2h5"
+      ],
+      "rating": 666,
+      "popularity": 97,
+      "plays": 1854,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-6B2vQ",
+    "number": 73,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 03",
+    "intro": "你用白棋，黑王在 c8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "2k5/7R/2K5/6r1/8/8/8/8 w - - 83 92",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "h7h8",
+        "g5g8",
+        "h8g8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 h7 走到 h8。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "6B2vQ",
+      "url": "https://lichess.org/training/6B2vQ",
+      "gameUrl": "https://lichess.org/O0nqJJbO/black#182",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "2k5/7R/2K5/r7/8/8/8/8 b - - 82 91",
+      "originalMoves": [
+        "a5g5",
+        "h7h8",
+        "g5g8",
+        "h8g8"
+      ],
+      "rating": 763,
+      "popularity": 96,
+      "plays": 1527,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-84Pkq",
+    "number": 74,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 04",
+    "intro": "你用白棋，黑王在 h6。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/8/5K1k/8/4r3/8/3R4/8 w - - 0 40",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "d2h2",
+        "e4h4",
+        "h2h4"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 d2 走到 h2。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "84Pkq",
+      "url": "https://lichess.org/training/84Pkq",
+      "gameUrl": "https://lichess.org/dA1NM2B9/black#78",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/5K1k/8/1r2P3/8/3R4/8 b - - 0 39",
+      "originalMoves": [
+        "b4e4",
+        "d2h2",
+        "e4h4",
+        "h2h4"
+      ],
+      "rating": 910,
+      "popularity": 94,
+      "plays": 1289,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-BTIx6",
+    "number": 75,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 05",
+    "intro": "你用白棋，黑王在 h1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/6R1/8/8/8/r7/5K2/7k w - - 17 79",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g7h7",
+        "a3h3",
+        "h7h3"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 g7 走到 h7。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "BTIx6",
+      "url": "https://lichess.org/training/BTIx6",
+      "gameUrl": "https://lichess.org/yhXMAb6X/black#156",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6R1/8/8/r7/8/5K2/7k b - - 16 78",
+      "originalMoves": [
+        "a4a3",
+        "g7h7",
+        "a3h3",
+        "h7h3"
+      ],
+      "rating": 998,
+      "popularity": 96,
+      "plays": 5131,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-4Qrzs",
+    "number": 76,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 06",
+    "intro": "你用白棋，黑王在 a7。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/k1K5/8/8/3r4/8/8/1R6 w - - 60 83",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b1a1",
+        "d4a4",
+        "a1a4"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 b1 走到 a1。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "4Qrzs",
+      "url": "https://lichess.org/training/4Qrzs",
+      "gameUrl": "https://lichess.org/VYuF0zTC/black#164",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3r4/k1K5/8/8/8/8/8/1R6 b - - 59 82",
+      "originalMoves": [
+        "d8d4",
+        "b1a1",
+        "d4a4",
+        "a1a4"
+      ],
+      "rating": 1119,
+      "popularity": 93,
+      "plays": 2609,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7Wlzo",
+    "number": 77,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 07",
+    "intro": "你用白棋，黑王在 a1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "1R6/8/8/8/8/7r/2K5/k7 w - - 10 65",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b8a8",
+        "h3a3",
+        "a8a3"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 b8 走到 a8。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7Wlzo",
+      "url": "https://lichess.org/training/7Wlzo",
+      "gameUrl": "https://lichess.org/4szN2XT5/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "1R6/8/8/8/8/r7/2K5/k7 b - - 9 64",
+      "originalMoves": [
+        "a3h3",
+        "b8a8",
+        "h3a3",
+        "a8a3"
+      ],
+      "rating": 1128,
+      "popularity": 95,
+      "plays": 2469,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-9Jbiu",
+    "number": 78,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 08",
+    "intro": "你用白棋，黑王在 g1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/8/7q/8/8/6K1/1R6/6k1 w - - 2 70",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b2b1",
+        "h6c1",
+        "b1c1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 b2 走到 b1。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "9Jbiu",
+      "url": "https://lichess.org/training/9Jbiu",
+      "gameUrl": "https://lichess.org/oCJtnCNG/black#138",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/6K1/1R6/6kq b - - 1 69",
+      "originalMoves": [
+        "h1h6",
+        "b2b1",
+        "h6c1",
+        "b1c1"
+      ],
+      "rating": 1155,
+      "popularity": 93,
+      "plays": 6792,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenRookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-9hDJu",
+    "number": 79,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 09",
+    "intro": "你用白棋，黑王在 a6。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/8/k1K5/8/4r3/8/1R6/8 w - - 37 69",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b2a2",
+        "e4a4",
+        "a2a4"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 b2 走到 a2。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "9hDJu",
+      "url": "https://lichess.org/training/9hDJu",
+      "gameUrl": "https://lichess.org/xZt8pYhu/black#136",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/k1K5/8/3r4/8/1R6/8 b - - 36 68",
+      "originalMoves": [
+        "d4e4",
+        "b2a2",
+        "e4a4",
+        "a2a4"
+      ],
+      "rating": 1155,
+      "popularity": 95,
+      "plays": 2713,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7f14Q",
+    "number": 80,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 10",
+    "intro": "你用白棋，黑王在 h8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "7k/5K2/8/8/8/4r3/8/6R1 w - - 6 78",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g1h1",
+        "e3h3",
+        "h1h3"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 g1 走到 h1。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7f14Q",
+      "url": "https://lichess.org/training/7f14Q",
+      "gameUrl": "https://lichess.org/65mVdF15/black#154",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4r2k/5K2/8/8/8/8/8/6R1 b - - 5 77",
+      "originalMoves": [
+        "e8e3",
+        "g1h1",
+        "e3h3",
+        "h1h3"
+      ],
+      "rating": 1193,
+      "popularity": 95,
+      "plays": 8585,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-04XDG",
+    "number": 81,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 11",
+    "intro": "你用白棋，黑王在 d8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "3k4/7R/p2K4/8/8/6r1/8/8 w - - 0 52",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "h7h8",
+        "g3g8",
+        "h8g8"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 h7 走到 h8。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "04XDG",
+      "url": "https://lichess.org/training/04XDG",
+      "gameUrl": "https://lichess.org/bblAngeH/black#102",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3k4/7R/p2K4/8/6r1/6P1/8/8 b - - 2 51",
+      "originalMoves": [
+        "g4g3",
+        "h7h8",
+        "g3g8",
+        "h8g8"
+      ],
+      "rating": 839,
+      "popularity": 95,
+      "plays": 1770,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-6LqyB",
+    "number": 82,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 12",
+    "intro": "你用白棋，黑王在 g1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/8/8/8/8/5nK1/R7/6kq w - - 0 65",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "a2a1",
+        "f3e1",
+        "a1e1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 a2 走到 a1。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "6LqyB",
+      "url": "https://lichess.org/training/6LqyB",
+      "gameUrl": "https://lichess.org/ZTCdTCo2/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/5nK1/R6p/6k1 b - - 3 64",
+      "originalMoves": [
+        "h2h1q",
+        "a2a1",
+        "f3e1",
+        "a1e1"
+      ],
+      "rating": 973,
+      "popularity": 96,
+      "plays": 6395,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-7rtI7",
+    "number": 83,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 13",
+    "intro": "你用白棋，黑王在 g1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/R7/2r5/8/8/6K1/6p1/6k1 w - - 8 57",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "a7a1",
+        "c6c1",
+        "a1c1"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 a7 走到 a1。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "7rtI7",
+      "url": "https://lichess.org/training/7rtI7",
+      "gameUrl": "https://lichess.org/2ugLuIHq/black#112",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/R7/5r2/8/8/6K1/6p1/6k1 b - - 7 56",
+      "originalMoves": [
+        "f6c6",
+        "a7a1",
+        "c6c1",
+        "a1c1"
+      ],
+      "rating": 996,
+      "popularity": 94,
+      "plays": 1114,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0RJRO",
+    "number": 84,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 14",
+    "intro": "你用白棋，黑王在 h2。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "6R1/5r2/8/8/8/5p2/5K1k/8 w - - 6 62",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g8h8",
+        "f7h7",
+        "h8h7"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 g8 走到 h8。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0RJRO",
+      "url": "https://lichess.org/training/0RJRO",
+      "gameUrl": "https://lichess.org/ZL30WVL7/black#122",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6R1/8/8/8/5r2/5p2/5K1k/8 b - - 5 61",
+      "originalMoves": [
+        "f4f7",
+        "g8h8",
+        "f7h7",
+        "h8h7"
+      ],
+      "rating": 1024,
+      "popularity": 97,
+      "plays": 1030,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0Zw2D",
+    "number": 85,
+    "chapter": "05 · 车的两步将杀",
+    "title": "再想一步 · 15",
+    "intro": "你用白棋，黑王在 a3。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/8/1R6/2r5/2p5/k1K5/8/8 w - - 4 65",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b6a6",
+        "c5a5",
+        "a6a5"
+      ]
+    ],
+    "hints": [
+      "先看看白车。先缩小黑王的选择，再找最后的将军。",
+      "试试车从 b6 走到 a6。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0Zw2D",
+      "url": "https://lichess.org/training/0Zw2D",
+      "gameUrl": "https://lichess.org/SM8dAuBs/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/1R6/r7/2p5/k1K5/8/8 b - - 3 64",
+      "originalMoves": [
+        "a5c5",
+        "b6a6",
+        "c5a5",
+        "a6a5"
+      ],
+      "rating": 1084,
+      "popularity": 98,
+      "plays": 1077,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-AbjPe",
+    "number": 86,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 01",
+    "intro": "你用白棋，黑王在 h8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "5K1k/8/6Pr/8/8/8/8/8 w - - 0 71",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g6g7",
+        "h8h7",
+        "g7g8q"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 g6 走到 g7。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "AbjPe",
+      "url": "https://lichess.org/training/AbjPe",
+      "gameUrl": "https://lichess.org/6bQi2Qya/black#140",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5K1k/7r/6PR/8/8/8/8/8 b - - 0 70",
+      "originalMoves": [
+        "h7h6",
+        "g6g7",
+        "h8h7",
+        "g7g8q"
+      ],
+      "rating": 488,
+      "popularity": 92,
+      "plays": 1205,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "promotion",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-345YU",
+    "number": 87,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 02",
+    "intro": "你用白棋，黑王在 h7。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/5KPk/8/8/8/8/8/4q3 w - - 0 65",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g7g8q",
+        "h7h6",
+        "g8g6"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 g7 走到 g8，升变成后。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "345YU",
+      "url": "https://lichess.org/training/345YU",
+      "gameUrl": "https://lichess.org/tY1WM54a/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5KPk/8/8/8/8/4p3/8 b - - 1 64",
+      "originalMoves": [
+        "e2e1q",
+        "g7g8q",
+        "h7h6",
+        "g8g6"
+      ],
+      "rating": 991,
+      "popularity": 90,
+      "plays": 1195,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "promotion",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-69J9r",
+    "number": 88,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 03",
+    "intro": "你用白棋，黑王在 a1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/8/8/8/8/K7/4Q3/kq6 w - - 0 72",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "e2e5",
+        "b1b2",
+        "e5b2"
+      ]
+    ],
+    "hints": [
+      "先看看白后。先缩小黑王的选择，再找最后的将军。",
+      "试试后从 e2 走到 e5。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "69J9r",
+      "url": "https://lichess.org/training/69J9r",
+      "gameUrl": "https://lichess.org/wty1VA9V/black#142",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/8/8/8/8/K7/1p2Q3/k7 b - - 0 71",
+      "originalMoves": [
+        "b2b1q",
+        "e2e5",
+        "b1b2",
+        "e5b2"
+      ],
+      "rating": 1111,
+      "popularity": 91,
+      "plays": 1301,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3mOIj",
+    "number": 89,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 04",
+    "intro": "你用白棋，黑王在 g8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "3n2k1/6P1/6K1/7P/8/8/8/8 w - - 3 64",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "h5h6",
+        "d8c6",
+        "h6h7"
+      ],
+      [
+        "h5h6",
+        "d8b7",
+        "h6h7"
+      ],
+      [
+        "h5h6",
+        "d8e6",
+        "h6h7"
+      ],
+      [
+        "h5h6",
+        "d8f7",
+        "h6h7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 h5 走到 h6。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3mOIj",
+      "url": "https://lichess.org/training/3mOIj",
+      "gameUrl": "https://lichess.org/yKqpW2lT/black#126",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/5nP1/6K1/7P/8/8/8/8 b - - 2 63",
+      "originalMoves": [
+        "f7d8",
+        "h5h6",
+        "d8c6",
+        "h6h7"
+      ],
+      "rating": 659,
+      "popularity": 93,
+      "plays": 1377,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "knightEndgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-A3jPy",
+    "number": 90,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 05",
+    "intro": "你用白棋，黑王在 h5。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/3Q4/8/6pk/5q2/8/6K1/8 w - - 9 70",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "d7h7",
+        "h5g4",
+        "h7h3"
+      ]
+    ],
+    "hints": [
+      "先看看白后。先缩小黑王的选择，再找最后的将军。",
+      "试试后从 d7 走到 h7。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "A3jPy",
+      "url": "https://lichess.org/training/A3jPy",
+      "gameUrl": "https://lichess.org/NkH8E2cD/black#138",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/3Q4/6k1/6p1/5q2/8/6K1/8 b - - 8 69",
+      "originalMoves": [
+        "g6h5",
+        "d7h7",
+        "h5g4",
+        "h7h3"
+      ],
+      "rating": 976,
+      "popularity": 95,
+      "plays": 2075,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-6tOfh",
+    "number": 91,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 06",
+    "intro": "你用白棋，黑王在 h5。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/6K1/8/5q1k/6p1/8/4Q3/8 w - - 0 74",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "e2h2",
+        "h5g5",
+        "h2h6"
+      ]
+    ],
+    "hints": [
+      "先看看白后。先缩小黑王的选择，再找最后的将军。",
+      "试试后从 e2 走到 h2。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "6tOfh",
+      "url": "https://lichess.org/training/6tOfh",
+      "gameUrl": "https://lichess.org/uu2S5juP/black#146",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6K1/8/5qpk/8/8/4Q3/8 b - - 39 73",
+      "originalMoves": [
+        "g5g4",
+        "e2h2",
+        "h5g5",
+        "h2h6"
+      ],
+      "rating": 1092,
+      "popularity": 100,
+      "plays": 1520,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-CcThi",
+    "number": 92,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 07",
+    "intro": "你用白棋，黑王在 d1。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "4Q3/8/8/8/3p4/3K4/8/3k2q1 w - - 4 58",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "e8e2",
+        "d1c1",
+        "e2c2"
+      ]
+    ],
+    "hints": [
+      "先看看白后。先缩小黑王的选择，再找最后的将军。",
+      "试试后从 e8 走到 e2。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "CcThi",
+      "url": "https://lichess.org/training/CcThi",
+      "gameUrl": "https://lichess.org/eCvcu0hz/black#114",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "4Q3/8/8/8/3p4/3K4/8/4k1q1 b - - 3 57",
+      "originalMoves": [
+        "e1d1",
+        "e8e2",
+        "d1c1",
+        "e2c2"
+      ],
+      "rating": 1104,
+      "popularity": 95,
+      "plays": 2599,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5vjga",
+    "number": 93,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 08",
+    "intro": "你用白棋，黑王在 h4。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/6Q1/8/8/6pk/5q2/8/6K1 w - - 10 84",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g7h6",
+        "h4g3",
+        "h6h2"
+      ]
+    ],
+    "hints": [
+      "先看看白后。先缩小黑王的选择，再找最后的将军。",
+      "试试后从 g7 走到 h6。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5vjga",
+      "url": "https://lichess.org/training/5vjga",
+      "gameUrl": "https://lichess.org/gL0qyJzO/black#166",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/6Q1/8/6k1/6p1/5q2/8/6K1 b - - 9 83",
+      "originalMoves": [
+        "g5h4",
+        "g7h6",
+        "h4g3",
+        "h6h2"
+      ],
+      "rating": 1127,
+      "popularity": 93,
+      "plays": 1513,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-0XJfs",
+    "number": 94,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 09",
+    "intro": "你用白棋，黑王在 g8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "6k1/6P1/1P4K1/p7/8/1p6/8/8 w - - 0 54",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b6b7",
+        "b3b2",
+        "b7b8q"
+      ],
+      [
+        "b6b7",
+        "b3b2",
+        "b7b8r"
+      ],
+      [
+        "b6b7",
+        "a5a4",
+        "b7b8q"
+      ],
+      [
+        "b6b7",
+        "a5a4",
+        "b7b8r"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 b6 走到 b7。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "0XJfs",
+      "url": "https://lichess.org/training/0XJfs",
+      "gameUrl": "https://lichess.org/fPjX5wLG/black#106",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "6k1/6P1/1P4K1/p7/2p5/1P6/8/8 b - - 0 53",
+      "originalMoves": [
+        "c4b3",
+        "b6b7",
+        "b3b2",
+        "b7b8q"
+      ],
+      "rating": 477,
+      "popularity": 94,
+      "plays": 1447,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pawnEndgame",
+        "promotion",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-21A4C",
+    "number": 95,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 10",
+    "intro": "你用白棋，黑王在 d8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "3k4/3P4/3K4/2P5/p7/1n6/8/8 w - - 0 65",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "c5c6",
+        "a4a3",
+        "c6c7"
+      ],
+      [
+        "c5c6",
+        "b3a1",
+        "c6c7"
+      ],
+      [
+        "c5c6",
+        "b3a5",
+        "c6c7"
+      ],
+      [
+        "c5c6",
+        "b3c1",
+        "c6c7"
+      ],
+      [
+        "c5c6",
+        "b3c5",
+        "c6c7"
+      ],
+      [
+        "c5c6",
+        "b3d2",
+        "c6c7"
+      ],
+      [
+        "c5c6",
+        "b3d4",
+        "c6c7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 c5 走到 c6。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "21A4C",
+      "url": "https://lichess.org/training/21A4C",
+      "gameUrl": "https://lichess.org/obAmNgs5/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "3k4/3P4/3K4/p1P5/8/1n6/8/8 b - - 2 64",
+      "originalMoves": [
+        "a5a4",
+        "c5c6",
+        "a4a3",
+        "c6c7"
+      ],
+      "rating": 546,
+      "popularity": 93,
+      "plays": 1220,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "knightEndgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-1LDYI",
+    "number": 96,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 11",
+    "intro": "你用白棋，黑王在 h7。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/5KPk/5P2/8/8/1p6/8/2q5 w - - 0 69",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g7g8q",
+        "h7h6",
+        "g8g6"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 g7 走到 g8，升变成后。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "1LDYI",
+      "url": "https://lichess.org/training/1LDYI",
+      "gameUrl": "https://lichess.org/qP7EyBjs/black#136",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/5KPk/5P2/8/8/1p6/2p5/8 b - - 0 68",
+      "originalMoves": [
+        "c2c1q",
+        "g7g8q",
+        "h7h6",
+        "g8g6"
+      ],
+      "rating": 955,
+      "popularity": 96,
+      "plays": 5175,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "promotion",
+        "queenEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-3Zny0",
+    "number": 97,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 12",
+    "intro": "你用白棋，黑王在 g8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "6k1/8/1p4KP/2r5/8/8/8/5R2 w - - 5 65",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "h6h7",
+        "g8h8",
+        "f1f8"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 h6 走到 h7。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "3Zny0",
+      "url": "https://lichess.org/training/3Zny0",
+      "gameUrl": "https://lichess.org/sURSa0Qz/black#128",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5k2/8/1p4KP/2r5/8/8/8/5R2 b - - 4 64",
+      "originalMoves": [
+        "f8g8",
+        "h6h7",
+        "g8h8",
+        "f1f8"
+      ],
+      "rating": 978,
+      "popularity": 95,
+      "plays": 1996,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5cyUn",
+    "number": 98,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 13",
+    "intro": "你用白棋，黑王在 g8。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "6k1/6P1/7P/5K2/p7/2n5/8/8 w - - 1 60",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "f5g6",
+        "a4a3",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3a2",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3b1",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3b5",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3d1",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3d5",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3e2",
+        "h6h7"
+      ],
+      [
+        "f5g6",
+        "c3e4",
+        "h6h7"
+      ]
+    ],
+    "hints": [
+      "先看看白王。先缩小黑王的选择，再找最后的将军。",
+      "试试王从 f5 走到 g6。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5cyUn",
+      "url": "https://lichess.org/training/5cyUn",
+      "gameUrl": "https://lichess.org/N12WboJw/black#118",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "5k2/6P1/7P/5K2/p7/2n5/8/8 b - - 0 59",
+      "originalMoves": [
+        "f8g8",
+        "f5g6",
+        "a4a3",
+        "h6h7"
+      ],
+      "rating": 1043,
+      "popularity": 100,
+      "plays": 2058,
+      "themes": [
+        "advancedPawn",
+        "endgame",
+        "knightEndgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-5cqv8",
+    "number": 99,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 14",
+    "intro": "你用白棋，黑王在 a7。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/kp6/5R2/KP6/8/8/8/6r1 w - - 1 67",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "b5b6",
+        "a7b8",
+        "f6f8"
+      ],
+      [
+        "b5b6",
+        "a7a8",
+        "f6f8"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 b5 走到 b6。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "5cqv8",
+      "url": "https://lichess.org/training/5cqv8",
+      "gameUrl": "https://lichess.org/mnpZK6GB/black#132",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/kp6/5R2/KP4r1/8/8/8/8 b - - 0 66",
+      "originalMoves": [
+        "g5g1",
+        "b5b6",
+        "a7b8",
+        "f6f8"
+      ],
+      "rating": 1074,
+      "popularity": 94,
+      "plays": 3043,
+      "themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  },
+  {
+    "id": "lichess-A5PSv",
+    "number": 100,
+    "chapter": "06 · 两步残局挑战",
+    "title": "再想一步 · 15",
+    "intro": "你用白棋，黑王在 h6。你走两步，中间黑方走一步。每次都看看黑王能躲到哪里。",
+    "fen": "8/R6p/7k/5K2/6P1/7r/8/8 w - - 0 51",
+    "goal": "白方两步将杀",
+    "mateIn": 2,
+    "lines": [
+      [
+        "g4g5",
+        "h6h5",
+        "a7h7"
+      ]
+    ],
+    "hints": [
+      "先看看白兵。先缩小黑王的选择，再找最后的将军。",
+      "试试兵从 g4 走到 g5。"
+    ],
+    "explanation": "你走到了真正的将杀！第一步之后，黑方换一种合法应对，白方也能在下一步将杀。",
+    "question": null,
+    "answer": null,
+    "source": {
+      "name": "Lichess 公开题库",
+      "puzzleId": "A5PSv",
+      "url": "https://lichess.org/training/A5PSv",
+      "gameUrl": "https://lichess.org/pI5xNaO7/black#100",
+      "datasetUrl": "https://database.lichess.org/#puzzles",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-01",
+      "originalFen": "8/R6p/7k/5K2/6P1/1r5P/8/8 b - - 0 50",
+      "originalMoves": [
+        "b3h3",
+        "g4g5",
+        "h6h5",
+        "a7h7"
+      ],
+      "rating": 1119,
+      "popularity": 93,
+      "plays": 3339,
+      "themes": [
+        "deflection",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "rookEndgame",
+        "short"
+      ]
+    }
+  }
+]

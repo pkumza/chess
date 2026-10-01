@@ -1,0 +1,2241 @@
+{
+  "lessons": 144,
+  "chapters": {
+    "01 · 观察热身": 30,
+    "02 · 发现机会": 24,
+    "03 · 看看对手": 24,
+    "04 · 两子配合": 30,
+    "05 · 综合挑战": 36
+  },
+  "learner": {
+    "ageYears": 5.5,
+    "learningMonths": 6,
+    "currentTopic": "王车易位",
+    "mastery": "未评估"
+  },
+  "source": "https://database.lichess.org/#puzzles",
+  "inventorySha256": "dcdd9260dd0a97fd58530dbb9d9069f6aff365e4c1e994b00ea357e0f6024e39",
+  "validation": "All original positions and official solution moves legal. Mate lessons enumerate all legal defences and alternate mating solutions. Non-mating lessons use the official line, without independently re-proving optimality.",
+  "puzzles": [
+    {
+      "number": 1,
+      "puzzleId": "e0F5C",
+      "theme": "mateIn1",
+      "pieces": 4,
+      "rating": 451,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qxb2#"
+      ]
+    },
+    {
+      "number": 2,
+      "puzzleId": "ZwRza",
+      "theme": "mateIn1",
+      "pieces": 4,
+      "rating": 543,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Rxc8#"
+      ]
+    },
+    {
+      "number": 3,
+      "puzzleId": "xUBtu",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 608,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nf7#"
+      ]
+    },
+    {
+      "number": 4,
+      "puzzleId": "gkdh0",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 510,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bd4#"
+      ]
+    },
+    {
+      "number": 5,
+      "puzzleId": "nPlWT",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 510,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "h8=Q#"
+      ]
+    },
+    {
+      "number": 6,
+      "puzzleId": "CJOYQ",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 481,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qxg2#"
+      ]
+    },
+    {
+      "number": 7,
+      "puzzleId": "YY8hi",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 426,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Rc8#"
+      ]
+    },
+    {
+      "number": 8,
+      "puzzleId": "lh089",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 762,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ng3#"
+      ]
+    },
+    {
+      "number": 9,
+      "puzzleId": "W9CRN",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 699,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bf5#"
+      ]
+    },
+    {
+      "number": 10,
+      "puzzleId": "26ocG",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 516,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "c2#"
+      ]
+    },
+    {
+      "number": 11,
+      "puzzleId": "rXcRu",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 510,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qxf8#"
+      ]
+    },
+    {
+      "number": 12,
+      "puzzleId": "DYT8c",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 543,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra8#"
+      ]
+    },
+    {
+      "number": 13,
+      "puzzleId": "SD9hz",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 639,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ne4#"
+      ]
+    },
+    {
+      "number": 14,
+      "puzzleId": "ZnEKf",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 701,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bf8#"
+      ]
+    },
+    {
+      "number": 15,
+      "puzzleId": "QQaCe",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 516,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "a7#"
+      ]
+    },
+    {
+      "number": 16,
+      "puzzleId": "QyW1U",
+      "theme": "mateIn1",
+      "pieces": 7,
+      "rating": 545,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qh1#"
+      ]
+    },
+    {
+      "number": 17,
+      "puzzleId": "PJGKH",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 424,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra8#"
+      ]
+    },
+    {
+      "number": 18,
+      "puzzleId": "mmuye",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 829,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nf5#"
+      ]
+    },
+    {
+      "number": 19,
+      "puzzleId": "f3MUq",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 755,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bd4#"
+      ]
+    },
+    {
+      "number": 20,
+      "puzzleId": "u7QkI",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 575,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "f1=Q#"
+      ]
+    },
+    {
+      "number": 21,
+      "puzzleId": "HXjIG",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 576,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qxh4#"
+      ]
+    },
+    {
+      "number": 22,
+      "puzzleId": "5kAjK",
+      "theme": "mateIn1",
+      "pieces": 7,
+      "rating": 529,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Rh1#"
+      ]
+    },
+    {
+      "number": 23,
+      "puzzleId": "5oqH2",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 818,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nd4#"
+      ]
+    },
+    {
+      "number": 24,
+      "puzzleId": "2SL8n",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 716,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bf6#"
+      ]
+    },
+    {
+      "number": 25,
+      "puzzleId": "oqO3s",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 642,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "d7#"
+      ]
+    },
+    {
+      "number": 26,
+      "puzzleId": "aXq4V",
+      "theme": "mateIn1",
+      "pieces": 4,
+      "rating": 613,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qxb8#"
+      ]
+    },
+    {
+      "number": 27,
+      "puzzleId": "jKtsv",
+      "theme": "mateIn1",
+      "pieces": 4,
+      "rating": 503,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra8#"
+      ]
+    },
+    {
+      "number": 28,
+      "puzzleId": "qQSLi",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 840,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ne3#"
+      ]
+    },
+    {
+      "number": 29,
+      "puzzleId": "MqM8r",
+      "theme": "mateIn1",
+      "pieces": 10,
+      "rating": 793,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bf6#"
+      ]
+    },
+    {
+      "number": 30,
+      "puzzleId": "jDFee",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 585,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "d1=Q#"
+      ]
+    },
+    {
+      "number": 31,
+      "puzzleId": "H6QrJ",
+      "theme": "hangingPiece",
+      "pieces": 7,
+      "rating": 660,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rxe7+",
+        "Kf4",
+        "Rxe2"
+      ]
+    },
+    {
+      "number": 32,
+      "puzzleId": "8wC4T",
+      "theme": "fork",
+      "pieces": 5,
+      "rating": 629,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nb6+",
+        "Ke6",
+        "Nxa8"
+      ]
+    },
+    {
+      "number": 33,
+      "puzzleId": "KM0Nq",
+      "theme": "promotion",
+      "pieces": 6,
+      "rating": 604,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "b7",
+        "f2",
+        "b8=Q+"
+      ]
+    },
+    {
+      "number": 34,
+      "puzzleId": "l4jm3",
+      "theme": "mateIn1",
+      "pieces": 5,
+      "rating": 604,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qxb8#"
+      ]
+    },
+    {
+      "number": 35,
+      "puzzleId": "xozjW",
+      "theme": "hangingPiece",
+      "pieces": 7,
+      "rating": 669,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "bxa5",
+        "Kb4",
+        "a6"
+      ]
+    },
+    {
+      "number": 36,
+      "puzzleId": "KY2F8",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 671,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bc5+",
+        "Kf3",
+        "Bxa7"
+      ]
+    },
+    {
+      "number": 37,
+      "puzzleId": "NaIen",
+      "theme": "promotion",
+      "pieces": 4,
+      "rating": 806,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kd7",
+        "Re4",
+        "c8=Q"
+      ]
+    },
+    {
+      "number": 38,
+      "puzzleId": "gfzqV",
+      "theme": "mateIn1",
+      "pieces": 5,
+      "rating": 611,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra8#"
+      ]
+    },
+    {
+      "number": 39,
+      "puzzleId": "kN6yP",
+      "theme": "hangingPiece",
+      "pieces": 4,
+      "rating": 762,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kxh7",
+        "Kh5",
+        "Kg7"
+      ]
+    },
+    {
+      "number": 40,
+      "puzzleId": "3BboP",
+      "theme": "fork",
+      "pieces": 10,
+      "rating": 609,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rd5+",
+        "Qxd5",
+        "exd5"
+      ]
+    },
+    {
+      "number": 41,
+      "puzzleId": "wUUnD",
+      "theme": "promotion",
+      "pieces": 6,
+      "rating": 853,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rxg1",
+        "Rxg1",
+        "a8=Q"
+      ]
+    },
+    {
+      "number": 42,
+      "puzzleId": "R8oRd",
+      "theme": "mateIn1",
+      "pieces": 9,
+      "rating": 635,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "f2#"
+      ]
+    },
+    {
+      "number": 43,
+      "puzzleId": "oRZm4",
+      "theme": "hangingPiece",
+      "pieces": 8,
+      "rating": 741,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nxd2",
+        "b1=R",
+        "Nxb1"
+      ]
+    },
+    {
+      "number": 44,
+      "puzzleId": "fw6z6",
+      "theme": "fork",
+      "pieces": 8,
+      "rating": 650,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "b4+",
+        "Kb3",
+        "bxa3"
+      ]
+    },
+    {
+      "number": 45,
+      "puzzleId": "RQqjL",
+      "theme": "promotion",
+      "pieces": 6,
+      "rating": 841,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kxc6",
+        "h3",
+        "c8=Q"
+      ]
+    },
+    {
+      "number": 46,
+      "puzzleId": "WlXc8",
+      "theme": "mateIn1",
+      "pieces": 5,
+      "rating": 651,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Rb1#"
+      ]
+    },
+    {
+      "number": 47,
+      "puzzleId": "ZZ5FA",
+      "theme": "hangingPiece",
+      "pieces": 6,
+      "rating": 801,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qxa8+",
+        "Kb5",
+        "Qxa1"
+      ]
+    },
+    {
+      "number": 48,
+      "puzzleId": "yjZcB",
+      "theme": "fork",
+      "pieces": 5,
+      "rating": 613,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Ne4+",
+        "Kb2",
+        "Nxf6"
+      ]
+    },
+    {
+      "number": 49,
+      "puzzleId": "yrOm8",
+      "theme": "promotion",
+      "pieces": 4,
+      "rating": 658,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "a7",
+        "Nc4",
+        "a8=Q+"
+      ]
+    },
+    {
+      "number": 50,
+      "puzzleId": "6YdWz",
+      "theme": "mateIn1",
+      "pieces": 8,
+      "rating": 606,
+      "playerMoves": 1,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qf1#"
+      ]
+    },
+    {
+      "number": 51,
+      "puzzleId": "squL1",
+      "theme": "hangingPiece",
+      "pieces": 7,
+      "rating": 807,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bxb1",
+        "e1=R",
+        "Kxe1"
+      ]
+    },
+    {
+      "number": 52,
+      "puzzleId": "dV57k",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 691,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rc4+",
+        "Qxc4",
+        "bxc4"
+      ]
+    },
+    {
+      "number": 53,
+      "puzzleId": "qH7i2",
+      "theme": "promotion",
+      "pieces": 8,
+      "rating": 731,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qxf6+",
+        "Kxf6",
+        "c1=Q"
+      ]
+    },
+    {
+      "number": 54,
+      "puzzleId": "B6HXQ",
+      "theme": "mateIn1",
+      "pieces": 11,
+      "rating": 610,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nf7#"
+      ]
+    },
+    {
+      "number": 55,
+      "puzzleId": "Zfmdb",
+      "theme": "defensiveMove",
+      "pieces": 8,
+      "rating": 701,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rxg1",
+        "Kxg1",
+        "Kh5"
+      ]
+    },
+    {
+      "number": 56,
+      "puzzleId": "usoSp",
+      "theme": "hangingPiece",
+      "pieces": 4,
+      "rating": 781,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kxa7",
+        "Kb5",
+        "Kb7"
+      ]
+    },
+    {
+      "number": 57,
+      "puzzleId": "mtCHQ",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 707,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nc5+",
+        "Ke5",
+        "Nxb7"
+      ]
+    },
+    {
+      "number": 58,
+      "puzzleId": "h67ew",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 728,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra2#"
+      ]
+    },
+    {
+      "number": 59,
+      "puzzleId": "hRwcb",
+      "theme": "defensiveMove",
+      "pieces": 8,
+      "rating": 703,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qd4",
+        "Qxd4+",
+        "Kxd4"
+      ]
+    },
+    {
+      "number": 60,
+      "puzzleId": "4rKyz",
+      "theme": "hangingPiece",
+      "pieces": 5,
+      "rating": 791,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rxf1+",
+        "Ke2",
+        "Rxf4"
+      ]
+    },
+    {
+      "number": 61,
+      "puzzleId": "2ftjh",
+      "theme": "fork",
+      "pieces": 7,
+      "rating": 704,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Be3+",
+        "Kb5",
+        "Bxg1"
+      ]
+    },
+    {
+      "number": 62,
+      "puzzleId": "ee4tt",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 733,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qh8#"
+      ]
+    },
+    {
+      "number": 63,
+      "puzzleId": "F27pP",
+      "theme": "defensiveMove",
+      "pieces": 8,
+      "rating": 806,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kf4",
+        "Re4+",
+        "Kxf3"
+      ]
+    },
+    {
+      "number": 64,
+      "puzzleId": "KX3aH",
+      "theme": "hangingPiece",
+      "pieces": 11,
+      "rating": 720,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "cxb4",
+        "c5",
+        "bxc5"
+      ]
+    },
+    {
+      "number": 65,
+      "puzzleId": "LiEGg",
+      "theme": "fork",
+      "pieces": 7,
+      "rating": 741,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rb2+",
+        "Qxb2",
+        "axb2"
+      ]
+    },
+    {
+      "number": 66,
+      "puzzleId": "oHmQv",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 726,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "fxe8=Q#"
+      ]
+    },
+    {
+      "number": 67,
+      "puzzleId": "yhZqE",
+      "theme": "defensiveMove",
+      "pieces": 7,
+      "rating": 835,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bxc8",
+        "Nxc8",
+        "h4"
+      ]
+    },
+    {
+      "number": 68,
+      "puzzleId": "yX6PO",
+      "theme": "hangingPiece",
+      "pieces": 8,
+      "rating": 845,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nxb5",
+        "a3",
+        "Nxa3"
+      ]
+    },
+    {
+      "number": 69,
+      "puzzleId": "D2xXa",
+      "theme": "fork",
+      "pieces": 8,
+      "rating": 709,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bd3+",
+        "Kxg1",
+        "Bxa6"
+      ]
+    },
+    {
+      "number": 70,
+      "puzzleId": "75CFH",
+      "theme": "mateIn1",
+      "pieces": 11,
+      "rating": 700,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nf7#"
+      ]
+    },
+    {
+      "number": 71,
+      "puzzleId": "FPDEh",
+      "theme": "defensiveMove",
+      "pieces": 9,
+      "rating": 808,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "g2",
+        "Rh3+",
+        "Kg4"
+      ]
+    },
+    {
+      "number": 72,
+      "puzzleId": "4rQ7F",
+      "theme": "hangingPiece",
+      "pieces": 13,
+      "rating": 753,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bxg3",
+        "Rxd2+",
+        "Kxd2"
+      ]
+    },
+    {
+      "number": 73,
+      "puzzleId": "e840E",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 709,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nd3+",
+        "Kc3",
+        "Nxf4"
+      ]
+    },
+    {
+      "number": 74,
+      "puzzleId": "zXRfV",
+      "theme": "mateIn1",
+      "pieces": 11,
+      "rating": 721,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bd4#"
+      ]
+    },
+    {
+      "number": 75,
+      "puzzleId": "Iwy0n",
+      "theme": "defensiveMove",
+      "pieces": 6,
+      "rating": 763,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rd3",
+        "Ke7",
+        "Rxd6"
+      ]
+    },
+    {
+      "number": 76,
+      "puzzleId": "njAvZ",
+      "theme": "hangingPiece",
+      "pieces": 9,
+      "rating": 824,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qxb2",
+        "a1=Q",
+        "Qxa1"
+      ]
+    },
+    {
+      "number": 77,
+      "puzzleId": "NShqa",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 761,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rc5+",
+        "Kb4",
+        "Rxd5"
+      ]
+    },
+    {
+      "number": 78,
+      "puzzleId": "t9IO5",
+      "theme": "mateIn1",
+      "pieces": 6,
+      "rating": 734,
+      "playerMoves": 1,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qf7#"
+      ]
+    },
+    {
+      "number": 79,
+      "puzzleId": "GwkIM",
+      "theme": "pin",
+      "pieces": 6,
+      "rating": 800,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rh4",
+        "Kc4",
+        "Rxe4+"
+      ]
+    },
+    {
+      "number": 80,
+      "puzzleId": "IKl8B",
+      "theme": "skewer",
+      "pieces": 8,
+      "rating": 804,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qe8+",
+        "Kf4",
+        "Qxe2"
+      ]
+    },
+    {
+      "number": 81,
+      "puzzleId": "m0An4",
+      "theme": "discoveredAttack",
+      "pieces": 9,
+      "rating": 820,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "f5+",
+        "Kd3",
+        "Bxh8"
+      ]
+    },
+    {
+      "number": 82,
+      "puzzleId": "0o5t5",
+      "theme": "fork",
+      "pieces": 5,
+      "rating": 805,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Ne2+",
+        "Kf5",
+        "Nxc1"
+      ]
+    },
+    {
+      "number": 83,
+      "puzzleId": "O85G9",
+      "theme": "mateIn2",
+      "pieces": 6,
+      "rating": 810,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Rb1+",
+        "Rc1",
+        "Rxc1#"
+      ]
+    },
+    {
+      "number": 84,
+      "puzzleId": "KUF0S",
+      "theme": "pin",
+      "pieces": 6,
+      "rating": 838,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bb7",
+        "Kg3",
+        "Bxc6"
+      ]
+    },
+    {
+      "number": 85,
+      "puzzleId": "EKg4V",
+      "theme": "skewer",
+      "pieces": 4,
+      "rating": 822,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rf6+",
+        "Kd5",
+        "Rxa6"
+      ]
+    },
+    {
+      "number": 86,
+      "puzzleId": "Jxs8M",
+      "theme": "discoveredAttack",
+      "pieces": 8,
+      "rating": 809,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kc4+",
+        "Kf4",
+        "Kxb5"
+      ]
+    },
+    {
+      "number": 87,
+      "puzzleId": "YchGb",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 801,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "g4+",
+        "Kg2",
+        "gxh3+"
+      ]
+    },
+    {
+      "number": 88,
+      "puzzleId": "69VD3",
+      "theme": "mateIn2",
+      "pieces": 8,
+      "rating": 804,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Bc3+",
+        "Ka3",
+        "Ra5#"
+      ]
+    },
+    {
+      "number": 89,
+      "puzzleId": "U0Nv3",
+      "theme": "pin",
+      "pieces": 11,
+      "rating": 814,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Ne3+",
+        "Kf3",
+        "Nxf5"
+      ]
+    },
+    {
+      "number": 90,
+      "puzzleId": "SUX62",
+      "theme": "skewer",
+      "pieces": 4,
+      "rating": 806,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Re5+",
+        "Kc4",
+        "Rxa5"
+      ]
+    },
+    {
+      "number": 91,
+      "puzzleId": "uFuDG",
+      "theme": "discoveredAttack",
+      "pieces": 11,
+      "rating": 832,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Ng3+",
+        "Kh2",
+        "Rxe1"
+      ]
+    },
+    {
+      "number": 92,
+      "puzzleId": "EV9rj",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 803,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rf6+",
+        "Ke4",
+        "Rxf7"
+      ]
+    },
+    {
+      "number": 93,
+      "puzzleId": "4QY8v",
+      "theme": "mateIn2",
+      "pieces": 8,
+      "rating": 814,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "g4+",
+        "Kh4",
+        "Rxh2#"
+      ]
+    },
+    {
+      "number": 94,
+      "puzzleId": "GJZnc",
+      "theme": "pin",
+      "pieces": 6,
+      "rating": 865,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "h8=Q",
+        "c1=Q",
+        "Qxg7+"
+      ]
+    },
+    {
+      "number": 95,
+      "puzzleId": "qFf3z",
+      "theme": "skewer",
+      "pieces": 4,
+      "rating": 811,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rg6+",
+        "Kf5",
+        "Rxg1"
+      ]
+    },
+    {
+      "number": 96,
+      "puzzleId": "FYIFJ",
+      "theme": "discoveredAttack",
+      "pieces": 14,
+      "rating": 801,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bf8+",
+        "Kxf8",
+        "Qxd7"
+      ]
+    },
+    {
+      "number": 97,
+      "puzzleId": "I9q6R",
+      "theme": "fork",
+      "pieces": 8,
+      "rating": 802,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Be3+",
+        "Kh1",
+        "Bxd4"
+      ]
+    },
+    {
+      "number": 98,
+      "puzzleId": "kHhl7",
+      "theme": "mateIn2",
+      "pieces": 8,
+      "rating": 824,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nf6+",
+        "Kh8",
+        "Rh7#"
+      ]
+    },
+    {
+      "number": 99,
+      "puzzleId": "Qyfo5",
+      "theme": "pin",
+      "pieces": 7,
+      "rating": 818,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rg8",
+        "Kf1",
+        "Rxg6"
+      ]
+    },
+    {
+      "number": 100,
+      "puzzleId": "ot1Tx",
+      "theme": "skewer",
+      "pieces": 7,
+      "rating": 846,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "h1=Q+",
+        "Ke6",
+        "Qxb7"
+      ]
+    },
+    {
+      "number": 101,
+      "puzzleId": "HCI2v",
+      "theme": "discoveredAttack",
+      "pieces": 10,
+      "rating": 839,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rd8+",
+        "Rxd8",
+        "Qxc6"
+      ]
+    },
+    {
+      "number": 102,
+      "puzzleId": "ALeFm",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 805,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Ng5+",
+        "Kg2",
+        "Nxe6"
+      ]
+    },
+    {
+      "number": 103,
+      "puzzleId": "oPZOO",
+      "theme": "mateIn2",
+      "pieces": 8,
+      "rating": 858,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qd8+",
+        "Ka7",
+        "Qb8#"
+      ]
+    },
+    {
+      "number": 104,
+      "puzzleId": "N98qH",
+      "theme": "pin",
+      "pieces": 10,
+      "rating": 831,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bc6",
+        "Kh3",
+        "Bxd5"
+      ]
+    },
+    {
+      "number": 105,
+      "puzzleId": "j7qde",
+      "theme": "skewer",
+      "pieces": 8,
+      "rating": 831,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Be6+",
+        "Kc3",
+        "Bxa2"
+      ]
+    },
+    {
+      "number": 106,
+      "puzzleId": "S9X88",
+      "theme": "discoveredAttack",
+      "pieces": 6,
+      "rating": 858,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "f3+",
+        "Ke3",
+        "Rxa4"
+      ]
+    },
+    {
+      "number": 107,
+      "puzzleId": "PX6hB",
+      "theme": "fork",
+      "pieces": 7,
+      "rating": 825,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bg5+",
+        "Kd4",
+        "Bxh6"
+      ]
+    },
+    {
+      "number": 108,
+      "puzzleId": "o1XtO",
+      "theme": "mateIn2",
+      "pieces": 6,
+      "rating": 900,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Kf4",
+        "g5",
+        "fxg5#"
+      ]
+    },
+    {
+      "number": 109,
+      "puzzleId": "rUxjQ",
+      "theme": "defensiveMove",
+      "pieces": 5,
+      "rating": 914,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "e7",
+        "Rb8",
+        "Kf7"
+      ]
+    },
+    {
+      "number": 110,
+      "puzzleId": "7KlU7",
+      "theme": "promotion",
+      "pieces": 7,
+      "rating": 902,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nd5+",
+        "Nxd5",
+        "b1=Q"
+      ]
+    },
+    {
+      "number": 111,
+      "puzzleId": "ELS6A",
+      "theme": "fork",
+      "pieces": 7,
+      "rating": 903,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rd5+",
+        "Ke4",
+        "Rxd8"
+      ]
+    },
+    {
+      "number": 112,
+      "puzzleId": "8gLKC",
+      "theme": "pin",
+      "pieces": 9,
+      "rating": 911,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Nf4+",
+        "Kh2",
+        "Nxe2"
+      ]
+    },
+    {
+      "number": 113,
+      "puzzleId": "coXR9",
+      "theme": "skewer",
+      "pieces": 4,
+      "rating": 906,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rh3+",
+        "Kf4",
+        "Rxb3"
+      ]
+    },
+    {
+      "number": 114,
+      "puzzleId": "tIuvb",
+      "theme": "mateIn2",
+      "pieces": 5,
+      "rating": 922,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Qh1+",
+        "Kg5",
+        "Qh6#"
+      ]
+    },
+    {
+      "number": 115,
+      "puzzleId": "bBEcG",
+      "theme": "defensiveMove",
+      "pieces": 6,
+      "rating": 904,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kg5",
+        "Kh7",
+        "Kxh4"
+      ]
+    },
+    {
+      "number": 116,
+      "puzzleId": "91Feu",
+      "theme": "promotion",
+      "pieces": 5,
+      "rating": 902,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "c1=Q+",
+        "Qxc1+",
+        "Kxc1"
+      ]
+    },
+    {
+      "number": 117,
+      "puzzleId": "i8WWe",
+      "theme": "fork",
+      "pieces": 5,
+      "rating": 915,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Na6+",
+        "Kb5",
+        "Nxc5"
+      ]
+    },
+    {
+      "number": 118,
+      "puzzleId": "ySohE",
+      "theme": "pin",
+      "pieces": 5,
+      "rating": 944,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rg4",
+        "Kd3",
+        "Rxe4"
+      ]
+    },
+    {
+      "number": 119,
+      "puzzleId": "FYj8R",
+      "theme": "skewer",
+      "pieces": 6,
+      "rating": 911,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qd7+",
+        "Kc3",
+        "Qxd1"
+      ]
+    },
+    {
+      "number": 120,
+      "puzzleId": "DLT7M",
+      "theme": "mateIn2",
+      "pieces": 4,
+      "rating": 917,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra1+",
+        "Qc1",
+        "Rxc1#"
+      ]
+    },
+    {
+      "number": 121,
+      "puzzleId": "jjxJO",
+      "theme": "defensiveMove",
+      "pieces": 7,
+      "rating": 952,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qxc4+",
+        "Kxc4",
+        "h5"
+      ]
+    },
+    {
+      "number": 122,
+      "puzzleId": "JT8RS",
+      "theme": "promotion",
+      "pieces": 5,
+      "rating": 944,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kg2",
+        "Ra8",
+        "f1=Q"
+      ]
+    },
+    {
+      "number": 123,
+      "puzzleId": "ucJgS",
+      "theme": "fork",
+      "pieces": 7,
+      "rating": 912,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Be3+",
+        "Kxc4",
+        "Bxg1"
+      ]
+    },
+    {
+      "number": 124,
+      "puzzleId": "9MWeV",
+      "theme": "pin",
+      "pieces": 7,
+      "rating": 1000,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "g2",
+        "Nf2",
+        "g1=Q"
+      ]
+    },
+    {
+      "number": 125,
+      "puzzleId": "R7rkG",
+      "theme": "skewer",
+      "pieces": 7,
+      "rating": 917,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "a8=Q+",
+        "Kxc5",
+        "Qxf3"
+      ]
+    },
+    {
+      "number": 126,
+      "puzzleId": "3Uehu",
+      "theme": "mateIn2",
+      "pieces": 5,
+      "rating": 928,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Kb3",
+        "Bd2",
+        "a2#"
+      ]
+    },
+    {
+      "number": 127,
+      "puzzleId": "0DWW4",
+      "theme": "defensiveMove",
+      "pieces": 8,
+      "rating": 944,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rxc5",
+        "Kxc5",
+        "h5"
+      ]
+    },
+    {
+      "number": 128,
+      "puzzleId": "kRFEi",
+      "theme": "promotion",
+      "pieces": 6,
+      "rating": 977,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bxg8",
+        "Kxg8",
+        "b1=Q"
+      ]
+    },
+    {
+      "number": 129,
+      "puzzleId": "5els0",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 943,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "g3+",
+        "Kg5",
+        "gxf4+"
+      ]
+    },
+    {
+      "number": 130,
+      "puzzleId": "Zhtup",
+      "theme": "pin",
+      "pieces": 9,
+      "rating": 931,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bg6",
+        "Qxg6+",
+        "Kxg6"
+      ]
+    },
+    {
+      "number": 131,
+      "puzzleId": "Xdfnr",
+      "theme": "skewer",
+      "pieces": 4,
+      "rating": 917,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Re1+",
+        "Kd2",
+        "Rxe4"
+      ]
+    },
+    {
+      "number": 132,
+      "puzzleId": "l9ldz",
+      "theme": "mateIn2",
+      "pieces": 4,
+      "rating": 947,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "g1=Q+",
+        "Kh3",
+        "Qg3#"
+      ]
+    },
+    {
+      "number": 133,
+      "puzzleId": "smK7J",
+      "theme": "defensiveMove",
+      "pieces": 6,
+      "rating": 909,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Kxe4",
+        "Kc5",
+        "Kd3"
+      ]
+    },
+    {
+      "number": 134,
+      "puzzleId": "GjkKc",
+      "theme": "promotion",
+      "pieces": 6,
+      "rating": 966,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rg4+",
+        "Kc3",
+        "g1=Q"
+      ]
+    },
+    {
+      "number": 135,
+      "puzzleId": "cuZ9e",
+      "theme": "fork",
+      "pieces": 6,
+      "rating": 900,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Ng3+",
+        "Kg6",
+        "Nxf1"
+      ]
+    },
+    {
+      "number": 136,
+      "puzzleId": "rDKeL",
+      "theme": "pin",
+      "pieces": 6,
+      "rating": 942,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Rc4",
+        "Kg4",
+        "Rxe4+"
+      ]
+    },
+    {
+      "number": 137,
+      "puzzleId": "yZv2l",
+      "theme": "skewer",
+      "pieces": 5,
+      "rating": 903,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bd6+",
+        "Kd4",
+        "Bxf4"
+      ]
+    },
+    {
+      "number": 138,
+      "puzzleId": "5tmsY",
+      "theme": "mateIn2",
+      "pieces": 7,
+      "rating": 936,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Nf5+",
+        "Kh3",
+        "Rg3#"
+      ]
+    },
+    {
+      "number": 139,
+      "puzzleId": "O8OXm",
+      "theme": "defensiveMove",
+      "pieces": 6,
+      "rating": 956,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Bxc2",
+        "a7",
+        "Be4"
+      ]
+    },
+    {
+      "number": 140,
+      "puzzleId": "zxGSz",
+      "theme": "promotion",
+      "pieces": 5,
+      "rating": 918,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "h7",
+        "Rxa7",
+        "h8=Q+"
+      ]
+    },
+    {
+      "number": 141,
+      "puzzleId": "0Fvdo",
+      "theme": "fork",
+      "pieces": 7,
+      "rating": 916,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qxf2+",
+        "Kh3",
+        "Qxe1"
+      ]
+    },
+    {
+      "number": 142,
+      "puzzleId": "DpNic",
+      "theme": "pin",
+      "pieces": 12,
+      "rating": 936,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "Qf5",
+        "Qxf5+",
+        "Kxf5"
+      ]
+    },
+    {
+      "number": 143,
+      "puzzleId": "Vjbtq",
+      "theme": "skewer",
+      "pieces": 6,
+      "rating": 909,
+      "playerMoves": 2,
+      "side": "黑",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": false,
+      "san": [
+        "d4+",
+        "Kf4",
+        "Rxf5+"
+      ]
+    },
+    {
+      "number": 144,
+      "puzzleId": "Zuu3O",
+      "theme": "mateIn2",
+      "pieces": 4,
+      "rating": 918,
+      "playerMoves": 2,
+      "side": "白",
+      "originalLineLegal": true,
+      "mateAllDefencesVerified": true,
+      "san": [
+        "Ra8+",
+        "Qa5",
+        "Rxa5#"
+      ]
+    }
+  ]
+}

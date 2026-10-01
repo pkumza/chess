@@ -1,0 +1,26 @@
+{
+  "source": "https://database.lichess.org/#puzzles",
+  "license": "CC0-1.0",
+  "retrievedAt": "2026-10-01",
+  "inputSha256": "bce33ff9f59844a07c9c85466cca7d7c24ffe3babb1f8e3a4f2c34dbb834ce71",
+  "scannedCompleteRows": 1343564,
+  "selected": 1000,
+  "chapters": {
+    "吃无保护棋子": 100,
+    "双重攻击": 100,
+    "牵制": 100,
+    "串击": 100,
+    "闪击": 100,
+    "防守": 100,
+    "消除保护": 100,
+    "引离防守": 100,
+    "升变": 100,
+    "中间着": 100
+  },
+  "sides": {
+    "white": 497,
+    "black": 503
+  },
+  "validation": "Original positions and official lines unchanged; all setup and solution moves legal; all positions valid; no duplicate starting positions; original 100 puzzle IDs excluded.",
+  "limitations": "Legality validation does not independently prove optimality or every defensive branch. Themes and answers supplied by Lichess. Not a complete annotated teaching course."
+}

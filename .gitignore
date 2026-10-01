@@ -1,0 +1,13 @@
+.tools/
+.gradle/
+**/build/
+local.properties
+.signing/
+*.iml
+.idea/
+.kotlin/
+artifacts/
+curriculum/progression/candidates.csv
+__pycache__/
+*.pyc
+.DS_Store
