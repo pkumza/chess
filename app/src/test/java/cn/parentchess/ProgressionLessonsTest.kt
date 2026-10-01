@@ -17,6 +17,28 @@ class ProgressionLessonsTest {
     }
     private fun lessons() = LessonCatalog.parse(File("src/main/assets/progression-lessons.json").readText())
 
+    @Test fun hintsFollowEveryAcceptedDefenceAndNeverMutateThePosition() {
+        lessons().forEach { lesson ->
+            lesson.lines.forEach { line ->
+                var responseIndex = 1
+                val attempt = LessonAttempt(lesson) { line[responseIndex].also { responseIndex += 2 } }
+                line.filterIndexed { index, _ -> index % 2 == 0 }.forEach { uci ->
+                    val before = attempt.game.board.fen
+                    val observed = requireNotNull(attempt.hint(false))
+                    assertNull(observed.move)
+                    val revealed = requireNotNull(attempt.hint(true))
+                    val next = requireNotNull(revealed.move)
+                    assertTrue(next in attempt.game.legal())
+                    assertTrue(lesson.lines.any { it.take(attempt.played.size + 1) == attempt.played + next.uci() })
+                    assertEquals(before, attempt.game.board.fen)
+                    assertTrue(attempt.move(uci))
+                }
+                assertNull(attempt.nextMove())
+                assertNull(attempt.hint(true))
+            }
+        }
+    }
+
     @Test fun originalSolutionsWorkForBothSidesAndFinishOnlyAtTheStatedEndpoint() {
         val lessons = lessons()
         assertTrue(lessons.any { ChessGame(it.fen).board.sideToMove == Side.BLACK })

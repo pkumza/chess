@@ -86,8 +86,7 @@ class ChessViewModel(app: Application) : AndroidViewModel(app) {
         if (current.retry && screen == "lesson") {
             selected = current.travels.first().from
             val a = attempt!!
-            highlighted = a.lesson.lines.firstOrNull { it.take(a.played.size) == a.played }
-                ?.getOrNull(a.played.size)?.let { uci -> game.legal().firstOrNull { it.uci() == uci } }
+            highlighted = a.nextMove()
             selected = highlighted?.from ?: current.travels.first().from
             feedback = if (current.blocked) "走不到这里，试试亮起的格子。" else "再试试亮起的格子。"
         }
@@ -207,14 +206,10 @@ class ChessViewModel(app: Application) : AndroidViewModel(app) {
         if (screen == "lesson") {
             if (animations.isNotEmpty() || attempt!!.complete) return
             val a = attempt!!
-            val uci = a.lesson.lines.firstOrNull { it.take(a.played.size) == a.played }?.getOrNull(a.played.size)
-            val next = game.legal().firstOrNull { it.uci() == uci }
-            if (hintIndex == 0 && a.played.isEmpty()) feedback = a.lesson.hints.first()
-            else if (next != null) {
-                selected = next.from; highlighted = next
-                val promotionHint = if (next.promotion == Piece.NONE) "" else "，升变成${next.promotion.chinese()}"
-                feedback = "试试${game.board.getPiece(next.from).chinese()}从 ${next.from} 到 ${next.to}$promotionHint。"
-            }
+            val hint = a.hint(revealMove = hintIndex > 0) ?: return
+            feedback = hint.text
+            highlighted = hint.move
+            selected = hint.move?.from
             hintIndex++; narrate(feedback); return
         }
         if (!assistance || game.result != null || thinking || (screen == "bot" && game.board.sideToMove != humanSide)) return

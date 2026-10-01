@@ -4,7 +4,7 @@ import subprocess, sys, pathlib, xml.etree.ElementTree as ET, re, time
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 ADB = [str(ROOT/'scripts/adb.sh'), '-s', '6fa3dae4']
 def adb(*args):
-    return subprocess.check_output(ADB + list(args))
+    return subprocess.check_output(ADB + list(args), timeout=45)
 def tree():
     adb('shell','uiautomator','dump','/sdcard/parentchess-ui.xml')
     data = adb('exec-out','cat','/sdcard/parentchess-ui.xml').decode()
